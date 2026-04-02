@@ -1012,10 +1012,10 @@ LittlerootTown_Text_CanUsePCToStoreItems:
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
 	.string "Dienen prof. zit godganse doah'n in 't LAB\n"
-	.string "zogezegd aan 't "blokken"\l"
+	.string "zogezegd aan 't 'blokken'\l"
 	.string "Zjiveraar...dien 'eeft toch gin exam'ns?\p"
-	.string "Aje't mie zou vroagen, allez, 'k wille niets
-	.string "insinuer'n eh, ma 'k zehhet mo...'\n"
+	.string "Aje't mie zou vroagen, allez, 'k wille niets\n"
+	.string "insinuer'n eh, ma 'k zehhet mo...'\p"
 	.string "is 't ie em feitelijk ooit thus?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:

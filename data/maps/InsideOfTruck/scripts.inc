@@ -54,5 +54,5 @@ InsideOfTruck_EventScript_MovingBox::
 InsideOfTruck_Text_BoxPrintedWithMonLogo:
 	.string "Ip de doze stoat er:\n"
 	.string "KLEIN GEVAARLIJK AFVAL\p"
-	.string "Een familiair hevoel..."\p
+	.string "Een familiair hevoel...\p"
 	.string "$"

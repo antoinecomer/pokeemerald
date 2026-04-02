@@ -292,106 +292,110 @@ LittlerootTown_BrendansHouse_1F_Movement_BrendanGoUpstairs2:
 	step_end
 
 PlayersHouse_1F_Text_IsntItNiceInHere:
-	.string "Mom: See, {PLAYER}?\n"
-	.string "Isn't it nice in here, too?$"
+	.string "MAMA: Ziet, {PLAYER}?\n"
+	.string "Is 't ier nie gezellig, zeg?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "The mover's Pokémon do all the work\n"
-	.string "of moving us in and cleaning up after.\l"
-	.string "This is so convenient!\p"
-	.string "{PLAYER}, your room is upstairs.\n"
-	.string "Go check it out, dear!\p"
-	.string "Dad bought you a new clock to mark\n"
-	.string "our move here.\l"
-	.string "Don't forget to set it!$"
+	.string "De ver'uisploeg rekent nu ip\n"
+	.string "die oapen om under vul werk te doen.\l"
+	.string ".......?\p"
+	.string "'ebk 'k weer 'ntwa miszegd?\p"
+	.string "{PLAYER}, ga ma ne ke je kamer\n"
+	.string "goan bewonderen ip 't eerste!\p"
+	.string "Papa ee'd u een nieuw horloge gekocht\n"
+	.string "ma ge gaat ze nog juste moeten zett'n.\p"
+	.string "$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-	.string "Mom: Well, {PLAYER}?\p"
-	.string "Aren't you interested in seeing your\n"
-	.string "very own room?$"
+	.string "MAMA: Awel, {PLAYER}?\p"
+	.string "Zije nie curieus jen eigen kamer\n"
+	.string "te goan bewonderen?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
-	.string "Mom: {PLAYER}.\p"
-	.string "Go set the clock in your room, honey.$"
+	.string "MAMA: {PLAYER}.\p"
+	.string "Die horloge aan de mure sta nie juste whe.$"
 
 PlayersHouse_1F_Text_OhComeQuickly:
-	.string "Mom: Oh! {PLAYER}, {PLAYER}!\n"
-	.string "Quick! Come quickly!$"
+	.string "MAMA: SEG! {PLAYER}, {PLAYER}!\n"
+	.string "KOM KE! SKIET U!$"
 
 PlayersHouse_1F_Text_MaybeDadWillBeOn:
-	.string "Mom: Look! It's Petalburg Gym!\n"
-	.string "Maybe Dad will be on!$"
+	.string "MAMA: Kiekt! Tis de gym van uw pa!\n"
+	.string "Miskien da PAPA ip TEEVEE komt!$"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-	.string "Mom: Oh… It's over.\p"
-	.string "I think Dad was on, but we missed him.\n"
-	.string "Too bad.$"
+	.string "MAMA: Mor allez, 't is al gepasseerd.\p"
+	.string "'k Peize dawem juste gemist ein.\n"
+	.string "Dju toch.$"
 
 PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
-	.string "Oh, yes.\n"
-	.string "One of Dad's friends lives in town.\p"
-	.string "Prof. Birch is his name.\p"
-	.string "He lives right next door, so you should\n"
-	.string "go over and introduce yourself.$"
+	.string "Ah nog iet.\n"
+	.string "Jin van de beste moatn van uw pa,\p"
+	.string "Gerrit Callewaert is zinne noame.\p"
+	.string "Ie zo'd ierneffest moet'n weun'n,\n"
+	.string "dus goaje ke gon voorstellen.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-	.string "Mom: See you, honey!$"
+	.string "MAMA: Salut! Dikke zoen!$"
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-	.string "Mom: Did you introduce yourself to\n"
-	.string "Prof. Birch?$"
+	.string "MAMA: Eje u al voorgesteld\n"
+	.string "aan den professor?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
-	.string "Mom: How are you doing, {PLAYER}?\n"
-	.string "You look a little tired.\p"
-	.string "I think you should rest a bit.$"
+	.string "MAMA: Oe ist met u, {PLAYER}?\n"
+	.string "Ge ziet er gelik wa moe ut.\p"
+	.string "Zoudje ier geen tukske doen?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit_PokecenterChallenge:
-	.string "Mom: Sorry honey, you are playing\n"
-	.string "with the Pokécenter challenge!$"
+	.string "MAMA: Kzou zeh'n doet een tukske...\n"
+	.string "ma aje PKCenter-challenge doe...nie trunt'n!$"
 
 PlayersHouse_1F_Text_TakeCareHoney:
-	.string "Mom: Take care, honey!$"
+	.string "MAMA: Veel courage! En dikke zoen$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-	.string "Mom: Oh? Did Dad give you that Badge?\p"
-	.string "Then here's something from your Mom!$"
+	.string "MAMA: Oh? Eje die Medaille van uw vaadre?\p"
+	.string "Ier is een cadeautje van U MOEDER!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-	.string "Don't push yourself too hard, dear.\n"
-	.string "You can always come home.\p"
-	.string "Go for it, honey!$"
+	.string "Droagt toch zorg voor uzelf eh\n"
+	.string "We zien u zo geirn, da witje toch e!\p"
+	.string "En ge zit alsan welkom tus!$"
 
 PlayersHouse_1F_Text_IsThatAPokenav:
-	.string "Mom: What is that, honey? A Pokénav?\n"
-	.string "Someone from Devon gave it to you?\p"
-	.string "Well, honey, how about registering\n"
-	.string "your mom?\p"
+	.string "MAMA: Waddis da daar? Ne nieuwe GSM?\n"
+	.string "Gekregen van n'twien van BARCO?\p"
+	.string "Voegt mie ma zjirre toe\p"
+	.string "En ge gaat mie toch af en toe\n"
+	.string "een belleke geven?\p"
 	.string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Registered Mom\n"
-	.string "in the Pokénav.$"
+	.string "MAMA is heregisteerd\n"
+	.string "in minne PokéGSM.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-	.string "Fugiiiiih!$"
+	.string "Fugiiiiih!\p"
+	.string "'t Is ne raren oap. Laat em ma doen\p"
+	.string "$"
 
 PlayersHouse_1F_Text_Vigoroth2:
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "Interviewer: …We brought you this\n"
+	.string "Interviewer: …Van zodra\n"
 	.string "report from in front of Petalburg Gym.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
-	.string "There is a movie on TV.\p"
-	.string "Two men are dancing on a big piano\n"
-	.string "keyboard.\p"
-	.string "Better get going!$"
+	.string "'t Is een serie ip Teevee\p"
+	.string "Ne vint in z'n rwo 'emdje klapt tegen\n"
+	.string "zinnen 'ond. En dien 'ond klapt terug?\p"
+	.string "SAMSON: MWOAAAA GERTJEUH!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-	.string "It's the instruction booklet for the\n"
-	.string "Running Shoes.\p"
+	.string "'t Is 't boekske da in de\n"
+	.string "skoendoze zat van min baskets.\p"
 	.string "“Press the B Button to run while\n"
 	.string "wearing your Running Shoes.\p"
 	.string "“Lace up your Running Shoes and hit\n"
