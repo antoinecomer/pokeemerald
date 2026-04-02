@@ -325,23 +325,23 @@ LittlerootTown_MaysHouse_1F_Movement_MayGoUpstairs2:
 	step_end
 
 RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
-	.string "Oh, hello. And you are?\p"
-	.string "… … … … … … … … …\n"
+	.string "Aaaah wie da we daar 'ebben!\p"
+	.string "Ma serieus eigenlijk, wie zije gij?\n"
 	.string "… … … … … … … … …\p"
-	.string "Oh, you're {PLAYER}{KUN}, our new next-door\n"
-	.string "neighbor! Hi!\p"
-	.string "We have a {STR_VAR_1} about the same\n"
-	.string "age as you.\p"
-	.string "Our {STR_VAR_1} was excited about making\n"
-	.string "a new friend.\p"
-	.string "Our {STR_VAR_1} is upstairs, I think.$"
+	.string "Aah! Ma gij zijt {PLAYER}{KUN}, onze\n"
+	.string "nieuwen buur! Aangenoam!\p"
+	.string "Wij ebben een {STR_VAR_1} die verre\n"
+	.string "dezelfde leeftijd lik gij 'eeft\p"
+	.string "en der echt noar uitkeek om een\n"
+	.string "nieuw vriendje te moakn!\p"
+	.string "Min {STR_VAR_1} zit bwôven, peizekik.$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:
-	.string "Like child, like father.\p"
-	.string "My husband is as wild about Pokémon\n"
-	.string "as our child.\p"
-	.string "If he's not at his Lab, he's likely\n"
-	.string "scrabbling about in grassy places.$"
+	.string "Zo kind zo vader.\p"
+	.string "Minne vent is zot van Pokémon\n"
+	.string "just lik ons kind.\p"
+	.string "Als 't ie nie in z'n Lab skimmelt,\n"
+	.string "zit ie in 't hes.$"
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "That {RIVAL}!\p"

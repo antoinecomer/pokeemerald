@@ -289,32 +289,34 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-	.string "The clock is stopped…\p"
-	.string "Better set it and start it!$"
+	.string "'t Zit'n gin pielen in 't horloge…\p"
+	.string "We gaan da zjirre in orde brengen..!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "Mom: {PLAYER}, how do you like your\n"
-	.string "new room?\p"
-	.string "Good! Everything's put away neatly!\p"
-	.string "They finished moving everything in\n"
-	.string "downstairs, too.\p"
-	.string "Pokémon movers are so convenient!\p"
-	.string "Oh, you should make sure that\n"
-	.string "everything's all there on your desk.$"
+	.string "MAMA: {PLAYER}, wa peisdje van uw\n"
+	.string "nieuwe kamer?\p"
+	.string "Kzie dat al skwonne gerangeerd is!\p"
+	.string "Die oapen zin allichte gerjee me\n"
+	.string "de benedenverdieping.\p"
+	.string "Toch handig algelik, zo n'en oap in 'us?\p"
+	.string "............\p"
+	.string "Wuk.\p"
+	.string "Zije zeker da alles nog ligt\n"
+	.string "ip uwen bureau?$"
 
 PlayersHouse_2F_Text_Notebook:
-	.string "{PLAYER} flipped open the notebook.\p"
-	.string "Adventure Rule No. 1\n"
-	.string "Open the menu with Start.\p"
-	.string "Adventure Rule No. 2\n"
-	.string "Record your progress with Save.\p"
-	.string "The remaining pages are blank…$"
+	.string "{PLAYER} sloat 'et notitieboekske open.\p"
+	.string "Regels voor Avonturiers: Nr. 1\n"
+	.string "Open uw menu met Start.\p"
+	.string "Regels voor Avonturiers: Nr. 2\n"
+	.string "Sla uw vooruitgang op met Opslaan.\p"
+	.string "Wukne mutten e' dien bucht ier geskreven…$"
 
 Common_Text_LookCloserAtMap:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "Hoenn region map.$"
+	.string "{PLAYER} nam een kijkske na zijn\n"
+	.string "pra'htihe koarte van Oen. Hhhoen..$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "It's a Nintendo GameCube.\p"
-	.string "A Game Boy Advance is connected to\n"
-	.string "serve as the Controller.$"
+	.string "Min GameCube!\p"
+	.string "Wind Waker, Melee, Double Dash...\n"
+	.string "Miskien bluv ik gewôn ier?$"

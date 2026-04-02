@@ -96,7 +96,7 @@ gText_Birch_YourePlayer::
 	.string "Ah ma hotvert, 't is just!\p"
 	.string "Gij zijt gij mijnen nieuwen buur!\p"
 	.string "Past ip daje niet te veel lawaai maakt\n"
-	.string "na 10 uur, ik weet u wonen é!\l"
+	.string "na ten tienen, ik weet u wonen é!\l"
 	.string "'k Doe u een proces aan!\p"
 	.string "......................\p"
 	.string "'N is ma een graptje éh Pol!\n"
