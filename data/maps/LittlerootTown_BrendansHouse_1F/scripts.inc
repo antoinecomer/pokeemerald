@@ -396,58 +396,59 @@ PlayersHouse_1F_Text_TheresAMovieOnTV:
 PlayersHouse_1F_Text_RunningShoesManual:
 	.string "'t Is 't boekske da in de\n"
 	.string "skoendoze zat van min baskets.\p"
-	.string "“Press the B Button to run while\n"
-	.string "wearing your Running Shoes.\p"
-	.string "“Lace up your Running Shoes and hit\n"
-	.string "the road running!”$"
+	.string "“Druk op B om snel te lwôpen.\n"
+	.string "En aje een wilde Pokémon tegenkomt,\p"
+	.string "hou L+R om direc' weg te lwôp'n!”\n"
+	.string "Da trekt ip niets die instructies.$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
-	.string "Dad: Hm?\p"
-	.string "Hey, it's {PLAYER}!\p"
-	.string "It's been a while since I saw you,\n"
-	.string "but you look…stronger, somehow.\p"
-	.string "That's the impression I get.\n"
-	.string "But your old man hasn't given up yet!\p"
-	.string "Oh, yes, I have something for you.\n"
-	.string "This came to you from someone named\l"
-	.string "Mr. Briney.$"
+	.string "PAPA: Hm?\p"
+	.string "Moh, 't is {PLAYER}!\p"
+	.string "'t Is al een endje geleden eh?\n"
+	.string "Ge zijt hehroeid. En sterker! 'k Zie 't!\p"
+	.string "Toch althans den indruk da'k krigge.\n"
+	.string "Ma nog lang nie evensterke lik uw pa!\p"
+	.string "A 't is juste, kheb nog iet voor u.\n"
+	.string "Pakketje van een zekere...\l"
+	.string "Meneer Demesmaeker.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
-	.string "Dad: Hm, a Ticket for a ferry?\p"
-	.string "If I recall, there are ferry ports in\n"
-	.string "Slateport and Lilycove.$"
+	.string "PAPA: Hm, een ticket vo de ferry?\p"
+	.string "'k Moe ne ke peizen, der zin ferry's in\n"
+	.string "Nieuwpoort en Oostende ting mie.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "I'd better get back to Petalburg Gym.\p"
-	.string "Mom, thanks for looking after the house\n"
-	.string "while I'm away.$"
+	.string "'t is mij weer jin aant opwachten in de Gym\p"
+	.string "veur een pandoring!\n"
+	.string "'t Zal zinnen besten dag nie zin!$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "Mom: That Dad of yours…\p"
-	.string "He comes home for the first time in a\n"
-	.string "while, but all he talks about is Pokémon.\p"
-	.string "He should relax and stay a little longer.$"
+	.string "MAMA: Uw vaadre, 't is ne vreej'n\p"
+	.string "Ie is nwooi tus, en a't'ie tus e,\n"
+	.string "'t gaat em altid om die Pokémonsters...'.\p"
+	.string "En bebie mag weer den afwas doen.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-	.string "Mom: Is that a breaking news story?$"
+	.string "MAMA: Owla, 't is grwo nieuws ip Teevee$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "We bring you this emergency\n"
-	.string "news flash!\p"
-	.string "In various Hoenn locales, there have\n"
-	.string "been reports of a Bzzt…colored\l"
-	.string "Pokémon in flight.\p"
-	.string "The identity of this Pokémon is\n"
-	.string "currently unknown.\p"
-	.string "We now return you to the regular\n"
-	.string "movie program.$"
+	.string "VRT: Er zijn verschillende meldingen\n"
+	.string "over heel West-Vlaanderen\p"
+	.string "van een felgekleurde, vliegende\n"
+	.string "Pokémon. Een legendarisch unicum,\l"
+	.string "zegt getuige Ronny van Torhout.\p"
+	.string "RONNY: “ik stonne just in minnen of\n"
+	.string "'k Was et gazon aan 't afrie'en\p"
+	.string "en ik zweer et u da wa”-Bzzzt\n"
+	.string "bzzzzzzzzzzzzzz....\p"
+	.string "MAMA: Ellendige Belgacom TV!.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "Mom: {PLAYER}, did you catch that?\p"
-	.string "What color did the announcer say\n"
-	.string "that Pokémon was?$"
+	.string "MAMA: {PLAYER}, eje da gewôrd??\p"
+	.string "Welk kleur zeitie da da\n"
+	.string "Pokémonster was?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-	.string "Mom: Well, isn't that something!\n"
-	.string "There are still unknown Pokémon.$"
+	.string "MAMA: Allez zeg!\n"
+	.string "Dat er nu nog altid Pokémon ontdekt word'n.$"
 
