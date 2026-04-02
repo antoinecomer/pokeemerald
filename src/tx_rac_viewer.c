@@ -193,8 +193,8 @@ static const u8 sText_Chk_MirrorThief[]       = _("MIRROR THIEF");
 //Options
 static const u8 sText_On[]  = _("On");
 static const u8 sText_Off[] = _("Off");
-static const u8 sText_Yes[]   = _("Yes");
-static const u8 sText_No[]    = _("No");
+static const u8 sText_Yes[]   = _("Joa");
+static const u8 sText_No[]    = _("Nin");
 static const u8 sText_Original[]  = _("Original");
 static const u8 sText_Modern[]    = _("Modern");
 static const u8 sText_RTC[]     = _("RTC");
@@ -240,8 +240,8 @@ static const u8 sEM_0x[]   = _("0x");
 static const u8 *const sText_Diff_ExpMult_Strings[] = {
     sEM_1x, sEM_15x, sEM_2x, sEM_0x
 };
-static const u8 sIVs_Yes[]   = _("Yes");
-static const u8 sIVs_No[]    = _("No");
+static const u8 sIVs_Yes[]   = _("Joa");
+static const u8 sIVs_No[]    = _("Nin");
 static const u8 sIVs_NoHP[]  = _("No (HP)");
 static const u8 *const sText_Diff_PlayerIVs_Strings[] = {
     sIVs_Yes, sIVs_No, sIVs_NoHP

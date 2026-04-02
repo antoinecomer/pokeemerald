@@ -1977,7 +1977,7 @@ static void DrawChoices_New_Backgrounds(int selection, int y)
     DrawOptionMenuChoice(sText_New, GetStringRightAlignXOffset(1, sText_New, 198), y, styles[1], active);
 }
 
-static const u8 sText_No[]        = _("No");
+static const u8 sText_No[]        = _("Nin");
 static const u8 sText_LR[]        = _("L+R+A");
 static const u8 sText_B[]         = _("B->A");
 static const u8 sText_B_2[]       = _("B");

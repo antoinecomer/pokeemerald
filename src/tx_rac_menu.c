@@ -2517,8 +2517,8 @@ static void DrawChoices_Nuzlocke_Deletion(int selection, int y)
 }
 
 // MENU_DIFFICULTY
-static const u8 sText_Yes[] = _("Yes");
-static const u8 sText_No[]  = _("No");
+static const u8 sText_Yes[] = _("Joa");
+static const u8 sText_No[]  = _("Nin");
 static void DrawChoices_Challenges_YesNo(int selection, int y, bool8 active)
 {
     u8 styles[2] = {0};

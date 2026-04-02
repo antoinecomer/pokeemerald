@@ -79,7 +79,7 @@ gText_Birch_ChallengeNormal::
 
 gText_Birch_ChallengeHard::
     .string "'t Zal wel zin!\p"
-    .string "Iekspee hroei niet aan de bwom'n éh\n"
+    .string "Iekspee hroei ier nie aan de bwom'n\n"
     .string "Aje battert, 4 items max, 't is al!\p"
 	.string "Ge kun 't gelik wanneer daje wilt\n"
     .string "de moeilikid nog aanpassen eh\l"
