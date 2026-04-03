@@ -317,6 +317,6 @@ Common_Text_LookCloserAtMap:
 	.string "pra'htihe koarte van Oen. Hhhoen..$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-	.string "Min GameCube!\p"
+	.string "Ne GameCube!\p"
 	.string "Wind Waker, Melee, Double Dash...\n"
 	.string "Miskien bluv ik gewôn ier?$"

@@ -384,7 +384,7 @@ PlayersHouse_1F_Text_Vigoroth2:
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
 	.string "Interviewer: …Alvast hartelijk\n"
 	.string "bedankt voor uw tijd, euh..?\p"
-	.string "PAPA: Skart em$"
+	.string "PAPA: Skart em.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "'t Is een serie ip Teevee\p"

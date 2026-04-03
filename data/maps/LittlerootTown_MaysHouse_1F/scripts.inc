@@ -345,8 +345,8 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "Ons {RIVAL}!\p"
-	.string "'t Kakkernestje is teveelle bezig\n"
-	.string "me die Pokémonsters om te zien\l"
+	.string "Hjil bezeten deur\n"
+	.string "al die Pokémonsters om te zien\l"
 	.string "daje speshiaal ip visite zijt gekomen.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
@@ -414,6 +414,6 @@ RivalsHouse_1F_Text_BrendanWhoAreYou:
 	.string "'n Andere kji, goed?$"
 
 RivalsHouse_1F_Text_DoYouHavePokemon:
-	.string "Ah, de buur!\p"
-	.string "Eje gie al jen eigen\n"
-	.string "Pokémonster?$"
+	.string "Aah, de buur!\p"
+	.string "Mijn naam is Bert. Met de 'E'.\n"
+	.string "De korte 'E'. BERT!$"

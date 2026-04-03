@@ -263,42 +263,42 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "ELP!!! AU SECOURS! S-O-S!!!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my Bag!\n"
-	.string "There's a Poké Ball!$"
+	.string "Ey! Gie daar!!\n"
+	.string "Elp mie ke!\p"
+	.string "In minne zak!\n"
+	.string "'t Zitten Poké Balls in!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "G-GODMILJAARNONDEJU WA PEISDJE?!\n"
+	.string "Loat mie ier nie alleen!$"
 
 Route101_Text_YouSavedMe:
-	.string "Prof. Birch: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "Pokémon when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
+	.string "Prof. C.: Amai, chanceke…\p"
+	.string "Dit is dus waarom dak veldwerk haat eh.\n"
+	.string "Ellendige Zigzagoon.\p"
+	.string "'k Ga mij moeten loaten inenten.\n"
+	.string "Echt merci whe!\p"
 	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my Pokémon Lab later, okay?$"
+	.string "Moh, 't is gij, {PLAYER}{KUN}!\p"
+	.string "How we zin ier vlug weg,\n"
+	.string "we goan bitje verder babbelen in 't lab.$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If Pokémon get tired, take them to\n"
-	.string "a Pokémon Center.\p"
-	.string "There's a Pokémon Center in Oldale\n"
-	.string "Town right close by.$"
+	.string "Als Pokémon moe zin,\n"
+	.string "pak ze mee na 't Pokémon Center.\p"
+	.string "'t Is ier jin beetje verder,\n"
+	.string "in Rosebeke.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild Pokémon will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch Pokémon, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "Aje door da lang hes wandelt,\n"
+	.string "kunnen wilde Pokémon jen aanvallen.\p"
+	.string "Wreed moeilik is 't toch niet?\n"
+	.string "Of moek der een tekeningske bie moaken?$"
 
 Route101_Text_RouteSign:
-	.string "Route 101\n"
-	.string "{UP_ARROW} Oldale Town$"
+	.string "Rutte 101\n"
+	.string "{UP_ARROW} Oostrozebeke$"
 
