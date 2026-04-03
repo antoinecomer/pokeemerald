@@ -963,11 +963,12 @@ LittlerootTown_Text_WaitPlayer:
 
 LittlerootTown_Text_WearTheseRunningShoes:
 	.string "MAMA: {PLAYER}! {PLAYER}! Eje u\n"
-	.string "al voorgesteld aan dien PROF. BERK?\p"
+	.string "al voorgesteld aan de professor?\p"
 	.string "Mwohhh, wa ne koddige POKéMON!\n"
-	.string "Allez, een cadeautje van den Berk?\p"
-	.string "Mohow zeg! Tis toch pateeke!\n"
-	.string "Seg en euh, moeten POKéMON ier aan de leiband?\p"
+	.string "Allez, een cadeautje van de Gerrit?\l"
+	.string "Mohow zeg! Tis toch pateeke!\p"
+	.string "Seg en euh, moeten POKéMON ier\n"
+	.string "aan de leiband?\p"
 	.string "Aja en voordak et vergeet\n"
 	.string "pakt uw nieuwe BASKETS mee!\p"
 	.string "Allez maakt daje wegkomt!$"
@@ -977,15 +978,15 @@ LittlerootTown_Text_SwitchShoesWithRunningShoes:
 	.string "$"
 
 LittlerootTown_Text_GiveOutfitBox:
-	.string "MAMA: Oh! Bikan vergeten!\n"
+	.string "MAMA: Oh! Bikanst vergeten!\n"
 	.string "Ge zou toch algelik nie verre geraken\p"
-	.string "Zonder ne slip en verske kossen?$"
+	.string "Zonder ne slip en een paar verske kossen?$"
 
 LittlerootTown_Text_ExplainOutfitBox:
 	.string "MAMA: Nu kunje \n"
-	.string "whenever you like.\p"
-	.string "Just remember, you need to use the\n"
-	.string "Outfit Box from your Bag.$"
+	.string "jen tenminste omkleden\p"
+	.string "Kheb je kleren in uwe zak\n"
+	.string "gestoken.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
 	.string "MAMA: {PLAYER}, er stond ntwa\n"

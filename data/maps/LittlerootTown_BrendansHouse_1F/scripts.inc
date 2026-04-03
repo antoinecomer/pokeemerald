@@ -296,15 +296,14 @@ PlayersHouse_1F_Text_IsntItNiceInHere:
 	.string "Is 't ier nie gezellig, zeg?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-	.string "De ver'uisploeg rekent nu ip\n"
-	.string "die oapen om under vul werk te doen.\l"
+	.string "De ver'uisploeg engageert nu\n"
+	.string "die oapen om under vul werk te doen.\p"
 	.string ".......?\p"
 	.string "'ebk 'k weer 'ntwa miszegd?\p"
 	.string "{PLAYER}, ga ma ne ke je kamer\n"
 	.string "goan bewonderen ip 't eerste!\p"
 	.string "Papa ee'd u een nieuw horloge gekocht\n"
-	.string "ma ge gaat ze nog juste moeten zett'n.\p"
-	.string "$"
+	.string "ma ge gaat ze nog juste moeten zett'n.$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
 	.string "MAMA: Awel, {PLAYER}?\p"
@@ -377,15 +376,15 @@ PlayersHouse_1F_Text_RegisteredMom:
 
 PlayersHouse_1F_Text_Vigoroth1:
 	.string "Fugiiiiih!\p"
-	.string "'t Is ne raren oap. Laat em ma doen\p"
-	.string "$"
+	.string "'t Is ne raren oap. Laat em ma doen$"
 
 PlayersHouse_1F_Text_Vigoroth2:
 	.string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-	.string "Interviewer: …Van zodra\n"
-	.string "report from in front of Petalburg Gym.$"
+	.string "Interviewer: …Alvast hartelijk\n"
+	.string "bedankt voor uw tijd, euh..?\p"
+	.string "PAPA: Skart em$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
 	.string "'t Is een serie ip Teevee\p"
