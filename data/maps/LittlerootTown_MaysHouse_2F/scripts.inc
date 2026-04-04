@@ -340,7 +340,7 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "Aangenoame!\p"
 	.string "Ik eh…\n"
 	.string "Min drome is om moat'n te weur'n\l"
-	.string "me Pokémonsters over hjil de weireld.\p"
+	.string "me Pokémons over hjil de weireld.\p"
 	.string "Ik e… 'k Hebbe 'k ik al veel over u\n"
 	.string "gewôrd, {PLAYER}{KUN}.\p"
 	.string "'k Ad ergens gewhôpt daje lief zo zin,\n"
@@ -354,7 +354,7 @@ RivalsHouse_2F_Text_MayWhoAreYou:
 	.string "Salutjes eh, {PLAYER}{KUN}!$"
 
 RivalsHouse_2F_Text_MayGettingReady:
-	.string "Pokémonsters gans genez'n!\n"
+	.string "Pokémons gans genez'n!\n"
 	.string "Al m'n spullen mee, en…$"
 
 RivalsHouse_2F_Text_BrendanWhoAreYou_Name_Rival:
@@ -377,11 +377,11 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "Wildje dak anders jin vang voor jen?\p"
 	.string "Ah, dju, wachte…\p"
 	.string "'k Moeste min pa goan 'elpen me wilde'\n"
-	.string "Pokémonsters te goan vang'n.\p"
+	.string "Pokémons te goan vang'n.\p"
 	.string "'n Andere kji, goed?$"
 
 RivalsHouse_2F_Text_BrendanGettingReady:
-	.string "Pokémonsters gans genezen\n"
+	.string "Pokémons gans genezen\n"
 	.string "'k Peize da'k alles mee'eb, en…$"
 
 RivalsHouse_2F_Text_ItsRivalsPokeBall:
@@ -391,7 +391,7 @@ RivalsHouse_2F_Text_ItsRivalsPokeBall:
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
 	.string "{RIVAL}: {PLAYER}{KUN}!\p"
 	.string "Kwas juste min Pokédex aant checken.\p"
-	.string "Der zin nog geskift vjil Pokémon\n"
+	.string "Der zin nog geskift vjil Pokémons\n"
 	.string "dak nog nie gevangen eb!\p"
 	.string "En nog zovjil andere dak\n"
 	.string "nog wiln doen evolueren.\p"
