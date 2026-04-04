@@ -77,35 +77,35 @@ Route102_EventScript_Allen::
 
 Route102_Text_WatchMeCatchPokemon:
 	.string "Wally: {PLAYER}…\n"
-	.string "Pokémon hide in tall grass like this,\l"
-	.string "don't they?\p"
-	.string "Please watch me and see if I can\n"
-	.string "catch one properly.\p"
-	.string "…Whoa!$"
+	.string "Pokémon verstopp'n zich in't,\l"
+	.string "da hes ier zekers?\p"
+	.string "Zoudje een oogje in't zeil\n"
+	.string "kunn' od'n vo mie?\p"
+	.string "…Wow!$"
 
 Route102_Text_WallyIDidIt:
-	.string "Wally: I did it… It's my…\n"
-	.string "My Pokémon!$"
+	.string "Wally: Amai… Min jiste…\n"
+	.string "Min jiste Pokémon!$"
 
 Route102_Text_LetsGoBack:
-	.string "{PLAYER}, thank you!\n"
-	.string "Let's go back to the Gym!$"
+	.string "{PLAYER}, echt merci whe!\n"
+	.string "Keren we ons karre weer na de Gym?$"
 
 Route102_Text_ImNotVeryTall:
-	.string "I'm…not very tall, so I sink right\n"
-	.string "into tall grass.\p"
-	.string "The grass goes up my nose and…\n"
+	.string "'k Ben 'k ik ne kleinen e,\n"
+	.string "da hes kom bijkanst tot min neuse!\p"
+	.string "Zo kune je mij bikan nie meer zien!\n"
 	.string "Fwafwafwafwafwa…\p"
-	.string "Fwatchoo!$"
+	.string "ATCHOE!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "I'm going to catch a whole bunch of\n"
-	.string "Pokémon!$"
+	.string "Ik ga echt. Mo echt. Geskift veel\n"
+	.string "Pokémon vang'n!$"
 
 Route102_Text_RouteSignOldale:
-	.string "Route 102\n"
-	.string "{RIGHT_ARROW} Oldale Town$"
+	.string "Boane 102\n"
+	.string "{RIGHT_ARROW} Oostrozebeke$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "Route 102\n"
-	.string "{LEFT_ARROW} Petalburg City$"
+	.string "Boane 102\n"
+	.string "{LEFT_ARROW} Poperinge$"

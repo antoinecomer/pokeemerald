@@ -291,67 +291,68 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "{RIVAL}: Let's see… The Pokémon found\n"
-	.string "on Route 103 include…$"
+	.string "{RIVAL}: Ke zien e… De Pokémon daje\n"
+	.string "kun vinden ip Boane 103 zin…$"
 
 Route103_Text_MayLetsBattle:
-	.string "Oh, hi, {PLAYER}{KUN}!\p"
-	.string "…Oh, I see, my dad gave you\n"
-	.string "a Pokémon as a gift.\p"
-	.string "Since we're here, let's have a quick\n"
-	.string "battle!\p"
-	.string "I'll give you a taste of what being\n"
-	.string "a Trainer is like.$"
+	.string "Moh, hey {PLAYER}{KUN}!\p"
+	.string "…Ah, kzie daje van min pa\n"
+	.string "ne Pokémon gekregn èt.\p"
+	.string "Binnenst dawe ier toch zin,\n"
+	.string "wildje rap ne ke battrn?\p"
+	.string "'K goa je ke twônen wada 't is\n"
+	.string "om n'en echten Temmer te zin!$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! That's great!\n"
-	.string "{PLAYER}{KUN}, you're pretty good!$"
+	.string "Wow! Bere!\n"
+	.string "{PLAYER}{KUN}, nie mis!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "{RIVAL}: I think I know why my dad has\n"
-	.string "an eye out for you now.\p"
-	.string "I mean, you just got that Pokémon,\n"
-	.string "but it already likes you.\p"
-	.string "You might be able to befriend any\n"
-	.string "kind of Pokémon easily.\p"
-	.string "Well, it's time to head back to\n"
-	.string "the Lab.$"
+	.string "{RIVAL}: 'k Peis da'k snap waaroem da\n"
+	.string "min pa in u gelooft.\p"
+	.string "'k Bedoele, get nog ma juste uwe\n"
+	.string "Pokémon ma junder band is duddelik.\p"
+	.string "Miskien eje gij doar e talent\n"
+	.string "veurn?\p"
+	.string "{RIVAL}: (Klapt in haar handen) Goêd!\n"
+	.string "Ik goa min wehen inkorten. Yow!$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "{RIVAL}: Okay, so it's this one and\n"
-	.string "that one that live on Route 103…$"
+	.string "{RIVAL}: Ke zien e… De Pokémon daje\n"
+	.string "kun vinden ip Boane 103 zin…$"
 
 Route103_Text_BrendanLetsBattle:
-	.string "Hey, it's {PLAYER}!\p"
-	.string "…Oh, yeah, Dad gave you a Pokémon.\p"
-	.string "Since we're here, how about a little\n"
-	.string "battle?\p"
-	.string "I'll teach you what being a Trainer's\n"
-	.string "about!$"
+	.string "Moh, hey {PLAYER}{KUN}!\p"
+	.string "…Ah, kzie daje van min pa\n"
+	.string "ne Pokémon gekregn èt.\p"
+	.string "Binnenst dawe ier toch zin,\n"
+	.string "wildje rap ne ke battrn?\p"
+	.string "'K goa je ke twônen wada 't is\n"
+	.string "om n'en echten Temmer te zin!$"
 
 Route103_Text_BrendanDefeated:
-	.string "Huh, {PLAYER}, you're not too shabby.$"
+	.string "Hm, {PLAYER}, nie mis, nie mis.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "{RIVAL}: I think I get it.\n"
-	.string "I think I know why my dad has his eye\l"
-	.string "out for you now.\p"
-	.string "Look, your Pokémon already likes you,\n"
-	.string "even though you just got it.\p"
-	.string "{PLAYER}, I get the feeling that you\n"
-	.string "could befriend any Pokémon with ease.\p"
-	.string "We should head back to the Lab.$"
+	.string "{RIVAL}: 'k Peis da'k snap waaroem da\n"
+	.string "min pa in u gelooft.\p"
+	.string "'k Bedoele, get nog ma juste uwe\n"
+	.string "Pokémon ma junder band is duddelik.\p"
+	.string "Miskien eje gij doar e talent\n"
+	.string "veurn?\p"
+	.string "{RIVAL}: (Klapt in zijn handen) Goêd!\n"
+	.string "Ik goa min wehen inkorten. Yow!$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "My Pokémon is staggeringly tired…\n"
-	.string "I should have brought a Potion…$"
+	.string "Min Pokémon zin dwôdmoe…\n"
+	.string "'k Ad beter een Pintje meehepakt…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "If you cross the sea from here,\n"
-	.string "it'll be a shortcut to Oldale Town.\p"
-	.string "Fufufu, that's useful, isn't it?$"
+	.string "Aje ier oversteekt,\n"
+	.string "zijdje direct in Oostrozebeke.\p"
+	.string "Ik bennekik de slimsten tus.$"
 
 Route103_Text_RouteSign:
-	.string "Route 103\n"
-	.string "{DOWN_ARROW} Oldale Town$"
+	.string "Boane 103\n"
+	.string "{DOWN_ARROW} Oostrozebeke$"
 

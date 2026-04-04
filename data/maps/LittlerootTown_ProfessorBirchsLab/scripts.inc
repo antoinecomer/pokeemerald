@@ -846,7 +846,7 @@ LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex:
 	.string "{PLAYER} è' de Pokédex gekregen!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex:
-	.string "Prof. C.: Den Pokédex is een 'ooh-tehnolohies\n"
+	.string "Den Pokédex is een 'ooh-tehnolohies\n"
 	.string "toestel da direc' ne Pokémon analyseert\l"
 	.string "en e' verslagske moakt me ChatGPT.\p"
 	.string "Min kind, {RIVAL}, lwôpt er overal\n"
@@ -905,7 +905,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls:
 	.string "dan kunje gerust zin dak ze goa vangen.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
-	.string "Zeg pipo, uwe Zak zit vol.$""
+	.string "Zeg pipo, uwe Zak zit vol.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
 	.string "{RIVAL}: Woar zouk nu ne ke\n"
@@ -917,13 +917,13 @@ LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine:
 
 LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
 	.string "Ne peesee vo onderzoek.\n"
-	.string "Et skerm toont 'Kat vs. Hond 2' ip 'Spele.be'.\p"
-	.string "'t Wordt 'ier keiard gewerkt 't ing mie.$"
+	.string "Opt skerm: 'Kat vs. Hond' - 'Spele.be'.\p"
+	.string "'t Wordt 'ier vré gewerkt, ting mie.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon:
-	.string Zovjil boekn over Pokémon, amai...
-	.string Jin boek vangt uw aandacht.
-	.string "'Is er in Hoenn te veel water? Een analyse'\p"
+	.string "Zovjil boekn over Pokémon, amai...\n"
+	.string "Jin boek vangt uw aandacht.\p"
+	.string "'Te veel water in Hoenn - Een analyse'\p"
 	.string "Min achting van de prof bluvt ma dalen.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BookTooHardToRead:

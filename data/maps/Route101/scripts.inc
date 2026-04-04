@@ -290,15 +290,17 @@ Route101_Text_TakeTiredPokemonToPokeCenter:
 	.string "Als Pokémon moe zin,\n"
 	.string "pak ze mee na 't Pokémon Center.\p"
 	.string "'t Is ier jin beetje verder,\n"
-	.string "in Rosebeke.$"
+	.string "in Oostrozebeke.$"
 
 Route101_Text_WildPokemonInTallGrass:
 	.string "Aje door da lang hes wandelt,\n"
 	.string "kunnen wilde Pokémon jen aanvallen.\p"
-	.string "Wreed moeilik is 't toch niet?\n"
-	.string "Of moek der een tekeningske bie moaken?$"
+	.string "Vestoaje 't niet? 't Is toch simpel!\n"
+	.string "Of moe'k der een tekeningske bie moaken?\p"
+	.string ".......\p"
+	.string "Sorry whe, 'k 'eb ne zwoaren dag g'ad.$"
 
 Route101_Text_RouteSign:
-	.string "Rutte 101\n"
+	.string "Boane 101\n"
 	.string "{UP_ARROW} Oostrozebeke$"
 

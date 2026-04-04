@@ -964,11 +964,11 @@ LittlerootTown_Text_WaitPlayer:
 LittlerootTown_Text_WearTheseRunningShoes:
 	.string "MAMA: {PLAYER}! {PLAYER}! Eje u\n"
 	.string "al voorgesteld aan de professor?\p"
-	.string "Mwohhh, wa ne koddige POKéMON!\n"
+	.string "Mwohhh, wa ne koddigen!\n"
 	.string "Allez, een cadeautje van de Gerrit?\l"
-	.string "Mohow zeg! Tis toch pateeke!\p"
-	.string "Seg en euh, moeten POKéMON ier\n"
-	.string "aan de leiband?\p"
+	.string "Mohow zeg! Tis toch een pateeke!\p"
+	.string "Seg en euh, moeten die Pokémonsters\n"
+	.string "ier aan de leiband?\p"
 	.string "Aja en voordak et vergeet\n"
 	.string "pakt uw nieuwe BASKETS mee!\p"
 	.string "Allez maakt daje wegkomt!$"
@@ -980,7 +980,7 @@ LittlerootTown_Text_SwitchShoesWithRunningShoes:
 LittlerootTown_Text_GiveOutfitBox:
 	.string "MAMA: Oh! Bikanst vergeten!\n"
 	.string "Ge zou toch algelik nie verre geraken\p"
-	.string "Zonder ne slip en een paar verske kossen?$"
+	.string "Zonder ne slip en e' paar verske kossen?$"
 
 LittlerootTown_Text_ExplainOutfitBox:
 	.string "MAMA: Nu kunje \n"
@@ -993,22 +993,23 @@ LittlerootTown_Text_ExplainRunningShoes:
 	.string "speciaals op die skoendoze...\p"
 	.string "“Druk op B binnenst daje u\n"
 	.string "BASKETS aan'ebt om sjette te geven!\p"
-	.string "“Wa voor IKEA-instructies zijn da nu\n"
+	.string "Wa voor IKEA-instructies zijn da nu\n"
 	.string "weer?!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Ze word'n toch zo snel grwoot...\n"
-	.string "Onzen eigen {PLAYER}, n'en echten POKéMON temmer..\p"
+	.string "Onzen eigen {PLAYER}, n'en echten temmer..\p"
 	.string "Uw vaadre zou zo fier zijn,\n"
 	.string "lik ne hieter!\p"
 	.string "Weet daje altijd welkom zit thus,\p"
-	.string "ne warme choco staat u ier alsan ip te wacht'n!$"
+	.string "ne warme choco staat u ier\p"
+	.string "alsan ip te wacht'n$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-	.string "Ip den PEESEE kunje vanalles\n"
-	.string ", zelfs POKéMON, stockeren\p"
+	.string "Ip den PEESEE kunje vanalles,\n"
+	.string "zelfs POKéMON, stockeren\p"
 	.string "Daddis toch ma'htig...$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
@@ -1030,10 +1031,10 @@ LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Seg euhm!\n"
-	.string "Hoordje gij wok da geschreeuw?\p"
+	.string "Hoordje gij wok da gekajiet?\p"
 	.string "Precies van ne keffer...\p"
 	.string "Jinnen kleinen en jinnen dikken..\p"
-	.string "Ik eb gin Pokémonsters…\p"
+	.string "Ik n'eb gin Pokémons…\p"
 	.string "Kundje gie ne ke goan kiek'n?\n"
 	.string "Wreed bedankt whe!$"
 
@@ -1042,7 +1043,7 @@ LittlerootTown_Text_YouSavedBirch:
 	.string "Minnen 'eld!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-	.string "Gaje Pokémonsters temmen?\n"
+	.string "Gaje Pokémons temmen?\n"
 	.string "Succes! En 't beste é!$"
 
 LittlerootTown_Text_TownSign:
@@ -1050,7 +1051,7 @@ LittlerootTown_Text_TownSign:
 	.string "Der weunn à peu près 27.000 minsn.$"
 
 LittlerootTown_Text_ProfBirchsLab:
-	.string "Prof. Callewaert's Pokémonster Lab$"
+	.string "Prof. Callewaert's Lab$"
 
 LittlerootTown_Text_PlayersHouse:
 	.string "{PLAYER}'s Us$"
