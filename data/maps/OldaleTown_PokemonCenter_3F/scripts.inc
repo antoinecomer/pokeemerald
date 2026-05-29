@@ -171,14 +171,14 @@ EventScript_FirstTimeWonder_Text_Welcome:
 	.string "ier? Joat zeker?\p"
 	.string "'k Goa jen ker utlehhen\n"
 	.string "Oeda WonderTrade algelik marcheert.\p"
-	.string "Jis goak je meepakk'n noar\n"
-	.string "'t eerste verdiep.\p"
-	.string "Zieje mee?$"
+	.string "Komme keer iere\n"
+	.string "me je dwoaze mulle.\p"
+	.string "Ja, khebbet tegen u.$"
 
 EventScript_FirstTimeWonder_Text:
 	.string "Oké. Dus. WonderWissel.\n"
 	.string "Wuk is da. Oe marcheert da.\p"
-	.string "WonderWissel is hjil nieuwe.\n"
+	.string "WonderWissel is hjil nieuwe\n"
 	.string "tehnolohie, ontworpen door Barco.\l"
 	.string "Ge kunt er anoniem mee\p"
 	.string "Pokémon wissln en jin kriegn.\n"
@@ -188,7 +188,7 @@ EventScript_FirstTimeWonder_Text:
 	.string "Da moakt et bjistig!\p"
 	.string "Om de server nie na de klwôtn 't elpen\n"
 	.string "kundje ma 3 WonderTrades per dah doen.\p"
-	.string "Smoakelik! Uh ik bedoeldehe, veel plezier e!$"
+	.string "Smoakelik! Uh ik bedoeldehe, veel plezier!$"
 
 EventScript_FirstTimeWonder_Text_Unlimited:
 	.string "Oké. Dus. WonderWissel.\n"
@@ -201,7 +201,7 @@ EventScript_FirstTimeWonder_Text_Unlimited:
 	.string "Ge wit nwoois wada je ga kriegen\n"
 	.string "en zudder wok niet.\l"
 	.string "Da moakt et bjistig!\p"
-	.string "Smoakelik! Uh ik bedoeldehe, veel plezier e!$"
+	.string "Smoakelik! Uh ik bedoeldehe, veel plezier!$"
 
 EventScript_DoWonderTrade_Text_Welcome:
 	.string "Welgekomen aan et loket WonderWissel\n"

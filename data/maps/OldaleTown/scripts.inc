@@ -402,7 +402,7 @@ OldaleTown_Text_ThisIsAPokemonMart:
 OldaleTown_Text_PotionExplanation:
 	.string "Overdah, 's nachts, 's middahs...\n"
 	.string "Zupn is nu...zupn is morhen...\l"
-	.string "*glug*..dadis..*glug*..toch ma'htig?$"
+	.string "glug..dadis..glug..toch ma'htig?$"
 
 OldaleTown_Text_WaitDontComeInHere:
 	.string "ELA! GIJ GOAT WACHTEN!\n"
@@ -440,14 +440,14 @@ OldaleTown_Text_TownSign:
 
 OldaleTown_Text_InfiniteItems1:
 	.string "Hallowkes! VG Toney ier...\n"
-	.string "en 'k eb iet beters ontdekt dan de vrouwkes\p"
+	.string "Wil je hoed scoren bij de vrouwkes?\p"
 	.string "Nen Infinite Repel, een Doze hevuld me\n"
-	.string "Poepsnoepjes (Rare Candies), en een Healing Heart\l"
+	.string "Poepsnoepjes (Rare Candies),\l"
 	.string "om je {PKMN} oneindig te henezen!\p"
 	.string "Mo 't is noh nie hedoan. Aje akkoord zijt\n"
 	.string "ga je wok jen IVs en EVs kunn'n\l"
 	.string "aanpass'n in je Menu!\p"
-	.string "Daddis toch ma'htih?\n"
+	.string "Daddis toch mahhtig?\n"
 	.string "Zijdje geïnteresseerd?$"
 
 OldaleTown_Text_InfiniteItems2:
