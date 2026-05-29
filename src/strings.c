@@ -236,24 +236,24 @@ const u8 gText_ThrewAwayVar2Var1s[] = _("Weggesmitn: {STR_VAR_2}\n{STR_VAR_1}(s)
 const u8 gText_ConfirmTossItems[] = _("Zeker daje der\nwil wegsmitn: {STR_VAR_2}\n{STR_VAR_1}(s)?");
 const u8 gText_DadsAdvice[] = _("Advies van uw pa…\n{PLAYER}, kost et u zoveel moeite\lvo jin ke normaal te doen in uw leven!{PAUSE_UNTIL_PRESS}");
 const u8 gText_CantDismountBike[] = _("Ge kun er nie van uwe Vélo springn.{PAUSE_UNTIL_PRESS}");
-const u8 gText_ItemFinderNearby[] = _("Huh?\nThe Itemfinder's responding!\pThere's an item buried around here!{PAUSE_UNTIL_PRESS}");
-const u8 gText_ItemFinderOnTop[] = _("Oh!\nThe Itemfinder's shaking wildly!{PAUSE_UNTIL_PRESS}");
-const u8 gText_ItemFinderNothing[] = _("… … … …Nope!\nThere's no response.{PAUSE_UNTIL_PRESS}");
-const u8 gText_CoinCase[] = _("Your Coins:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
-const u8 gText_BootedUpTM[] = _("Booted up a TM.");
-const u8 gText_BootedUpHM[] = _("Booted up an HM.");
-const u8 gText_TMHMContainedVar1[] = _("It contained\n{STR_VAR_1}.\pTeach {STR_VAR_1}\nto a Pokémon?");
-const u8 gText_PlayerUsedVar2[] = _("{PLAYER} used the\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
-const u8 gText_RepelEffectsLingered[] = _("But the effects of a Repel\nlingered from earlier.{PAUSE_UNTIL_PRESS}");
-const u8 gText_UsedVar2WildLured[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild Pokémon will be lured.{PAUSE_UNTIL_PRESS}");
-const u8 gText_UsedVar2WildRepelled[] = _("{PLAYER} used the\n{STR_VAR_2}.\pWild Pokémon will be repelled.{PAUSE_UNTIL_PRESS}");
-const u8 gText_BoxFull[] = _("The Box is full.{PAUSE_UNTIL_PRESS}");
-const u8 gText_PowderQty[] = _("Powder Qty: {STR_VAR_1}{PAUSE_UNTIL_PRESS}");
-const u8 gText_TheField[] = _("the field");
-const u8 gText_TheBattle[] = _("the battle");
-const u8 gText_ThePokemonList[] = _("the Pokémon List");
-const u8 gText_TheShop[] = _("the shop");
-const u8 gText_ThePC[] = _("the PC");
+const u8 gText_ItemFinderNearby[] = _("Huh?\nDen Dinkvinder reaheert!\pDer is ier ntwa verborhen!{PAUSE_UNTIL_PRESS}");
+const u8 gText_ItemFinderOnTop[] = _("Gast!\nDen Dinkvinder is hjil oant flipp'n!{PAUSE_UNTIL_PRESS}");
+const u8 gText_ItemFinderNothing[] = _("… … … …Nint!\nIe doe nietn.{PAUSE_UNTIL_PRESS}");
+const u8 gText_CoinCase[] = _("Je portemonee:\n{STR_VAR_1}{PAUSE_UNTIL_PRESS}");
+const u8 gText_BootedUpTM[] = _("Ge stikt n'en TM in gank.");
+const u8 gText_BootedUpHM[] = _("Ge stikt n'en HM in gank.");
+const u8 gText_TMHMContainedVar1[] = _("Et bevat\n{STR_VAR_1}.\pWildje {STR_VAR_1}\noan ne Pokémon aanljirn?");
+const u8 gText_PlayerUsedVar2[] = _("{PLAYER} gberuktehe\n{STR_VAR_2}.{PAUSE_UNTIL_PRESS}");
+const u8 gText_RepelEffectsLingered[] = _("Gebt al ne Repel\nda nog werkt pipo.{PAUSE_UNTIL_PRESS}");
+const u8 gText_UsedVar2WildLured[] = _("{PLAYER} gebrukt\n{STR_VAR_2}.\pWilde Pokémon wôrdn helokt.{PAUSE_UNTIL_PRESS}");
+const u8 gText_UsedVar2WildRepelled[] = _("{PLAYER} gebrukt\n{STR_VAR_2}.\pWilde Pokémon skartn under.{PAUSE_UNTIL_PRESS}");
+const u8 gText_BoxFull[] = _("De doze zit vul.{PAUSE_UNTIL_PRESS}");
+const u8 gText_PowderQty[] = _("Poeder kwant.: {STR_VAR_1}{PAUSE_UNTIL_PRESS}");
+const u8 gText_TheField[] = _("et veld");
+const u8 gText_TheBattle[] = _("et gevecht");
+const u8 gText_ThePokemonList[] = _("de Pokémon Liste");
+const u8 gText_TheShop[] = _("den Aldi");
+const u8 gText_ThePC[] = _("den Peesee");
 
 const u8 *const gBagMenu_ReturnToStrings[] =
 {
@@ -279,12 +279,12 @@ const u8 *const gPyramidBagMenu_ReturnToStrings[] =
     [PYRAMIDBAG_LOC_CHOOSE_TOSS] = gText_TheField
 };
 
-const u8 gText_ReturnToVar1[] = _("Return to\n{STR_VAR_1}.");
-const u8 gText_ItemsPocket[] = _("Items");
+const u8 gText_ReturnToVar1[] = _("Kerekewere na\n{STR_VAR_1}.");
+const u8 gText_ItemsPocket[] = _("Dingskes");
 const u8 gText_PokeBallsPocket[] = _("Poké Balls");
-const u8 gText_TMHMPocket[] = _("TMs & HMs");
-const u8 gText_BerriesPocket[] = _("Berries");
-const u8 gText_KeyItemsPocket[] = _("Key Items");
+const u8 gText_TMHMPocket[] = _("TMs en HMs");
+const u8 gText_BerriesPocket[] = _("Bess'n");
+const u8 gText_KeyItemsPocket[] = _("Bere belangrike dingn");
 
 const u8 *const gPocketNamesStringsTable[] =
 {
@@ -302,11 +302,11 @@ const u8 gText_FirmSlash[] = _("Firm /");
 const u8 gText_Var1DotVar2[] = _("{STR_VAR_1}.{STR_VAR_2}”");
 
 // Berry firmness strings
-const u8 gBerryFirmnessString_VerySoft[] = _("Very soft");
-const u8 gBerryFirmnessString_Soft[] = _("Soft");
-const u8 gBerryFirmnessString_Hard[] = _("Hard");
-const u8 gBerryFirmnessString_VeryHard[] = _("Very hard");
-const u8 gBerryFirmnessString_SuperHard[] = _("Super hard");
+const u8 gBerryFirmnessString_VerySoft[] = _("Vree zachte");
+const u8 gBerryFirmnessString_Soft[] = _("Zachte");
+const u8 gBerryFirmnessString_Hard[] = _("Arte");
+const u8 gBerryFirmnessString_VeryHard[] = _("Vree arte");
+const u8 gBerryFirmnessString_SuperHard[] = _("Bere art");
 
 const u8 gText_NumberVar1Var2[] = _("{NO}{STR_VAR_1} {STR_VAR_2}");
 const u8 gText_BerryTag[] = _("Berry Tag");
