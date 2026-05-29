@@ -387,81 +387,81 @@ OldaleTown_Text_SavingMyProgress:
 	.string "en aje moe ipsloan moej ipsloan.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
-	.string "Hi!\n"
-	.string "I work at a Pokémon Mart.\p"
-	.string "Can I get you to come with me?$"
+	.string "Yeeps!\n"
+	.string "Ik werke in de Liedel.\p"
+	.string "Davers, bacht'n den bwôm, moej zien?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "This is a Pokémon Mart.\n"
-	.string "Just look for our blue roof.\p"
-	.string "We sell a variety of goods including\n"
-	.string "Poké Balls for catching Pokémon.\p"
-	.string "Here, I'd like you to have this as\n"
-	.string "a promotional item.$"
+	.string "Voilà se, ier zin we dan.\n"
+	.string "Mahtih, ne Liedel...\p"
+	.string "Vjille beter dan dien 'Ollandsen bucht.\n"
+	.string "En de prizzn vall'n allichte mee.\p"
+	.string "Moeje een schelleke èn?\n"
+	.string "Of wachte, ke noh iet beters.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "A Potion can be used anytime, so it's\n"
-	.string "even more useful than a Pokémon Center\l"
-	.string "in certain situations.$"
+	.string "Overdah, 's nachts, 's middahs...\n"
+	.string "Zupn is nu...zupn is morhen...\l"
+	.string "*glug*..dadis..*glug*..toch ma'htig?$"
 
 OldaleTown_Text_WaitDontComeInHere:
-	.string "Aaaaah! Wait!\n"
-	.string "Please don't come in here.\p"
-	.string "I just discovered the footprints of\n"
-	.string "a rare Pokémon!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "ELA! GIJ GOAT WACHTEN!\n"
+	.string "Wachten zegiku!!\p"
+	.string "'k Enkik juste voetspwôrn hevondn\n"
+	.string "van ne zeldzoamn...nen blinker!\p"
+	.string "Gie goat skwône wachtn todak gerjid\n"
+	.string "zin, eje da goe verstoan?$"
 
 OldaleTown_Text_DiscoveredFootprints:
-	.string "I just discovered the footprints of\n"
-	.string "a rare Pokémon!\p"
-	.string "Wait until I finish sketching\n"
-	.string "them, okay?$"
+	.string "'k Enkik juste voetspwôrn hevondn\n"
+	.string "van ne zeldzoamn...nen blinker!\p"
+	.string "Bluvven wacht'n...ja?\n"
+	.string "Of moek der e tekeningske bie moakn?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "I finished sketching the footprints of\n"
-	.string "a rare Pokémon.\p"
-	.string "But it turns out they were only my\n"
-	.string "own footprints…$"
+	.string "'k Èn e ontdekkinge hedoan van\n"
+	.string "die voetspwôrn...\p"
+	.string "'k Peisdehe dak ip n'en blinker zat\n"
+	.string "'t Woaren wel de minne zeker?…$"
 
 OldaleTown_Text_MayLetsGoBack:
 	.string "{RIVAL}: {PLAYER}{KUN}!\n"
-	.string "Over here!\l"
-	.string "Let's hurry home!$"
+	.string "Iere!\l"
+	.string "We zin zjirre na'r us!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "{RIVAL}: I'm heading back to my dad's\n"
-	.string "Lab now.\l"
-	.string "{PLAYER}, you should hustle back, too.$"
+	.string "{RIVAL}: Ik kere min kar, 'k ga nar us,\n"
+	.string "noar et Lab.\l"
+	.string "{PLAYER}, gaje gie ton sebiet ook weere?$"
 
 OldaleTown_Text_TownSign:
-	.string "Oldale Town\n"
-	.string "“Where things start off scarce.”$"
+	.string "Oostrozebeke\n"
+	.string "“'t Hebeurt ier gin klwôtn mo 't is hezellig.”$"
 
 OldaleTown_Text_InfiniteItems1:
-	.string "Hey! I got some really good items from\n"
-	.string "a really strange guy. They are…\p"
-	.string "An Infinite Repel, a Box filled with\n"
-	.string "Rare Candies, and a Healing Heart to\l"
-	.string "heal your {PKMN} party infinitely!\p"
-	.string "But that's not all! If you accept all\n"
-	.string "these gifts, you'll be able to Edit\l"
-	.string "IVs and EVs from the Party Menu!\p"
-	.string "Isn't that convenient?\n"
-	.string "Are you interested in them?$"
+	.string "Hallowkes! VG Toney ier...\n"
+	.string "en 'k eb iet beters ontdekt dan de vrouwkes\p"
+	.string "Nen Infinite Repel, een Doze hevuld me\n"
+	.string "Poepsnoepjes (Rare Candies), en een Healing Heart\l"
+	.string "om je {PKMN} oneindig te henezen!\p"
+	.string "Mo 't is noh nie hedoan. Aje akkoord zijt\n"
+	.string "ga je wok jen IVs en EVs kunn'n\l"
+	.string "aanpass'n in je Menu!\p"
+	.string "Daddis toch ma'htih?\n"
+	.string "Zijdje geïnteresseerd?$"
 
 OldaleTown_Text_InfiniteItems2:
-	.string "Hmm… Obtaining and using these items\n"
-	.string "is considered cheating…\p"
-	.string "Are you sure you want them?$"
+	.string "Hmm… weet hewoon da, aje ze pakt,\n"
+	.string "zije ne valsspeler, n'en bedrieher…\p"
+	.string "Zijdje ZEKER daje ze wilt 'ebben?$"
 
 OldaleTown_Text_InfiniteItems3:
-	.string "Do you really want them?\n"
-	.string "Just making sure…\p"
-	.string "You cannot throw them away.$"
+	.string "'k Haat je nog jin ke vroagn.\n"
+	.string "Geweun vo 't zjikkerste…\p"
+	.string "Ge kun die items NIET wegsmitn.$"
 
 OldaleTown_Text_InfiniteItems4:
-	.string "Cheat at your own responsibility!$"
+	.string "Mutn...$"
 
 OldaleTown_Text_InfiniteItemsNo:
-	.string "Okay!$"
+	.string "Daddis hesproken!$"

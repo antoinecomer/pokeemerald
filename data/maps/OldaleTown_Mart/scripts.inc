@@ -58,16 +58,20 @@ OldaleTown_Mart_EventScript_Boy::
 	end
 
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
-	.string "The clerk says they're all sold out.\n"
-	.string "I can't buy any Poké Balls.$"
+	.string "Z'ebben ier godvertoeme hin\n"
+	.string "Ballen meer.\p"
+	.string "...............Wuk.\n"
+	.string "PokéBallen éh, TJOETN.\p"
+	.string "Oallemoalle utverkoht, kundjet heloven?$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
-	.string "I'm going to buy a bunch of Poké Balls\n"
-	.string "and catch a bunch of Pokémon!$"
+	.string "'k Zin beeeeeeeeeere content\n"
+	.string "en witje waaroem?\p"
+	.string "'k Ekkik wel juste de loatste Pokéball hekocht!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-	.string "If a Pokémon gets hurt and loses its HP\n"
-	.string "and faints, it won't be able to battle.\p"
-	.string "To prevent your Pokémon from fainting,\n"
-	.string "restore its HP with a Potion.$"
+	.string "Ik zoeke ier erhens, den AHAR-AHAR.\n"
+	.string "Kundje da nie me gelatine zeh ik,\p"
+	.string "Nint zegt ze, tmoet echt dadde zin...\n"
+	.string "Ne goeie cheesecake goa anders nie lukk'n whe.$"
 

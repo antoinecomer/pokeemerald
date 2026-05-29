@@ -10,11 +10,11 @@ OldaleTown_House2_EventScript_Man::
 	end
 
 OldaleTown_House2_Text_PokemonLevelUp:
-	.string "When Pokémon battle, they eventually\n"
-	.string "level up and become stronger.$"
+	.string "Pokémon battrn en wôrn sterker...\n"
+	.string "Ik batter en 'k belandde in 't ziekenus...$"
 
 OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon:
-	.string "If the Pokémon with you become\n"
-	.string "stronger, you'll be able to go farther\l"
-	.string "away from here.$"
+	.string "Als jen {PKMN} sterken wôrdn\n"
+	.string "kundje verre heroakn in deze wjireld.\l"
+	.string "'t Is echt 't absurde voorbie.$"
 
