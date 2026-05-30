@@ -67,10 +67,12 @@ OldaleTown_Mart_Text_PokeBallsAreSoldOut:
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
 	.string "'k Zin beeeeeeeeeere content\n"
 	.string "en witje waaroem?\p"
-	.string "'k Ekkik wel juste de loatste Pokéball hekocht!$"
+	.string "'k Ekkik wel juste de loatste\n"
+	.string "hekocht zeker! Hah!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-	.string "'k Zin beeeeeeeeeere content\n"
-	.string "en witje waaroem?\p"
-	.string "'k Ekkik wel juste de loatste Pokéball hekocht!$"
+ 	.string "Ik zoeke ier erhens, den AHAR-AHAR.\n"
+ 	.string "Kundje da nie me gelatine zeh ik,\p"
+ 	.string "Nint zegt ze, tmoet echt dadde zin...\n"
+ 	.string "Mmm, cheesecake. Daddeet ik geirn.$"
 
