@@ -479,19 +479,19 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "Mr. Briney: Ahoy!\n"
-	.string "We've made land in Slateport!\p"
-	.string "I suppose you're going to visit Capt.\n"
-	.string "Stern and deliver the Devon Goods?$"
+	.string "Mr. Pekel: Ahoy!\n"
+	.string "Ellendige...land...lopers!\p"
+	.string "Gij ging gij Kap'tein\n"
+	.string "Bartbosa om uw BarcoPak af te geven?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "Mr. Briney: I thought you're supposed\n"
-	.string "to deliver the Devon Goods.\p"
-	.string "Would you like to sail back to\n"
-	.string "Dewford, then?$"
+	.string "Mr. Pekel: Moestje gie nie\n"
+	.string "da pakket afgeven aan den Bartbosa?\p"
+	.string "Wildje miskien je karre keren\n"
+	.string "na De Panne?$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "Mr. Briney: Dewford it is, then!\p"
+	.string "Mr. Pekel: Dewford it is, then!\p"
 	.string "Anchors aweigh!\n"
 	.string "Peeko, we're setting sail, my darling!$"
 
