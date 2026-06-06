@@ -54,8 +54,8 @@ OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
 	.string "Den Droad...waar is den Droad.\n"
 	.string "Aje wok jen Droad kwit zijt...\p"
-	.string "kundje ke kiekn boven.\n"
-	.string "Ma kpeize da ze nog werk aan de winkel èn.$"
+	.string "kundje ke kiekn beneedn.\n"
+	.string "Ma kpeize datter nog werk aan de winkel is.$"
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
 	.string "De Droadloze Club\n"

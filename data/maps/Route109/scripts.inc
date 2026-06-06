@@ -479,88 +479,95 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "Mr. Pekel: Ahoy!\n"
-	.string "Ellendige...land...lopers!\p"
-	.string "Gij ging gij Kap'tein\n"
-	.string "Bartbosa om uw BarcoPak af te geven?$"
+	.string "Mr. Pekel: Ellendige...land...lopers..\n"
+	.string "...? AH! Ahoi m'n moatje!\p"
+	.string "Gingdjegij nie Kap'tein\n"
+	.string "Haddock da BarcoPak goan geven?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "Mr. Pekel: Moestje gie nie\n"
-	.string "da pakket afgeven aan den Bartbosa?\p"
+	.string "Mr. Pekel: AHOI, MIN MOATJE!\n"
+	.string "Eje da pakket kun' afgeven algelik?\p"
 	.string "Wildje miskien je karre keren\n"
 	.string "na De Panne?$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "Mr. Pekel: Dewford it is, then!\p"
-	.string "Anchors aweigh!\n"
-	.string "Peeko, we're setting sail, my darling!$"
+	.string "Mr. Pekel: M'N MOATJES!\p"
+	.string "VULLE PULLE NA DE PANNE!\n"
+	.string "Pico! Hijs et zeil!\p"
+	.string "Pico: Piiiiiiiiiii!!!!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "Mr. Briney: Then you go on and deliver\n"
-	.string "the Devon Goods. I'll be waiting.$"
+	.string "Mr. Pekel: 'k Goa 'k ik ier ip je wachtn\n"
+	.string "min moatje. Twôpe me onzen Pico.\p"
+	.string "Pico: Piiiiii!\p"
+	.string "Mr. Pekel: Exact...$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "Mr. Briney: Ahoy! We've made land in\n"
-	.string "Slateport!\p"
-	.string "You just go on and tell me whenever\n"
-	.string "you want to set sail again!$"
+	.string "Mr. Pekel: Ahoi! We zin geland\n"
+	.string "in Nieuwpoort!\p"
+	.string "Min moatje, vo jen hijs'n ik\n"
+	.string "en Pico ons zeil gelik wanneer!$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "Mr. Briney: Ahoy!\n"
-	.string "For you, I'll go out to sea anytime!\p"
-	.string "Now, my friend, where are we bound?$"
+	.string "Mr. Pekel: AHOI!\n"
+	.string "Ah! Mi moatje...roept de zee?\p"
+	.string "Allen, waarheen?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "Mr. Briney: You just tell me whenever\n"
-	.string "you need to set sail again!$"
+	.string "Mr. Pekel: Arr, komt me zien\n"
+	.string "wanneer de zee je weere roept!$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, Trainers!\n"
-	.string "Whether you're hot to trot,\l"
-	.string "or cool cat not,\l"
-	.string "chill at my papa's spot!$"
+	.string "Yo, Temmers!\n"
+	.string "Ofdaje nu te kouw èt,\l"
+	.string "of te jit,\l"
+	.string "bie m'n pa ziej ma welkom,\n"
+	.string "aje een snelle zit!$"
 
 Route109_Text_LittleKidsDartAround:
-	.string "Little kids can dart around so quickly…\p"
-	.string "You don't dare take your eyes off them\n"
-	.string "for an instant. It's very taxing.\p"
-	.string "Mine are with my Pokémon, so they\n"
-	.string "should be okay, but…$"
+	.string "Kleine kinders lwôp'n overal rond…\p"
+	.string "Ge kun jen ohen der nie afneemn,\n"
+	.string "zelf nie efkes! Tis geskift lastig.\p"
+	.string "Min Pokémons lett'n der wok ip\n"
+	.string "dus 't zou in orde moetn zin, ma…$"
 
 Route109_Text_SandCastleTakingLongTime:
-	.string "Our sand castle's taking a long time\n"
-	.string "to make.$"
+	.string "Eje m'n zandkasteel hezien?\n"
+	.string "Witje wa da m'n pa ervan vond?\p"
+	.string "'Een mahhtig kasteel...' zeitie'em!$"
 
 Route109_Text_YouCanHaveThis:
-	.string "You can have this!$"
+	.string "Iersè!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "We're going to get all the sand from\n"
-	.string "the beach and make a big castle!\p"
-	.string "And then we're going to be a king and\n"
-	.string "queen.\p"
-	.string "We'll let you be a servant.$"
+	.string "Ik è da nie geirn, zand.\n"
+	.string "Da is ruw, grof,\p"
+	.string "da irriteert en da krupt\n"
+	.string "echt overal in.\p"
+	.string "'t Zit zelve zand in m'n gat.$"
 
 Route109_Text_ZigzagoonPicksUpLitter:
-	.string "The water around these parts is clean.\p"
-	.string "But, I get my Zigzagoon to pick up\n"
-	.string "litter from the shoreline at times.\p"
-	.string "Dirty water becomes rain and joins our\n"
-	.string "rivers, which we drink from…\p"
-	.string "If we pollute the sea, it all comes\n"
-	.string "back to haunt us eventually.$"
+	.string "Ier is 't woatr bère proper.\p"
+	.string "Sommige miseroabele toeristen\n"
+	.string "loatn ier under afval achter.\p"
+	.string "Ondankboare 'onden da da zin.\n"
+	.string "Minnen ond, Zigzagoon, die 'elpt mie\p"
+	.string "et afval iproapn. Machtig toch?\n"
+	.string "Zoals ons moed'r altijd zei...\p"
+	.string "Vervuilde de zee, dan moet ge hangen\n"
+	.string "aan den 'oogsten bwôm.$"
 
 Route109_Text_ZigzagoonCry:
-	.string "Zigzagoon: Guguu?$"
+	.string "Zigzagoon: (kwijlt)$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "Seashore House\p"
-	.string "“May hot battles rage on hot sands!\n"
-	.string "The place for hot Trainers!”$"
+	.string "'De Grote Kraakvis'\p"
+	.string "“Ip hete zanden wordt er gabatterd!\n"
+	.string "Temmers zo vurig, ze staon in de fik!”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "Trainer Tips\p"
-	.string "Pokémon at the same level may not\n"
-	.string "always have identical stats.\p"
-	.string "Pokémon raised by Trainers are said\n"
-	.string "to grow stronger than wild Pokémon.$"
+	.string "Temmer Tips\p"
+	.string "Pokémons ipt zelfde level\n"
+	.string "zin nie alsan evensterk.\p"
+	.string "Als n'en Dresseur ze zelve traint...\n"
+	.string "wôrd'n ze vjille machtiher.$"

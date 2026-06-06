@@ -1066,7 +1066,7 @@ Route104_Text_FlowerShopSellingSaplings:
 	.string "Die bloemenwinkel ier verkwopt nu\n"
 	.string "wok jonge bwompjes.\p"
 	.string "'k Zin stifcontent, ma woar\n"
-	.string "zok ze plant'n?\$"
+	.string "zok ze plant'n?$"
 
 Route104_Text_MrBrineysCottage:
 	.string "'t Nestje Van Mr. Pekel$"
@@ -1117,7 +1117,7 @@ Route104_Text_MayHaventRaisedPokemon:
 	.string "{RIVAL}: Oei, wuk skeelt er wel?\p"
 	.string "Nog vjil werk aan de winkel me je\n"
 	.string "Pokémons ting mie, haha!\p"
-	.string "Volgende ke beter? Tenzij dat tehen ik is!$"
+	.string "Zorg ma daje mie inhoalt, tis ton spannend!$"
 
 Route104_Text_MayLetsBattle:
 	.string "{RIVAL}: Dus, wa peisdje?\n"
@@ -1128,57 +1128,59 @@ Route104_Text_MayIntro:
 	.string "{PLAYER}{KUN}. Kloar vo je pandoering?$"
 
 Route104_Text_MayDefeat:
-	.string "Mohow...\n"
+	.string "Mohow é…\n"
 	.string "Ge woart beter dan dak a' verwacht!$"
 
 Route104_Text_MayPostBattle:
-	.string "{RIVAL}: I can tell you've gotten pretty\n"
-	.string "good with the way you handle Pokémon.\p"
+	.string "{RIVAL}: Een bitje overlevelen\n"
+	.string "en ton fel komen doen me je Pokémon.\p"
 	.string "But instead of only making them\n"
 	.string "battle, you should be like Mr. Briney.\p"
 	.string "It's important to become friends with\n"
 	.string "Pokémon, too.$"
 
 Route104_Text_BrendanWeShouldRegister:
-	.string "{RIVAL}: Oh, hey, {PLAYER}!\p"
-	.string "Cool, you had Devon install the Match\n"
-	.string "Call system on your Pokénav!\p"
-	.string "Let's register each other in our\n"
-	.string "Pokénavs so we can keep in touch.$"
+	.string "{RIVAL}: Ah, yow, {PLAYER}!\p"
+	.string "Cool. Ge kun nu bellen\n"
+	.string "me je Pokénav!\p"
+	.string "'k Ga u va' jiste ki min nummer geevn,\n"
+	.string "bel gerust alst er iets is, eh!$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registered {RIVAL}\n"
-	.string "in the Pokénav.$"
+	.string "{PLAYER} registreerdehe {RIVAL}\n"
+	.string "in den Pokénav.$"
 
 Route104_Text_BrendanHowsYourPokedex:
-	.string "{RIVAL}: {PLAYER}, how's your Pokédex?\n"
-	.string "Have you filled in any pages yet?$"
+	.string "{RIVAL}: {PLAYER}, oe skit da me je Pokédex?\n"
+	.string "Al goe bezig geweest?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
-	.string "Me, I'm doing great!\p"
-	.string "Want to check out how good I am with\n"
-	.string "a battle?$"
+	.string "Ik doe 't vree wel!\p"
+	.string "En weeeeeetje waarom?\n"
+	.string "Omdak u zjirre goa afkussn!$"
 
 Route104_Text_BrendanNoConfidence:
-	.string "{RIVAL}: What's the matter? Don't have\n"
-	.string "any confidence in your Pokémon?$"
+	.string "{RIVAL}: Wuk ist? Gin 'confidAnse'\n"
+	.string "in je Pokémons?$"
 
 Route104_Text_BrendanLetsBattle:
-	.string "{RIVAL}: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "{RIVAL}: Yow, oe ist?\n"
+	.string "Moek u rap ne ke afkussen?$"
 
 Route104_Text_BrendanIntro:
-	.string "{RIVAL}: I know you just became\n"
-	.string "a Trainer, but I won't go easy!$"
+	.string "{RIVAL}: 'k Wit daje nog ma\n"
+	.string "juste n'en Temmer zie gewôrdn\p"
+	.string "ma 'k goat je daaroem nog nie\p"
+	.string "gemakkelik moakn whe!$"
 
 Route104_Text_BrendanDefeat:
 	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Smeirlap! Hahaha!$"
 
 Route104_Text_BrendanPostBattle:
-	.string "{RIVAL}: You've gotten pretty decent\n"
-	.string "at handling Pokémon.\p"
-	.string "But, you know, you shouldn't just be\n"
-	.string "making Pokémon battle.\p"
-	.string "Like Mr. Briney, it's important to\n"
-	.string "become friends with your Pokémon.$"
+	.string "{RIVAL}: Een bitje overlevelen\n"
+	.string "en ton fel komen doen me je Pokémons é?\p"
+	.string "'n Is ma e grapje e, {RIVAL}!\n"
+	.string "Ma serieus efkes, min 'Mons,\p"
+	.string "lik da Mr. Pekel zo zeggn, da zin\n"
+	.string "wok min moatn, en kzie ze geirn.$"

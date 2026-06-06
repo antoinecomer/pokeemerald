@@ -94,7 +94,7 @@ Route102_Text_LetsGoBack:
 Route102_Text_ImNotVeryTall:
 	.string "'k Ben 'k ik ne kleinen e,\n"
 	.string "da hes kom bijkanst tot min neuse!\p"
-	.string "Zo kune je mij bikan nie meer zien!\n"
+	.string "Ge kun mie bikan nie meer zien!\n"
 	.string "Fwafwafwafwafwa…\p"
 	.string "ATCHOE!$"
 
