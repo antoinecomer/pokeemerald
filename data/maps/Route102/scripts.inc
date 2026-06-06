@@ -76,16 +76,16 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "Wally: {PLAYER}…\n"
-	.string "Pokémon verstopp'n zich in't,\l"
-	.string "da hes ier zekers?\p"
-	.string "Zoudje een oogje in't zeil\n"
-	.string "kunn' od'n vo mie?\p"
-	.string "…Wow!$"
+	.string "Wally: Jeep {PLAYER}…\n"
+	.string "'k Goat je ke twôn,\l"
+	.string "wada de W in Wally vo sta…\p"
+	.string "Check et ut!\n"
+	.string "Wa zitn ze, kzie enkel hes en onkrud.\p"
+	.string "…Wow, checkt da?$"
 
 Route102_Text_WallyIDidIt:
 	.string "Wally: Amai… Min jiste…\n"
-	.string "Min jiste Pokémon!$"
+	.string "Skwon werk, al zegk et zelve!$"
 
 Route102_Text_LetsGoBack:
 	.string "{PLAYER}, echt merci whe!\n"
