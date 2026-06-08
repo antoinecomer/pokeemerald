@@ -55,42 +55,42 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "That PC-based Pokémon Storage\n"
-	.string "System…\p"
-	.string "Whoever made it must be some kind\n"
-	.string "of a scientific wizard!$"
+	.string "Jist..de kompioeter...\n"
+	.string "Ton Hoehel…mo nu?\p"
+	.string "Zjéminie? Kloot? Zjat-giepietie?\n"
+	.string "Wo goat de weirld natoe?$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "When my Pokémon ate an\n"
-	.string "Oran Berry, it regained HP!$"
+	.string "Ik e just beslot'n\n"
+	.string "dak min Pokémons véhétaries zin!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
-	.string "There are many types of Pokémon.\p"
-	.string "All types have their strengths and\n"
-	.string "weaknesses against other types.\p"
-	.string "Depending on the types of Pokémon,\n"
-	.string "a battle could be easy or hard.$"
+	.string "Oeveel types Pokémons?\p"
+	.string "Bereveel. Oeveel zeg je?\n"
+	.string "Geskift veel. Oeveel?\p"
+	.string "HIHANTIES VEEL...\n"
+	.string "Ting mie daje nog vjille moe ljirn.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "For example, your Treecko\n"
-	.string "is a Grass type.\p"
-	.string "It's strong against the Water and\n"
-	.string "Ground types.\p"
-	.string "But, it's weak against Fire-type\n"
-	.string "Pokémon.$"
+	.string "Bievoorbeeld, jen Treecko\n"
+	.string "is van 't type Hes.\p"
+	.string "Beresterk tehen Woatr en\n"
+	.string "Hrond.\p"
+	.string "Ma rete tegen alles dat em\n"
+	.string "in de fik kun steekn.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "For example, your Torchic\n"
-	.string "is a Fire type.\p"
-	.string "It's strong against the Grass and\n"
-	.string "Bug types.\p"
-	.string "But, it's weak against Water-type\n"
-	.string "Pokémon.$"
+	.string "Bievoorbeeld, jen Torchic\n"
+	.string "is van 't type Fikn.\p"
+	.string "Alles da Hes of Insectn stikt\n"
+	.string "ie maklik in de fik.\p"
+	.string "Mo tehen Woatr-Pokémon moej\n"
+	.string "ipletn whé.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "For example, your Mudkip\n"
-	.string "is a Water type.\p"
-	.string "It's strong against the Fire type.\p"
-	.string "But, it's weak against Grass-type\n"
-	.string "and Electric-type Pokémon.$"
+	.string "Bievoorbeeld, jen Mudkip\n"
+	.string "is van 't type Woatr.\p"
+	.string "Beresterk tegen dedie da Fikn.\p"
+	.string "Ma rete tehen dedie me Elektriek\n"
+	.string "of Hes.$"
 
