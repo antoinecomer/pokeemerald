@@ -1128,31 +1128,32 @@ Route104_Text_MayIntro:
 	.string "{PLAYER}{KUN}. Kloar vo je pandoering?$"
 
 Route104_Text_MayDefeat:
-	.string "Mohow é…\n"
+	.string "Mohow...\n"
 	.string "Ge woart beter dan dak a' verwacht!$"
 
 Route104_Text_MayPostBattle:
-	.string "{RIVAL}: Een bitje overlevelen\n"
-	.string "en ton fel komen doen me je Pokémon.\p"
-	.string "But instead of only making them\n"
-	.string "battle, you should be like Mr. Briney.\p"
-	.string "It's important to become friends with\n"
-	.string "Pokémon, too.$"
+	.string "{RIVAL}: Nie verheeten...jen\n"
+	.string "Pokémons zin nie alleen je pionnen...\p"
+	.string "Ken sommigste me'sn die totaal\n"
+	.string "hin band èn me under 'Mons...\p"
+	.string "De slingr sloat soms wok den anderen\n"
+	.string "kant ip...\p"
+	.string "{RIVAL}: (staart getraumatiseerd)$"
 
 Route104_Text_BrendanWeShouldRegister:
-	.string "{RIVAL}: Ah, yow, {PLAYER}!\p"
-	.string "Cool. Ge kun nu bellen\n"
-	.string "me je Pokénav!\p"
-	.string "'k Ga u va' jiste ki min nummer geevn,\n"
-	.string "bel gerust alst er iets is, eh!$"
+	.string "{RIVAL}: Moh, hey, {PLAYER}!\p"
+	.string "Aaah 't is juste, 'ebben\n"
+	.string "we wudr al elkander toehevoegd\p"
+	.string "ip de Pokénav? Peist nie...\n"
+	.string "geef em ke? 'k Ga je min nummer geven.$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} registreerdehe {RIVAL}\n"
-	.string "in den Pokénav.$"
+	.string "{RIVAL} voehde zichzelve\n"
+	.string "toe in je Pokénav.$"
 
 Route104_Text_BrendanHowsYourPokedex:
-	.string "{RIVAL}: {PLAYER}, oe skit da me je Pokédex?\n"
-	.string "Al goe bezig geweest?$"
+	.string "{RIVAL}: {PLAYER}, oe skit da me je 'Dex?\n"
+	.string "Eje gie zelf al jin pahina hevuld?$"
 
 Route104_Text_BrendanDoingGreatLetsBattle:
 	.string "Ik doe 't vree wel!\p"
@@ -1160,8 +1161,8 @@ Route104_Text_BrendanDoingGreatLetsBattle:
 	.string "Omdak u zjirre goa afkussn!$"
 
 Route104_Text_BrendanNoConfidence:
-	.string "{RIVAL}: Wuk ist? Gin 'confidAnse'\n"
-	.string "in je Pokémons?$"
+	.string "{RIVAL}: Eje poepers?\n"
+	.string "Min 'mons zin min moatn, ma ook beresterk!$"
 
 Route104_Text_BrendanLetsBattle:
 	.string "{RIVAL}: Yow, oe ist?\n"
