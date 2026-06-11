@@ -1362,7 +1362,7 @@ PetalburgCity_Gym_Text_NormanGoToDewford:
 	.string "vechtersboazeke vindn, {PLAYER}.\p"
 	.string "Ie noemt Brawly. Van em goa je\n"
 	.string "serieus moetn oplet'n.\p"
-	.string "You should go challenge him.$"
+	.string "Ma how ja. $"
 
 PetalburgCity_Gym_Text_YouHaveGottenStronger:
 	.string "Dad: Hm… {PLAYER}, you have gotten\n"

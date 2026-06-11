@@ -37,26 +37,27 @@ PetalburgCity_GalladeEvo3:
 	end
 
 PetalburgCity_GalladeEvo_Text:
-	.string "Prof. Birch is the most famous\n"
-	.string "Hoenn Professor, but I am also\l"
-	.string "a reliable biologist.\p"
-	.string "I can give you info he might\n"
-	.string "not know.\p"
-	.string "Do you want to hear it?$"
+	.string "Prof. Gerrit is miskien wel dé bekendstn\n"
+	.string "prof van Oen, ma ik zin wok\l"
+	.string "n'en deftigen bioloog.\p"
+	.string "Kè nog in tidde, milieu gesturdeerd\n"
+	.string "me optie Duits…\p"
+	.string "Waarom Duts? Da zin u zoakn nie…\p"
+	.string "Moeje ke wa weetn?$"
 
 PetalburgCity_GalladeEvo_Text2:
-	.string "Choosing Male or Female Ralts is\n"
-	.string "important, as the last evolution\l"
-	.string "changes based on gender and time.\p"
-	.string "Male Ralts evolves into Gallade\n"
-	.string "if it evolves in the morning, from\l"
-	.string "6AM to 9AM.\p"
-	.string "Otherwise, or if Ralts is Female,\n"
-	.string "it evolves into Gardevoir.\p"
-	.string "This info is useful for new trainers.$"
+	.string "Kendje Ralts?\n"
+	.string "De evolutie dervan, 'angt eigenlik hjil\l"
+	.string "af van zowel et HESLACHT als de TID!\p"
+	.string "Een mannelike Ralts wurd e Gallade\n"
+	.string "ma enkel en aljin ajem\l"
+	.string "evolueert van te zessen tot de nehenen.\p"
+	.string "Als uw Ralts een wuvetje is,\n"
+	.string "ton wordt et een Gardevoir.\p"
+	.string "Hoe vo te weten é?$"
 
 PetalburgCity_GalladeEvo_Text3:
-	.string "Oh… Okay…$"
+	.string "Moh… Oké…$"
 
 PetalburgCity_EventScript_MoveGymBoyToWestEntrance::
 	setobjectxyperm LOCALID_GYM_BOY, 5, 11
