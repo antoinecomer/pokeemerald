@@ -749,10 +749,10 @@ PetalburgCity_EventScript_GymBoy::
 PetalburgCity_Text_WhereIsWally:
 	.string "Woar is onzene Wally?\p"
 	.string "We moetn bikan weg\n"
-	.string "na Othulst…$"
+	.string "na Veurne…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Aah! Nog zukjin…\n"
+	.string "Awel awel awel! Nog zukjin…\n"
 	.string "Nie van alier zekers?\p"
 	.string "Ooit al van de gym gehoord?\n"
 	.string "{PLAYER}: De fitness?\p"
@@ -766,7 +766,7 @@ PetalburgCity_Text_ThisIsPetalburgGym:
 PetalburgCity_Text_ThisIsGymSign:
 	.string "Aje gin analfabeet zijt,\n"
 	.string "stoatet ip da bord nog ke\l"
-	.string "in koeien van lettrs wok een bord.$"
+	.string "in koeien van lettrs ipgeskrevn.$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "Check m'n mulle in da woater. Hah.\p"

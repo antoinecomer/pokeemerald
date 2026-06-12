@@ -1033,7 +1033,7 @@ Route104_Text_ImNotATrainer:
 	.string "Ik? Nin, ben hin Temmer.\p"
 	.string "Mo inderdoad, aje jin krust,\n"
 	.string "moej battern, 't is nu azo.\p"
-	.string "Witje oeda 'k ik da noem, n'en Temmer?\n"
+	.string "Witje oeda 'k ik da noem, die Temmers?\n"
 	.string "WERKLOOS!$"
 
 Route104_Text_LikeFillingMouthWithSeedsTakeThis:

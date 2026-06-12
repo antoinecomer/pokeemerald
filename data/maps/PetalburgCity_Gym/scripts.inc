@@ -1265,7 +1265,7 @@ PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon2:
 	.string "van oedaje ne wilde Pokémon moe vangen?$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
-	.string "Peace ollemoale\n"
+	.string "Peace ollemoale!\n"
 	.string "Ik wille ne Pokémon…$"
 
 PetalburgCity_Gym_Text_DadOhYoureWallyRight:
@@ -1274,7 +1274,7 @@ PetalburgCity_Gym_Text_DadOhYoureWallyRight:
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
 	.string "Wally: Ik verrus binnekort\n"
-	.string "na me famille in Othulst,\p"
+	.string "na me famille in Veurne,\p"
 	.string "ma kzo da lik nohal eenzoame zin,\n"
 	.string "ke nog gin moksje. Dus kè beslootn\p"
 	.string "dak men eigen Pokémon wil ebn.\n"
@@ -1296,21 +1296,22 @@ PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
 	.string "Wally: Oh, wow, check et ut!\n"
 	.string "Ne Pokémon!\p"
-	.string "Dad: Hm. I'll give you a Poké Ball, too.\n"
-	.string "Go for it!\p"
-	.string "Wally received a Poké Ball!$"
+	.string "Papa: Hm. Kgoaj wok ne Pokébal geevn.\n"
+	.string "Smit u!\p"
+	.string "Wally (me zn klitoren) kreeg ne Pokébal!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
-	.string "Wally: Oh, wow!\n"
-	.string "Thank you!$"
+	.string "Wally: Yow check et ut! Ne Pokébal!\n"
+	.string "Merci whé Norman!$"
 
 PetalburgCity_Gym_Text_WouldYouReallyComeWithMe:
-	.string "{PLAYER}… Would you really come\n"
-	.string "with me?$"
+	.string "{PLAYER}… Zouj echt me mie\n"
+	.string "willn meegoan?$"
 
 PetalburgCity_Gym_Text_WallyGoodbye:
-	.string "{PLAYER}… I hope next time we can\n"
-	.string "properly meet!$"
+	.string "{PLAYER}… ik 'ope echt da we noaste\n"
+	.string "ke deftig kunnen chillen!\p"
+	.string "Bievoorbeeld in minne moestuin!$"
 
 PetalburgCity_Gym_Text_DadSoDidItWorkOut:
 	.string "Papa: En? Ist gelukt?$"

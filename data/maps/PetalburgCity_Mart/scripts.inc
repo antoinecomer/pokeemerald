@@ -70,10 +70,10 @@ PetalburgCity_Mart_EventScript_Man::
 	end
 
 PetalburgCity_Mart_Text_WeakWillGrowStronger:
-	.string "Even if a Pokémon is weak now,\n"
-	.string "it will grow stronger.\p"
-	.string "The most important thing is love!\n"
-	.string "Love for your Pokémon!$"
+	.string "Verzoameldje Pokémonkaartn?\n"
+	.string "Check m'n blinkers...\p"
+	.string "Ne Machamp, nog van ip de speel-\n"
+	.string "plaats in tidde!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful:
 	.string "Gebtruktje al Repel?\n"
@@ -84,6 +84,6 @@ PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
 	.string "Eje gin anti-hif ip u?\n"
 	.string "Allez, ge weet wel. Hif. Hhhif.\p"
 	.string "AntiGIF! Aje zonder rondlwopt,\n"
-	.string "goan u bistjes dwôd asse ntwa.\l"
-	.string "voor'ebn. Een gewoarschuwd Temmer.$"
+	.string "goan u bjistjes dwôd asse ntwa\l"
+	.string "voor'ebn. Een gewoarschuwd Temmer..!$"
 

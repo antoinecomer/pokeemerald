@@ -70,10 +70,10 @@ PetalburgCity_WallysHouse_EventScript_ReceivedHMSurf::
 PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "Gij…\n"
 	.string "Moh, tis gij! {PLAYER}{KUN}!\p"
-	.string "N'en dikke merci om onze Wally\n"
+	.string "N'en dikke merci om me onze Wally\n"
 	.string "om te goan. Da doe em goe.\p"
-	.string "Dien is alsan wa zwak en ziek\n"
-	.string "geweest, al bie de geboorte!\p"
+	.string "Dien è alsan al een slechte\n"
+	.string "hezondheid ghad, al sin's zin geboorte!\p"
 	.string "We hebben em gestuurd na zin tante\n"
 	.string "in Veurne. 't Is omda\p"
 	.string "de luchtkwaliteit\n"
