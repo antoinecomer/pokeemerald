@@ -249,28 +249,17 @@ Text_PetalburgWoods_Celebi_SignEventFinished:
 	.string ". . .\p"
 	.string "Ik kun min ogen nie geloven!\n"
 	.string "Gebt...De Hroene Free gezien!?\p"
-	.string "I’ll never forget this moment.\p"
-	.string "I’ll keep tending to the shrine\l"
-	.string "until the Guardian returns!$"
+	.string "Ik goa dit moment nwoois verheten.\p"
+	.string "'k Ga het altaar bluvn verzorgn\l"
+	.string "tot de Fee werekjirt!$"
 
 Text_PetalburgWoods_Celebi_SignEventChampion:
-	.string "Hello again, young Trainer.\p"
-	.string "Something strange is happening\n"
-	.string "with the Guardian shrine.\p"
-	.string "I’ve been hearing faint muttering\n"
-	.string "around the large tree.\p"
-	.string "It’s hard to make out, but it speaks\n"
-	.string "of a Thunder, Volcano,\l"
-	.string "and Aurora Pokémon…\p"
-	.string "Wait… I know those descriptions…\n"
-	.string "Three beasts… but…\p"
-	.string "Not from this region…?\n"
-	.string "Where could they be from?\p"
-	.string "And if they’re here, could they be\n"
-	.string "hiding in places tied to their\l"
-	.string "elements?\p"
-	.string "If you have time, perhaps you should\n"
-	.string "investigate. What do you think?$"
+	.string "Opnieuw hallooo, jonge Temmer.\p"
+	.string "Ntwa roars is gebeurd rond et\n"
+	.string "altoar van de Hroene Fee...\p"
+	.string "Ik oore gefluster\n"
+	.string "rond dien grwoten bwôm.\p"
+	.string "'k Ben nie im men gemak.$"
 
 PetalburgWoods_EventScript_DevonResearcherLeft::
 	lockall
@@ -588,33 +577,33 @@ PetalburgWoods_EventScript_JamesRematch::
 
 PetalburgWoods_Text_NotAOneToBeFound:
 	.string "Hmmm…\n"
-	.string "Not a one to be found…$"
+	.string "Gin ziel in zicht…$"
 
 PetalburgWoods_Text_HaveYouSeenShroomish:
-	.string "Hello, have you seen any Pokémon\n"
-	.string "called Shroomish around here?\p"
-	.string "I really love that Pokémon.$"
+	.string "Allo, eje gij ier ne Pokémon\n"
+	.string "genoamd Shroomish erhens geziende?\p"
+	.string "Das minnen favorieten Pokémon.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou:
-	.string "I was going to ambush you, but you\n"
-	.string "had to dawdle in Petalburg Woods\l"
-	.string "forever, didn't you?\p"
-	.string "I got sick of waiting, so here I am!$"
+	.string "Ik ging je struikroovn\n"
+	.string "ma ge zijt echt uwen tijd oant\l"
+	.string "pakkn int Kenndybos algelik!\p"
+	.string "Ket get van te wachtn, dus ier ben ik!$"
 
 PetalburgWoods_Text_HandOverThosePapers:
-	.string "You! Devon Researcher!\p"
-	.string "Hand over those papers!$"
+	.string "Gij doar! Barco Onderzoeker!\p"
+	.string "Gif mie je papieren!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe:
 	.string "Aiyeeeh!\p"
-	.string "You're a Pokémon Trainer, aren't you?\n"
-	.string "You've got to help me, please!$"
+	.string "Gij zijt toch n'en Temmer, ofnie?\n"
+	.string "Ge moet mie elpen! Astenblief!!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua:
-	.string "Hunh? What do you think you're doing?\n"
-	.string "What, you're going to protect him?\p"
-	.string "No one who crosses Team Aqua\n"
-	.string "gets any mercy, not even a kid!\p"
+	.string "Hunh? Wa peisdje daje gij aant doen zit?\n"
+	.string "Wa, goaj dien mutn ier beskermen?\p"
+	.string "Niemand rammelt met de klootn van\n"
+	.string "Team Aqua en komt er mee weg!\p"
 	.string "Come on and battle me!$"
 
 PetalburgWoods_Text_YoureKiddingMe:
