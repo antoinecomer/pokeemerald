@@ -373,7 +373,7 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
 	.string "Min noame is {RIVAL}.\n"
 	.string "Yeeps!\p"
 	.string "Huh? Ey, {PLAYER}, eje gij nog\n"
-	.string "gin eigen Pokémonster?\p"
+	.string "gin eigen Pokémons?\p"
 	.string "Wildje dak anders jin vang voor jen?\p"
 	.string "Ah, dju, wachte…\p"
 	.string "'k Moeste min pa goan 'elpen me wilde'\n"

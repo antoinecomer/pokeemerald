@@ -346,7 +346,7 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
 	.string "Ons {RIVAL}!\p"
 	.string "Hjil bezeten deur\n"
-	.string "al die Pokémonsters om te zien\l"
+	.string "al die Pokémons om te zien\l"
 	.string "daje speshiaal ip visite zijt gekomen.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
@@ -356,7 +356,7 @@ RivalsHouse_1F_Text_WentOutToRoute103:
 	.string "Gij wel?$"
 
 RivalsHouse_1F_Text_ShouldGoHomeEverySoOften:
-	.string "Ip reis me je Pokémonsters...\n"
+	.string "Ip reis me je Pokémons...\n"
 	.string "toch plezant eh.\p"
 	.string "Ma vergit je moeder nie regelmatig\n"
 	.string "een bezoekske te breng'n.\p"
@@ -377,7 +377,7 @@ RivalsHouse_1F_Text_MayWhoAreYou:
 	.string "Aangenoame!\p"
 	.string "Ik eh…\n"
 	.string "Min drome is om moat'n te weur'n\l"
-	.string "me Pokémonsters over hjil de weireld.\p"
+	.string "me Pokémons over hjil de weireld.\p"
 	.string "Ik e… 'k Hebbe 'k ik al veel over u\n"
 	.string "gewôrd, {PLAYER}{KUN}.\p"
 	.string "'k Ad ergens gewhôpt daje lief zo zin,\n"
@@ -406,11 +406,11 @@ RivalsHouse_1F_Text_BrendanWhoAreYou:
 	.string "Min noame is {RIVAL}.\n"
 	.string "Yeeps!\p"
 	.string "Huh? Ey, {PLAYER}, eje gij nog\n"
-	.string "gin eigen Pokémonster?\p"
+	.string "gin eigen Pokémon?\p"
 	.string "Wildje dak anders jin vang voor jen?\p"
 	.string "Ah, dju, wachte…\p"
 	.string "'k Moeste min pa goan 'elpen me wilde'\n"
-	.string "Pokémonsters te goan vang'n.\p"
+	.string "Pokémons te goan vang'n.\p"
 	.string "'n Andere kji, goed?$"
 
 RivalsHouse_1F_Text_DoYouHavePokemon:

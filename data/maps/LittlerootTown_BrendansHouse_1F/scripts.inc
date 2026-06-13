@@ -424,7 +424,7 @@ PlayersHouse_1F_Text_BetterGetBackToGym:
 PlayersHouse_1F_Text_DadShouldStayLonger:
 	.string "MAMA: Uw vaadre, 't is ne vreej'n\p"
 	.string "Ie is nwooi tus, en a't'ie tus e,\n"
-	.string "'t gaat em altid om die Pokémonsters...'.\p"
+	.string "'t gaat em altid om die 'Pokémonsters'...'.\p"
 	.string "En bebie mag weer den afwas doen.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
@@ -449,5 +449,6 @@ PlayersHouse_1F_Text_WhatColorDidTheySay:
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
 	.string "MAMA: Allez zeg!\n"
-	.string "Dat er nu nog altid Pokémon ontdekt word'n.$"
+	.string "Dat er nu nog altid van die\p"
+	.string "Pokémonsters ontdekt word'n.$"
 

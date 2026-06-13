@@ -1366,345 +1366,345 @@ PetalburgCity_Gym_Text_NormanGoToDewford:
 	.string "Ma how ja. $"
 
 PetalburgCity_Gym_Text_YouHaveGottenStronger:
-	.string "Dad: Hm… {PLAYER}, you have gotten\n"
-	.string "stronger.\p"
-	.string "I can tell by the number of Badges\n"
-	.string "that you've earned.$"
+	.string "Papa: Hm… {PLAYER}, ge zijt gij\n"
+	.string "al n'en deftigen Temmer.\p"
+	.string "'k Ziet oan 't oantal medailles\n"
+	.string "dajet èt.$"
 
 PetalburgCity_Gym_Text_NormanIntro:
-	.string "Dad: Hm…\n"
-	.string "So, you did get four Gym Badges.\p"
-	.string "Fine, as I promised, we will have\n"
-	.string "a Pokémon battle.\p"
+	.string "Papa: Awel awel awel…\n"
+	.string "Onzne {PLAYER}… vier medailles!!\p"
+	.string "Hwoêd! Lik dak beloofd eb,\n"
+	.string "goak je motn afkussen.\p"
 	.string "{PLAYER}…\p"
-	.string "I'm so happy that I can have\n"
-	.string "a real battle with my own child.\p"
-	.string "But, a battle is a battle!\p"
-	.string "I will do everything in my power as\n"
-	.string "a Gym Leader to win.\p"
-	.string "{PLAYER}, you'd better give it your\n"
-	.string "best shot, too!$"
+	.string "Weet dak echt, ma echt\n"
+	.string "berefier zin ip m'n eigen kind.\p"
+	.string "Ma, batteringe is batteringe!\p"
+	.string "Ik goat je nie gemakkelik moakn,\n"
+	.string "{PLAYER}!\p"
+	.string "{PLAYER}, zet u schrap.\n"
+	.string "Vo de grwotste PANDOERING VAN JE LEVEN!$"
 
 PetalburgCity_Gym_Text_NormanDefeat:
 	.string "…\p"
-	.string "I… I can't…\p"
-	.string "I can't believe it. {PLAYER}…\p"
-	.string "I lost to {PLAYER}?\p"
-	.string "But, rules are rules!\n"
-	.string "Here, take this.$"
+	.string "Ik… Ik kunt nie…\p"
+	.string "Ik kunt nie geloovn. {PLAYER}…\p"
+	.string "Ik? Versloan? Deur {PLAYER}?\p"
+	.string "Ma! Rehels zin rehels!\n"
+	.string "Ierse.$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
-	.string "{PLAYER} received the Balance Badge\n"
-	.string "from Dad!$"
+	.string "{PLAYER} kreeg de BalansMedaille\n"
+	.string "van Voadre!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
-	.string "Dad: With that Badge, the Defense\n"
-	.string "of all your Pokémon will increase.\p"
-	.string "Pokémon that know the HM move Surf\n"
-	.string "will be able to travel over water.\p"
-	.string "This is my gift to you. {PLAYER}, I'm\n"
-	.string "sure you can use it correctly.$"
+	.string "Papa: Me die Medaille, kunn' je\n"
+	.string "Pokémons zich beter verdedigen.\p"
+	.string "Waaroem dadde? Sloa nerhens ip.\n"
+	.string "Geweun aanvoardn. Aja juste,\p"
+	.string "ze kunn' nu wok eindelik surfen.\n"
+	.string "En iere, nog e cadeautje, nen TM.$"
 
 PetalburgCity_Gym_Text_ExplainFacade:
-	.string "Dad: TM42 contains Facade.\p"
-	.string "It doubles the power of moves if\n"
-	.string "the Pokémon is poisoned, paralyzed,\l"
-	.string "or burned.\p"
-	.string "It might be able to turn a bad\n"
-	.string "situation into an advantage.$"
+	.string "Papa: TM42 ljirt Facade aan ne Mon.\p"
+	.string "Aje Pokémon verhiftigd is, in de fik\n"
+	.string "stoat of letterlik gehandicapt es,\l"
+	.string "verdubbelt Facade de krachte.\p"
+	.string "Zo kundje algelik een slechte\n"
+	.string "situasie in e goeie situasie verandrn.$"
 
 PetalburgCity_Gym_Text_DadHappyAndSad:
-	.string "Dad: As the Gym Leader, I can't\n"
-	.string "express how upset I am…\p"
-	.string "But as a father, it makes me both\n"
-	.string "happy and a little sad. It's odd…$"
+	.string "Papa: Als Leider van de Gym, is m'n\n"
+	.string "carrière na de klootn…\p"
+	.string "Ma als voadre, kan ik nie\n"
+	.string "gelukkiger zin. 't Is dubbel…$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
-	.string "Ah, there you are, {PLAYER}{KUN}!\p"
-	.string "Please come with me.\n"
-	.string "I have something I want you to have.$"
+	.string "Ah, iersedaarse, {PLAYER}{KUN}!\p"
+	.string "Kom ke alier.\n"
+	.string "Ik wil daje dit ebt.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
-	.string "Norman, you don't mind, do you?\p"
-	.string "Let me borrow your {PLAYER}{KUN} for\n"
-	.string "a minute or two.$"
+	.string "Norman, ge vin et nie erg é?\p"
+	.string "Magk je {PLAYER}{KUN} efkes\n"
+	.string "een minutje of twji meepakn?$"
 
 PetalburgCity_Gym_Text_DadGoingToKeepTraining:
-	.string "Dad: {PLAYER}, you should go visit\n"
-	.string "your mother every so often.\p"
-	.string "I'm going to stay here and redouble\n"
-	.string "my training.\p"
-	.string "It would bother me as a Trainer to\n"
-	.string "not avenge my loss to you, {PLAYER}!$"
+	.string "Papa: {PLAYER}, bezoekt u\n"
+	.string "moedre af en toe ne ké.\p"
+	.string "Ik ga ier bluvn en min training\n"
+	.string "verdubbeln. Dajet ma wit!\p"
+	.string "Min eer als Temmer is miskien gekrenkt,\n"
+	.string "ma et motiveert mie wok, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
-	.string "Dad: {PLAYER}, how are things going?\p"
-	.string "The world of Pokémon is deep.\p"
-	.string "I honestly think that no amount of\n"
-	.string "training would ever be enough.$"
+	.string "Papa: {PLAYER}, oe ist?\p"
+	.string "Ik zin volip aant trainen.\p"
+	.string "Ik peis da er gin "genoeg" is me\n"
+	.string "me trainen. De skaai is de limit é.$"
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, Champion-\n"
-	.string "bound {PLAYER}?\p"
-	.string "The doors in this Gym open when you\n"
-	.string "beat the awaiting Trainers.\p"
-	.string "Whoops! The doors in this room are\n"
-	.string "already open, so don't attack me!\p"
-	.string "The Trainers of Petalburg Gym\n"
-	.string "use all kinds of items.\p"
-	.string "The door at the left leads to\n"
-	.string "the Speed Room.\p"
-	.string "The door at the right leads to\n"
-	.string "the Accuracy Room.\p"
-	.string "The room's name will be on\n"
-	.string "the door, so choose carefully.\p"
-	.string "Once you've chosen the door…\n"
-	.string "Well, hey, go for it!$"
+	.string "De Temmers in de Poperinge Gym\n"
+	.string "gebrukn items.\p"
+	.string "Die pworte links?\n"
+	.string "Doar zin SNELN Eddy.\p"
+	.string "Die deure reks?\n"
+	.string "Doar ist PRECIESE…uhh\p"
+	.string "Allez, benne oar noame verheten\n"
+	.string "Ze n'èt gin indruk achtergeloatn.\p"
+	.string "Jin ki dajen deure kiest…\n"
+	.string "keerdje nie me weere!$"
 
 PetalburgCity_Gym_Text_GymGuidePostVictory:
-	.string "{PLAYER}! Whoa! You've overcome even\n"
-	.string "your own father!\p"
-	.string "Like, whoa!\n"
-	.string "What a stunning turn of events!$"
+	.string "{PLAYER}! Geskift gedoan…\n"
+	.string "Jen eigen voadre!\p"
+	.string "Lik, woah!\n"
+	.string "Da goat in de boekskes komn whé!$"
 
 PetalburgCity_Gym_Text_RandallIntro:
-	.string "The ability to attack before the\n"
-	.string "opponent…\p"
-	.string "Just that alone puts me at a great\n"
-	.string "advantage, don't you agree?$"
+	.string "Witje wrm da ze mie Snelln Eddy\n"
+	.string "noemn…en m'n ma Randall…\p"
+	.string "Ik val alsan JIST AN!\n"
+	.string "KAPPEU EN KNALLEEEEE!$"
 
 PetalburgCity_Gym_Text_RandallDefeat:
-	.string "That was a magnificent battle!$"
+	.string "A's ik ne lul wil zien goak wel na 't WC!$"
 
 PetalburgCity_Gym_Text_RandallPostBattle:
-	.string "Go on to the next room where a new\n"
-	.string "challenge awaits you.\p"
-	.string "At the left is the Confusion Room.\p"
-	.string "The right door leads to the Defense\n"
-	.string "Room.$"
+	.string "De volhende utdoaginge wacht ip\n"
+	.string "je in de volhende kamer.\p"
+	.string "Links eje de koamr van VERWARRINGE.\p"
+	.string "Reks eje de koamr van VERDEDIHINK.\n"
+	.string "Verstoajt?$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
-	.string "Whomever you beat, and whomever you\n"
-	.string "may lose to, you never shirk from\l"
-	.string "training yourself and your Pokémon.\p"
-	.string "That's what I think being a\n"
-	.string "Gym Leader is all about.$"
+	.string "Moat,\n"
+	.string "dien airco bloast nie meer\l"
+	.string "'k moe bluvn trainen van de Normand.\p"
+	.string "Zweetn, ZWITN dak doe,\n"
+	.string "en stinkn, STINKN!$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
-	.string "This is the Confusion Room.\p"
-	.string "Let me see how well bonded you are\n"
-	.string "with your Pokémon!$"
+	.string "Dit is de Koamr der VERWARRINGE.\p"
+	.string "'k Peizekik dak een hersenbloedinge\n"
+	.string "aant doen ben…\p"
+	.string "Woar ben ik?$"
 
 PetalburgCity_Gym_Text_ParkerDefeat:
-	.string "I couldn't confuse your team enough…\n"
-	.string "You share a strong bond together.$"
+	.string "Uhhhhhh…\n"
+	.string "Belt een amblance…$"
 
 PetalburgCity_Gym_Text_ParkerPostBattle:
-	.string "The next room is the Strength Room.\n"
-	.string "Can you withstand brute force?$"
+	.string "De volhende koamr is die van.\n"
+	.string "de Sterkte. 'k Heb 'n ongerke…$"
 
 PetalburgCity_Gym_Text_ParkerPostBadge:
-	.string "After you beat our Leader, the\n"
-	.string "training has become a lot tougher.$"
+	.string "Ik a' blikboar gin hersenbloedinge,\n"
+	.string "ma gewoon een goestje in ne pita.$"
 
 PetalburgCity_Gym_Text_GeorgeIntro:
-	.string "Just when you think you're going to\n"
-	.string "win, your opponent restores HP…\p"
-	.string "Can you just imagine how awful that\n"
-	.string "must feel?\p"
-	.string "I'll show you exactly how awful it\n"
-	.string "feels!$"
+	.string "Juste wanneer daje peist\n"
+	.string "'Kheb gewonnen!' goak alles healen…\p"
+	.string "Ik ligge echt vort iedere keer.\n"
+	.string "Under mulle ak da doe, hilarisch.\p"
+	.string "Benieuwd om sebiet je tote\n"
+	.string "te zien! Hahahaha!!$"
 
 PetalburgCity_Gym_Text_GeorgeDefeat:
-	.string "I couldn't restore HP enough…\n"
-	.string "What Attack power…$"
+	.string "Ik kon nie rap henoeg…\n"
+	.string "healen, wa een maht…!$"
 
 PetalburgCity_Gym_Text_GeorgePostBattle:
-	.string "I should have expected no less from\n"
-	.string "our Leader's kid.\p"
-	.string "No, wait! A Trainer's abilities are\n"
-	.string "earned only through effort.\p"
-	.string "I lost because my own efforts\n"
-	.string "weren't enough.\p"
-	.string "Go on! The One-Hit KO Room is next.$"
+	.string "Ik 'a niets minder moetn verwacht'n\n"
+	.string "van 't kind van de Norman.\p"
+	.string "Allezja, tis natuurlik wok\n"
+	.string "al je 'ard werk da beloont é!\p"
+	.string "Ik è 'k ik verlorn juste omda\n"
+	.string "min efforts nie genoeg woarn.\p"
+	.string "De Jin-Djoef-KO Koamr wacht ip u!$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
-	.string "I'm going to keep training at Gyms.\n"
-	.string "One day, I'll become a Leader.$"
+	.string "Ik goa bluvn trainen. En me 'ik'\n"
+	.string "bedoel ik min Pokémon.\p"
+	.string "Op n'en dag goak den Boas wordn.$"
 
 PetalburgCity_Gym_Text_BerkeIntro:
-	.string "I'm not going to take it easy just\n"
-	.string "because you're our Leader's kid.\p"
-	.string "I'll show you how horrid it is for\n"
-	.string "a Pokémon to take a critical hit!$"
+	.string "Jin dzjoef. Direct KO.\n"
+	.string "Zo hoort et.\p"
+	.string "Ge krigt gin privileges just omda\n"
+	.string "je 't kind zie van de Norman!$"
 
 PetalburgCity_Gym_Text_BerkeDefeat:
-	.string "Your power…\n"
-	.string "You're the real deal.$"
+	.string "De dzjoef…was ip mijn mulle…\n"
+	.string "Gie, gie zie letterlik machtig.$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Your father really is strong.\n"
-	.string "He's a Trainer worth my respect.\p"
-	.string "And, I sense the same glow coming\n"
-	.string "from you as your father.\p"
-	.string "I hope that you'll stage a terrific\n"
-	.string "battle with your father!$"
+	.string "Uw voadre is echt beresterk.\n"
+	.string "Een Temmer da respect afdwingt.\p"
+	.string "En ik voele dezelfde aura\n"
+	.string "van u lik van je voadre.\p"
+	.string "Zeg nie dak et u gezegd è,\n"
+	.string "ma gie meug winnen van ik!$"
 
 PetalburgCity_Gym_Text_BerkePostBadge:
-	.string "Since your dad became the Leader,\n"
-	.string "the Trainers of Petalburg City have\l"
-	.string "become a lot tougher.$"
+	.string "Sinds daje pa ier Leider is geword'n,\n"
+	.string "zin de Temmers van Poperinge\l"
+	.string "serieus verbeterd algelik.$"
 
 PetalburgCity_Gym_Text_MaryIntro:
-	.string "Giggle…\n"
-	.string "This is the Accuracy Room.\p"
-	.string "It's pretty nasty when every attack\n"
-	.string "lands without fail.$"
+	.string "Hihihi…\n"
+	.string "Dit is de koamr van precisie.\p"
+	.string "Alsan recht erip.\n"
+	.string "Missen is vo mietjes.$"
 
 PetalburgCity_Gym_Text_MaryDefeat:
-	.string "You were a cut above me…$"
+	.string "Da was recht erip…$"
 
 PetalburgCity_Gym_Text_MaryPostBattle:
-	.string "There are some even stronger\n"
-	.string "Trainers waiting for you.\p"
-	.string "The left is the Defense Room, and\n"
-	.string "the right is the Recovery Room.\p"
-	.string "Your Pokémon's Attack power will be\n"
-	.string "on trial either way.$"
+	.string "Links èje de koamr van Verdedihink.\n"
+	.string "Reks van HP.\p"
+	.string "Witje woarvoor dada staat?\n"
+	.string "Haa Pee?\p"
+	.string "…\n"
+	.string "HezondheidsPuntn.$"
 
 PetalburgCity_Gym_Text_MaryPostBadge:
-	.string "Do you know what we're trying to\n"
-	.string "achieve as Trainers?\p"
-	.string "We're striving to become soul mates\n"
-	.string "with our Pokémon.$"
+	.string "Wa wildje bereikn als Temmer?\n"
+	.string "Witje gie da?\p"
+	.string "We motn de band me onze\n"
+	.string "Pokémons nog mjir versterkn.$"
 
 PetalburgCity_Gym_Text_AlexiaIntro:
-	.string "The higher the Defense, the more\n"
-	.string "reckless I can be in attack.$"
+	.string "Oe mjir verdedihink,\n"
+	.string "oe risicovrijer dak kun aanvaln.$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat:
-	.string "Our defenses weren't enough…$"
+	.string "Fak…min enige zwakte…aanvalln.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBattle:
-	.string "I think you've taught me a valuable\n"
-	.string "lesson here.\p"
-	.string "Now, go on! The left door goes to\n"
-	.string "the Strength Room.\p"
-	.string "The right door opens to\n"
-	.string "the One-Hit KO Room.\p"
-	.string "Both of them have Trainers who are\n"
-	.string "skilled at offense.$"
+	.string "Gebt mij een wreed interesaante lesse\n"
+	.string "geljird.\p"
+	.string "Links goa je de Koamer van de\n"
+	.string "Sterkte vinden.\p"
+	.string "De rekse deur ga na de\n"
+	.string "Jin-Dzjoef-KO Koamr.\p"
+	.string "Beide zin dus redelik gericht\n"
+	.string "ip et aanvalln.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
-	.string "Hi! Have you tried using Surf?$"
+	.string "Yo! Eje al ke gesurfd?$"
 
 PetalburgCity_Gym_Text_JodyIntro:
-	.string "Our Gym Leader told us to go all out\n"
-	.string "and beat you.\p"
-	.string "Even if you happen to be the\n"
-	.string "Leader's kid!$"
+	.string "Een dzjoef iere,\n"
+	.string "een dzjoef doare.\p"
+	.string "Loat u kin nie bloot,\n"
+	.string "of 't goa ip uw mulle zin!$"
 
 PetalburgCity_Gym_Text_JodyDefeat:
-	.string "But… I went all out!$"
+	.string "Dzjoef… ip min eigen mulle!$"
 
 PetalburgCity_Gym_Text_JodyPostBattle:
-	.string "The way you use your Pokémon…\n"
-	.string "It's like your father's style.\p"
-	.string "Go on through! The Gym Leader, your\n"
-	.string "father, is waiting!$"
+	.string "Gie gebrukt Pokémon…\n"
+	.string "just lik u voadre.\p"
+	.string "Ge ziet wok da ze u echt\n"
+	.string "vertrouwn, da moakt u machtig!$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
-	.string "Sure, it's fine to make your Pokémon\n"
-	.string "stronger.\p"
-	.string "But what decides the winner?\p"
-	.string "Why, it's the feelings Trainers have\n"
-	.string "for their Pokémon.$"
+	.string "Bluvven trainen, bluvven trainen.\n"
+	.string "'k Ben al sterke genoeg.\p"
+	.string "Ma sin's dak verloren è\p"
+	.string "van de Wally 'me zin klitoren',\n"
+	.string "is uw pa nogal strenge voor ik.$"
 
 PetalburgCity_Gym_Text_DoorAppearsLocked:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "Godmiljaar, de fokking deur is\n"
+	.string "gesloten…\p"
+	.string "{PLAYER} hoort gefluister:\n"
+	.string "Mutn…$"
 
 PetalburgCity_Gym_Text_EnterSpeedRoom:
-	.string "“Speed Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Sneln Eddy,” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 @ Unused
 PetalburgCity_Gym_Text_DoorAppearsLocked2:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "Godmiljaar, de fokking deur is\n"
+	.string "gesloten…\p"
+	.string "{PLAYER} hoort gefluister:\n"
+	.string "Mutn…$"
 
 PetalburgCity_Gym_Text_EnterAccuracyRoom:
-	.string "“Accuracy Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Precieze Marie” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterConfusionRoom:
-	.string "“Confusion Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "Verwarringe” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterDefenseRoom:
-	.string "“Defense Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Verdedihink” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterRecoveryRoom:
-	.string "“Recovery Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Haa Pee” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterStrengthRoom:
-	.string "“Strength Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Sterkte” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterOHKORoom:
-	.string "“One-Hit KO Room,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Dzjoef” zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_EnterGymLeadersRoom:
-	.string "“Gym Leader's Room\p"
-	.string "“See for yourself what Pokémon await\n"
-	.string "you!” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“GYM LEIDER NORMAN\p"
+	.string "“Ik zehhe alsan, doe normaal!”\n"
+	.string "zegt et plakkoat.\p"
+	.string "Vulle pulle rechtn deure?$"
 
 PetalburgCity_Gym_Text_GymStatue:
-	.string "Petalburg City Pokémon Gym$"
+	.string "Poperinge Pokémon Gym$"
 
 PetalburgCity_Gym_Text_GymStatueCertified:
-	.string "Petalburg City Pokémon Gym\p"
-	.string "Norman's Certified Trainers:\n"
-	.string "{PLAYER}$"
+	.string "Poperinge Pokémon Gym\p"
+	.string "Norman's erkende Temmers:\n"
+	.string "{PLAYER}, Wally me zin Klitoren$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:
-	.string "Dad: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a Gym, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "…No, because we are parent and child,\n"
-	.string "we owe it to each other to do the best\l"
-	.string "we can. Isn't that right, {PLAYER}?$"
+	.string "Papa: {PLAYER}…\n"
+	.string "'k Ad een gevoel daje ging kom'n.\p"
+	.string "'k Goa nwoois een utdoaginge van je\n"
+	.string "afsloan.\p"
+	.string "Ge verstoat et toch?\p"
+	.string "In een gym, doet et er nie toe\n"
+	.string "dak u voadre ben.\p"
+	.string "…'t Is juste omda we die relatie èn\n"
+	.string "dawe et oan elkander verschudigd zin\l"
+	.string "om ons beste te doen. Akkoord, {PLAYER}?$"
 
 PetalburgCity_Gym_Text_NormanRematchDefeat:
 	.string "Uh… Haha…\n"
-	.string "Maybe that was going too hard…$"
+	.string "Miskien benk derover gegoan…$"
 
 PetalburgCity_Gym_Text_NormanPostRematch:
-	.string "Dad: {PLAYER}…\n"
-	.string "What is your dream?\p"
-	.string "My dream…\n"
+	.string "Papa: {PLAYER}…\n"
+	.string "Wat is jen droom?\p"
+	.string "Minnen droom…\n"
 	.string "Hahaha…\l"
-	.string "It has already come true, actually.$"
+	.string "Dien is al utgekom'n, feitelik.$"
 
 PetalburgCity_Gym_Text_NormanRematchNeedTwoMons:
-	.string "Dad: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a Gym, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "Hm? Wait a second, {PLAYER}.\p"
-	.string "Do you only have one Pokémon that is\n"
-	.string "capable of battle?\p"
-	.string "Sorry, but you'll have to come back\n"
-	.string "with at least two Pokémon.$"
+	.string "Papa: {PLAYER}…\n"
+	.string "'k Ad een gevoel daje ging kom'n.\p"
+	.string "'k Goa nwoois een utdoaginge van je\n"
+	.string "afsloan.\p"
+	.string "Ge verstoat et toch?\p"
+	.string "In een gym, doet et er nie toe\n"
+	.string "dak u voadre ben.\p"
+	.string "Hm? Wacht e ki, {PLAYER}.\p"
+	.string "Eje gie ma jin enkele Pokémon\n"
+	.string "om mee te battrn?\p"
+	.string "Azo niet e.\n"
+	.string "Kom ma were aje der twji ebt.$"
 

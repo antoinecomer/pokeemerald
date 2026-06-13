@@ -967,7 +967,7 @@ LittlerootTown_Text_WearTheseRunningShoes:
 	.string "Mwohhh, wa ne koddigen!\n"
 	.string "Allez, een cadeautje van de Gerrit?\l"
 	.string "Mohow zeg! Tis toch een pateeke!\p"
-	.string "Seg en euh, moeten die Pokémonsters\n"
+	.string "Seg en euh, moeten die 'Pokémonsters'\n"
 	.string "ier aan de leiband?\p"
 	.string "Aja en voordak et vergeet\n"
 	.string "pakt uw nieuwe BASKETS mee!\p"
@@ -1026,7 +1026,7 @@ LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
 	.string "Iere whe...in't hes lwop'n zonder\n"
-	.string "Pokémonster...ZOT!$"
+	.string "Pokémons...ZOT!$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
 	.string "Seg euhm!\n"
