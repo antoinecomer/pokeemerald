@@ -1440,7 +1440,7 @@ PetalburgCity_Gym_Text_DadGoingToKeepTraining:
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
 	.string "Papa: {PLAYER}, oe ist?\p"
 	.string "Ik zin volip aant trainen.\p"
-	.string "Ik peis da er gin "genoeg" is me\n"
+	.string "Ik peis da er gin 'genoeg' is me\n"
 	.string "me trainen. De skaai is de limit é.$"
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
