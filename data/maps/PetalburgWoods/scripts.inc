@@ -139,38 +139,38 @@ PetalburgWoods_EventScript_CelebiMoves2:
 	step_end
 
 Text_PetalburgWoods_Celebi0:
-	.string "The tree shakes softly.\p"
-	.string "You sense a presence. Someone or\n"
-	.string "something is watching you…\p"
-	.string "Yet, no Pokémon is in sight.$"
+	.string "De bwomn schuddn zachtjes.\p"
+	.string "Ge voelt een présence. Iemand of\n"
+	.string "iet bekikt u…\p"
+	.string "En toch, gin Pokémon in zicht.$"
 
 Text_PetalburgWoods_Celebi1:
 	.string ". . . \p"
 	.string ". . . \p"
-	.string "You can hear a dim voice.\p"
-	.string "S..w .. ..e . . .er . k. on\p"
-	.string ". . . \p"
-	.string "S..w me the Thund.r Po..mon…$"
+	.string "Ge hoort een zacht stemmeke.\p"
+	.string "D... k......\p"
+	.string ".ri. .ef.ers\p"
+	.string "Toon…mij…Bliksem…$"
 
 Text_PetalburgWoods_Celebi2:
 	.string ". . . \p"
 	.string ". . . \p"
-	.string "Sh.. me .he .olcano . ..mon$"
+	.string "Toon…mij…Vulkaan…$"
 
 Text_PetalburgWoods_Celebi3:
 	.string ". . . \p"
 	.string ". . . \p"
-	.string "Sho.. me t.. Au.ora …émon.$"
+	.string "Toon…mij…Aurora…$"
 
 Text_PetalburgWoods_Celebi4:
 	.string ". . . \p"
-	.string "Something is approaching…\p"
+	.string "Iets benadert u…\p"
 	.string ". . . $"
 
 Text_PetalburgWoods_Celebi_Donthave:
 	.string ". . . \p"
-	.string "..u d..'t h… i….\p"
-	.string "You don't have it…$"
+	.string "G..t..t..n..t..\p"
+	.string "Gebt et niet…$"
 
 Movement_PetalburgWoods_Celebi1:
 	emote_exclamation_mark
@@ -218,42 +218,37 @@ PetalburgWoods_Celebi_SignChampion::
 	end
 
 Text_PetalburgWoods_Celebi_Sign:
-	.string "Hi, {PLAYER}.\p"
-	.string "Dangerous? No, no. Don’t worry.\l"
-	.string "I always have Dusky with me.$"
+	.string "Hey, {PLAYER}.\p"
+	.string "Gevoarlik? Ma nint hie.\l"
+	.string "Zolang da Dusky bie mij is,\p"
+	.string "èkik niet te vrezen!$"
 
 Text_PetalburgWoods_Celebi_SignFirstTime:
-	.string "Oh, a trainer…\p"
-	.string "What are you doing here in these\n"
-	.string "dark, shady woods?\p"
+	.string "Oh, n'en Temmer…\p"
+	.string "Wuk doeje gij ier in dit\n"
+	.string "schimmig en duster stuk bos?\p"
 	.string ". . .\p"
-	.string "Oh, I see - you’re just passing by.\p"
-	.string "What? Ah, me?\p"
-	.string "I’m simply tending to the shrine,\n"
-	.string "as I always have.\p"
-	.string "You’re wondering why I take care of\n"
-	.string "an old shrine in the middle of\l"
-	.string "Petalburg Woods, aren’t you?\p"
-	.string "Well, this shrine is special.\n"
-	.string "In these woods lives a Mythical\l"
-	.string "Pokémon - the Forest Guardian.\p"
-	.string "I’ve been watching over it for\n"
-	.string "more than twenty years.\p"
-	.string "And I can assure you, this story\n"
-	.string "is as real as the air we breathe.\p"
-	.string "The Forest Guardian is small, Green,\n"
-	.string "and gazing at it feels…\p"
-	.string "Like seeing the spirit of the forest.\p"
-	.string "Sadly, I last saw it many, many\n"
-	.string "years ago…\p"
-	.string "Where could the Guardian be now?\p"
-	.string "Anyway, I’ll continue my duties.\n"
-	.string "See you soon!$"
+	.string "Gie wandelt ier geirn? Oké dan..\p"
+	.string "Wa? Ah, en ik ton?\p"
+	.string "Ik verzorg et altaar\n"
+	.string "lik dak al alsan gedoan eb.\p"
+	.string "Er goan legendes rond,\n"
+	.string "dat dit bos beskermd wordt door\l"
+	.string "een mythische, feeërieke Pokémon.\p"
+	.string "Al gans mn leven hou ik de wacht\n"
+	.string "ma ik zie em nie mjir.\p"
+	.string "Niemand gelooft mie, ma ie bestoat,\n"
+	.string "ik ZWEIR ET.\p"
+	.string "Ze noemn em..De Hroene Fee.\p"
+	.string "Helaas, et is al tientallen joarn\n"
+	.string "geleden dak em gezien eb…\p"
+	.string "Merci vo de babbel, 'k ga min\n"
+	.string "werk hernemen! Tot de volhende!$"
 
 Text_PetalburgWoods_Celebi_SignEventFinished:
 	.string ". . .\p"
-	.string "I can hardly believe my eyes!\n"
-	.string "You actually battled the Guardian!?\p"
+	.string "Ik kun min ogen nie geloven!\n"
+	.string "Gebt...De Hroene Free gezien!?\p"
 	.string "I’ll never forget this moment.\p"
 	.string "I’ll keep tending to the shrine\l"
 	.string "until the Guardian returns!$"
