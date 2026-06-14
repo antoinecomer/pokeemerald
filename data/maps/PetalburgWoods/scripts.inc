@@ -733,5 +733,6 @@ PetalburgWoods_Text_TrainerTipsPP:
 	.string "Graptje, ma serieus, PP is écht.\p"
 	.string "Da stoat vo PoerPunten. Aje Pokémon\n"
 	.string "gin Poer mé èt, zije geskeetn.\p"
-	.string {PLAYER}: Welkne mullaert skrivt er da.$"
+	.string "{PLAYER}: Welkne mullaert skrivt er da.$"
+
 
