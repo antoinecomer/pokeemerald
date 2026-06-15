@@ -482,7 +482,7 @@ DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
 	.string "Mr. Pekel: Ellendige...land...lopers..\n"
 	.string "...? AH! Ahoi m'n moatje!\p"
 	.string "Gingdjegij nie Kap'tein\n"
-	.string "Haddock da BarcoPak goan geven?$"
+	.string "Haddock da pakket goan afgeevn?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
 	.string "Mr. Pekel: AHOI, MIN MOATJE!\n"
