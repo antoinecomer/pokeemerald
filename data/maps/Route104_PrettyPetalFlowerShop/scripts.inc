@@ -63,14 +63,15 @@ Route104_PrettyPetalFlowerShop_EventScript_MintOwner::
 	end
 
 Route104_PrettyPetalFlowerShop_Text_Mints1:
-	.string "Our Nature Mints are back!\n"
-	.string "Have a look!$"
+	.string "Gast...Nature Mints...\n"
+	.string "Ze zin weer in stock! Namnamnam...$"
 
 Route104_PrettyPetalFlowerShop_Text_Mints2:
-	.string "Hi, dear Trainer. If you are looking\n"
-	.string "to buy Nature Mints, you should have\l"
-	.string "come earlier. I just sold the last one.\n"
-	.string "Come back later.$"
+	.string "Aaaah zijdje ip zoek naar 'Nature Mints'?\n"
+	.string "Ke 'k ik juste de loatsen ipgefret...\l"
+	.string "Ahahahaha...\n"
+	.string "Kom ma een andre ke were! Hahahaha!!\p"
+	.string "{PLAYER}: Dikke mutn...$"
 
 	.align 2
 Route104_PrettyPetalFlowerShop_MintShop:
