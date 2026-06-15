@@ -1022,73 +1022,76 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "The Devon Corporation…\n"
-	.string "We all just shorten it to Devon.\p"
-	.string "That company makes all sorts of\n"
-	.string "convenient products.$"
+	.string "Belgian American Radio COrporation…\n"
+	.string "Mo iederjin zegt geweun Barco whé.\p"
+	.string "Ze moakn vooral skermn\n"
+	.string "vroeger wok minder kosjere dingn..\l"
+	.string "woois al gwôrd van Scioteq?$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
-	.string "Hm? A sneaky-looking man?\p"
-	.string "Come to think of it, yes, a shady-\n"
-	.string "looking guy went around the corner.$"
+	.string "Hm? Een verdachte vintje?\p"
+	.string "Ne roare snuiter? Ier in Kortrik?\n"
+	.string "Uhm ja, kiekt gewoon rond u.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Have you taken the Pokémon Gym\n"
-	.string "challenge?\p"
-	.string "When you get that shiny Gym Badge\n"
-	.string "in hand, I guess Trainers begin to\l"
-	.string "realize what is required of them.$"
+	.string "Eje gie woois al ne ke\n"
+	.string "n'en gym Leider utgedoagd?\p"
+	.string "Jin ke daje je jiste medaille\n"
+	.string "ip zak èt, is 't versloavend, da hevoel\l"
+	.string "van ma'ht, ge joagt et direk achternoa.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
-	.string "Hey, that's Rustboro's Gym Badge!\p"
-	.string "Out of all the Pokémon Gym Badges,\n"
-	.string "Rustboro's is the coolest, I'd say.$"
+	.string "Ey, das de medaille van onze Gym!\p"
+	.string "Van al de medailles,\n"
+	.string "ebben wewudder den besten, vindje nie?$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Oh? Who might you be?\n"
-	.string "You're a new face around these parts.\p"
-	.string "Have you just transferred into the\n"
-	.string "Pokémon Trainer's School?$"
+	.string "Oh? En wie zijdje gij?\n"
+	.string "Nie van alier zeker?\p"
+	.string "Komdje u aanslutn als student onze\n"
+	.string "skool? Ge zijt gij welkom whé!\p"
+	.string "En tevens ge ziet erut daje wel\n"
+	.string "'t een en 't ander kun bieljirn...$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
-	.string "I challenged the Gym Leader, but…\p"
-	.string "It's not going to be easy winning with\n"
-	.string "my Fire-type Pokémon…\p"
-	.string "Fire-type Pokémon don't match up\n"
-	.string "well against Rock-type Pokémon…$"
+	.string "Ik wille Roxanne utdoagn mo…\p"
+	.string "'t Is gin kattepis whé,\n"
+	.string "min Pokémon zin van 't type VUUR…\p"
+	.string "dadis beireslicht tehen STEEN.\n"
+	.string "'k Goa ip men mulle krign, kvoel et…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "The old sailor Mr. Briney lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He goes for walks in the tunnel every\n"
-	.string "so often.$"
+	.string "Dien odn zeiler, Mr. Pekel, weunt\n"
+	.string "in da skwon uizeke aan 't zeetje.\p"
+	.string "Mo ie komt ier geirn een wandelingske\n"
+	.string "doen, in die tunnel verderip!$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "The old sailor Mr. Briney lives in\n"
-	.string "a cottage by the sea.\p"
-	.string "He said he was going shopping in\n"
-	.string "Slateport for his pet, Peeko.\p"
-	.string "That old sea dog, he must really love\n"
-	.string "that Peeko.$"
+	.string "Dien odn zeiler, Mr. Pekel, weunt\n"
+	.string "in da skwon uizeke aan 't zeetje.\p"
+	.string "Ie verteldehe, dat ie speciaal na\n"
+	.string "Nieuwpoort goa vo cadeautjes te kopen\p"
+	.string "vo zinne vogel, Pico! Dien ruige zeehond\n"
+	.string "éeft eigenlijk toch een teder artje.$"
 
 RustboroCity_Text_WowYouHavePokemon:
-	.string "Wow, you have Pokémon with you, too.\p"
-	.string "When I get bigger, I'm going to go\n"
-	.string "places with Pokémon, too.$"
+	.string "Wow, gie èt coole Pokémons.\p"
+	.string "Mak ze ne kji aaien?\n"
+	.string "Mama is bang dak hondsdholheid krigge.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
-	.string "Pokémon Trainer's School!\p"
-	.string "If I go to this school, will I be able\n"
-	.string "to catch rare Pokémon easily?$"
+	.string "Een skoole vo Temmers!\p"
+	.string "Ak ip skoole ga,\n"
+	.string "goak blinkers kunn' vangn peisdje?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "If a Pokémon gains experience in\n"
-	.string "battles, it can sometimes change in\l"
-	.string "the way it looks.$"
+	.string "Als ne Pokémon battert,\n"
+	.string "kriegt ie IeksPee bij, MOAR\l"
+	.string "als ik batter, krig ik 'n blauw oog.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "A Pokémon changes shape?\n"
-	.string "If one did that, I would be shocked!$"
+	.string "Ne Pokémon verandert soms van vorm?\n"
+	.string "Ik wok! Ak twintig Bicky's eet!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
 	.string "A Pokémon you get in a trade from\n"
@@ -1097,25 +1100,26 @@ RustboroCity_Text_TradePokemonGrowFast:
 	.string "Badges, it may not obey you…$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Get out!\n"
-	.string "Out of the way!$"
+	.string "Ut minne weg!\n"
+	.string "HERT ZEG IK U!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
-	.string "Wait! Pleeeaaase!\p"
-	.string "Don't take my Goods!$"
+	.string "ELA! DIEF!!! ELLENDELING!!!!\p"
+	.string "GEEFT DA TERUG, GIJ MARGINAAL!$"
 
 RustboroCity_Text_HelpMeIWasRobbed:
-	.string "Oh, it's you!\p"
-	.string "You're that fantastic Trainer who\n"
-	.string "helped me in Petalburg Woods!\p"
-	.string "Help me! I was robbed by Team Aqua!\n"
-	.string "I have to get the Devon Goods back!\p"
-	.string "If I don't…\n"
-	.string "I'm going to be in serious trouble.$"
+	.string "Moh, 't is gij'!\p"
+	.string "Minnen 'eld! Merci whé vo da\n"
+	.string "gespuis ip z'n ploatse te zetn!\p"
+	.string "Zeg eh, 'k goa alweer ip je goedwillig-\n"
+	.string "heid motn reeknen! Z'ebben een belangrik\p"
+	.string "pakket van me geript…\n"
+	.string "Kzweirem. Die keirl moet eran.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "That shady character, I think he took\n"
-	.string "off towards the tunnel over there.$"
+	.string "Dien bandiet vluchtte den tunnel in!\n"
+	.string "Ik stond erbie en ik keek dernoar. Aja é.\p"
+	.string "Waroem dak em nie tehenield? ZOT zeker?$"
 
 RustboroCity_Text_YouGotItThankYou:
 	.string "Oh! How did it go?\n"
