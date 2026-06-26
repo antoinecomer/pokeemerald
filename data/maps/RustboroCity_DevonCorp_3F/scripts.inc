@@ -200,61 +200,65 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay::
 	end
 
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
-	.string "I'm Mr. Stone, the President of\n"
-	.string "the Devon Corporation.\p"
-	.string "I'd just got word about you!\p"
-	.string "You saved our staff not just once,\n"
-	.string "but twice!\p"
-	.string "I have a favor to ask of an amazing\n"
-	.string "person like you.\p"
-	.string "I understand that you're delivering\n"
-	.string "a package to Slateport's Shipyard.\p"
-	.string "Well, on the way, could you stop off in\n"
-	.string "Dewford Town?\p"
-	.string "I was hoping that you'd deliver a\n"
-	.string "Letter to Steven in Dewford.$"
+	.string "Elk zin dag, ik benne Mr. Verstichel,\n"
+	.string "den Sie Ie Ooh, jazeker.\p"
+	.string "'k Eb just 't een en 't ander over u g'oord!\p"
+	.string "Gie èt ons personeel gered, nie jin ki..\n"
+	.string "MO TWJI KI! Alléhow zeg.\p"
+	.string "'k Goa 'k ik u toch nog iet moet'n vroagn,\n"
+	.string "'k ga mie nie generen!\p"
+	.string "A'k et goe behrepen eb..\n"
+	.string "moeje gie toch algelik in Nieuwpoort zin.\p"
+	.string "Zoudjet zien zitn om een tussenstopke\n"
+	.string "te moakn in De Panne?\p"
+	.string "'k Zou geirn èn daje n'en brief\n"
+	.string "afgeeft aan de Steven.\p"
+	.string "Een jobke a's postduf, en goe betoald!$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
-	.string "Mr. Stone: Now, you should know that\n"
-	.string "I am a great President.\p"
-	.string "So, I'd never be so cheap as to ask\n"
-	.string "a favor for nothing in return.\p"
-	.string "That's why I want you to have this!$"
+	.string "Mr. Verstichel: Nu, ge moet weetn,\n"
+	.string "min hénérositeit n'è gin hrenzn.\p"
+	.string "Dus ik 'è 'k ik nog 'n twa\n"
+	.string "vo jen, gratis en vo niet.\p"
+	.string "Nint, n' is gin twintigduusd dollar.$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
-	.string "{PLAYER} received a Pokénav.$"
+	.string "{PLAYER} kreeg den Pokénav.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
-	.string "Mr. Stone: That device…\p"
-	.string "It's a Pokémon Navigator, or Pokénav\n"
-	.string "for short.\p"
-	.string "It's an indispensable tool for any\n"
-	.string "Trainer on an adventure.\p"
-	.string "It has a map of the Hoenn region.\p"
-	.string "You can check the locations of\n"
-	.string "Dewford and Slateport easily!\p"
-	.string "By the way, I've heard that sinister\n"
-	.string "criminals--Magma and Aqua, I believe--\l"
-	.string "have been making trouble far and wide.\p"
-	.string "I think it would be best if you rested\n"
-	.string "up before you go on your way.$"
+	.string "Mr. Vertsichel: Da machientje…\p"
+	.string "Daddis ne 'Hé Pé Es', oftewel ne Navigator,\n"
+	.string "me Poké dervoor want da klonk goe.\p"
+	.string "Gin vroagn steln, geweun aanvoardn.\n"
+	.string "Elkne temmer, ELKNEN temmer è da nodig.\p"
+	.string "Een koarte. Oe vindje anders jenne weg terug?\p"
+	.string "Ma echt tot in de details enal é!\n"
+	.string "Hjil Oen, allez Hoenn, in je broekzak.\p"
+	.string "Daddis toch machtig...?\n"
+	.string "Aja nog iets, {PLAYER},\l"
+	.string "der is een vré gespuis ip de boane.\p"
+	.string "Van die witi's die zich Aqua of Mahma noemn,\n"
+	.string "geweune negeren en gin spel mee zoekn, verstoajt?$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneGoWithCautionAndCare:
-	.string "Mr. Stone: Well, then, {PLAYER}{KUN},\n"
-	.string "go with caution and care!$"
+	.string "Mr. Vertsichel: En ezo, voilà se. Moh,\n"
+	.string "kiek ne ke na 't uur zeg, is 't al zo laat zeg?\p"
+	.string ".....(Mr. Verstichel klapt in z'n handen) Jah!\n"
+	.string "Allez moakt daje wegkomt, kheb sebiet vergoaringe.\p"
+	.string "Ik kun ip u rekenen!$"
 
 RustboroCity_DevonCorp_3F_Text_CountingOnYou:
-	.string "Mr. Stone: I'm counting on you!$"
+	.string "Mr. verstichel: Ik reken ip u!$"
 
 RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter:
-	.string "Mr. Stone: You delivered my Letter?\n"
+	.string "Mr. Vertsichel: You delivered my Letter?\n"
 	.string "Thank you kindly!\p"
 	.string "This is my way of thanking you.\n"
 	.string "It should help you, a Trainer.$"
 
 RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
-	.string "Mr. Stone: There are two types of\n"
-	.string "Exp. Share items:\l"
+	.string "Mr. Verstichel: Eje gie woois al g'wôrd van\n"
+	.string "Dart Plahies de Wijzn?\l"
 	.string "The Key Item and the Held Item.\p"
 	.string "If you turn the Key Item Exp. Share\n"
 	.string "on, all Pokémon in the party will gain\l"
@@ -301,18 +305,20 @@ RustboroCity_DevonCorp_3F_Text_WordWithPresidentComeWithMe:
 	.string "Please come with me.$"
 
 RustboroCity_DevonCorp_3F_Text_PleaseGoAhead:
-	.string "Please, go ahead.$"
+	.string "Ga veurt, en vermenigvuldig u!\n"
+	.string "{PLAYER}: ..?!\p"
+	.string "Ik neem niets terug.$"
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard:
-	.string "If you visit the Shipyard in Slateport,\n"
-	.string "you should go see Capt. Stern.$"
+	.string "Aje de skeepswerf in Nieuwpoort ga zien,\n"
+	.string "zodje in principe Kap'tein Haddock moetn zien.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular:
-	.string "Devon's new products, the Repeat Ball\n"
-	.string "and Timer Ball, have become hugely\l"
-	.string "popular among Trainers.$"
+	.string "Ge weet, wudr verkwo'pn van die Pokéballen é.\n"
+	.string "Da bring nog bitje geld binn' whé.\l"
+	.string "Vervuiling? Microplastiek? Nie truntn é.$"
 
 RustboroCity_DevonCorp_3F_Text_RareRocksDisplay:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by the President.$"
+	.string "Een machtige collectie...\n"
+	.string "...spittige zoake dat et stjin'n betreft.$"
 

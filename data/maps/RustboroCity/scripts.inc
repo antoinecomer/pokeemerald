@@ -1094,10 +1094,12 @@ RustboroCity_Text_PokemonChangeShape:
 	.string "Ik wok! Ak twintig Bicky's eet!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "A Pokémon you get in a trade from\n"
-	.string "someone grows fast.\p"
-	.string "But if you don't have certain Gym\n"
-	.string "Badges, it may not obey you…$"
+	.string "Wistje da aje je Pokémons ruilt\n"
+	.string "da ze duusd ke rapr ipgroeien?\p"
+	.string "Wa veur 'n ondankboare bjistn zin da\n"
+	.string "eigenlik? 's Anderendoags 'ad ik de\l"
+	.string "juste medaille nie en al da min Zigzagoon\p"
+	.string "dee was piss'n ip de grond…$"
 
 RustboroCity_Text_OutOfTheWay:
 	.string "Ut minne weg!\n"
@@ -1122,141 +1124,146 @@ RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
 	.string "Waroem dak em nie tehenield? ZOT zeker?$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Oh! How did it go?\n"
-	.string "The Devon Goods?\p"
-	.string "You did!\n"
-	.string "You got them back!\p"
-	.string "You really are a great Trainer!\p"
-	.string "I know! As my thanks, I'll give you\n"
-	.string "another Great Ball!$"
+	.string "Aaaah wiedawe doar ebn SÈ!\n"
+	.string "Eje da pakket kunn' bemachtigen?\p"
+	.string "Godmiljaarnondeju, {PLAYER} ge zie\n"
+	.string "gij toch echt wel een pateeke!\p"
+	.string "En n'en machtigen Temmer!\p"
+	.string "Amai nog nie! En a's e' bedankingsje\n"
+	.string "ierse, een schelleke! Allez, een balleke.$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "You're loaded with items.\n"
-	.string "I can't give you this Great Ball.$"
+	.string "Gèt gie bere veel vast.\n"
+	.string "Leegt uwe zak vo min ballen te ontvangn.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Excuse me, please!\n"
-	.string "Please come with me!$"
+	.string "Sorry whé!\n"
+	.string "Kundje ke meekom'n?$"
 
 RustboroCity_Text_MayHiLetsRegister:
-	.string "{RIVAL}: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "You had a Match Call feature put\n"
-	.string "on your Pokénav!\p"
-	.string "Let's register each other so we can\n"
-	.string "contact one another anytime!\p"
+	.string "{RIVAL}: Ah, hey! {PLAYER}{KUN}!\p"
+	.string "Ah trouwens, 'ad je gij mijn\n"
+	.string "nummer al ip PokéNAV?\p"
+	.string "Wachte, kgoat vo je intypen,\n"
+	.string "stuur ma wanneer daje wilt whé!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registered {RIVAL}\n"
-	.string "in the Pokénav.$"
+	.string "{RIVAL} is herehistreerd\n"
+	.string "in je Pokénav. Nie mis… … … …$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "{RIVAL}: Oh, by the way, I passed\n"
-	.string "Mr. Briney in Petalburg Woods.\p"
-	.string "I guess he's on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "How's your Pokédex coming along,\n"
-	.string "{PLAYER}{KUN}? Mine's looking pretty decent!\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "{RIVAL}: Aja en nog iet!\n"
+	.string "Weetje wie dak davers gepasseerd benne\p"
+	.string "in 't Kennedybos? Ge moog ke raden.\n"
+	.string "… …Yarrrr min moatje. MR. PEKEL!\p"
+	.string "Daddis toch wok ne vréen é.\n"
+	.string "Dus eh…dit gezegdzijnde!\p"
+	.string "({RIVAL} klapt in haar handen)\n"
+	.string "Wa denk je, batteringske?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
-	.string "{RIVAL}: Oh, what's the matter?\p"
-	.string "Haven't you caught or raised your\n"
-	.string "Pokémon very much?\p"
-	.string "That's not very good for a Trainer!$"
+	.string "{RIVAL}: Allez, durfdje nie miskien?\p"
+	.string "Of bang van te verliezen\n"
+	.string "van een meiske?\p"
+	.string "Gèt grwoot gelijk! Ha!$"
 
 RustboroCity_Text_MayWantToBattle:
-	.string "{RIVAL}: So, what do you think?\n"
-	.string "How about a little battle here?$"
+	.string "{RIVAL}: Dus, wa zal et zin?\n"
+	.string "Ier, nu, gij en ik, batteringske?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
-	.string "{RIVAL}: You just became a Trainer,\n"
-	.string "{PLAYER}{KUN}. I'm not going to lose!$"
+	.string "{RIVAL}: We zin ongeveer ipt zelfde\n"
+	.string "moment Temmer geword'n, {RIVAL}!\p"
+	.string "Ma 'k goat je daarom nie makkelik moakn!\p"
+	.string "Peis ma nie dak duusd ke Harden ga spamm'n whé!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Aiaiai! Ge zijt inderdaad een slagsje\n"
+	.string "sterkr dan al die 'Bug Catchers'!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "{RIVAL}: Oh, by the way, Mr. Briney, who\n"
-	.string "I just passed…\p"
-	.string "{PLAYER}{KUN}, you just moved here so you\n"
-	.string "might not know this, but Mr. Briney\l"
-	.string "was once a revered seafarer.$"
+	.string "{RIVAL}: Ah, voordak et vergeet, de Pekel é,\n"
+	.string "dak davers é gepasseerd…\p"
+	.string "{PLAYER}{KUN}, ge zit gij ier verrust dus\n"
+	.string "ge wit et miskien nie ma, die keirl was\l"
+	.string "in een vorig leevn ne kapitein, zo machtig,\p"
+	.string "da de zeeën em vreesdehen, allez, da zeggen ze.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
-	.string "{RIVAL}: Oh, hey, {PLAYER}!\p"
-	.string "You had a Match Call feature put\n"
-	.string "on your Pokénav! Cool!\p"
-	.string "Let's register each other so we can\n"
-	.string "get in touch anytime!\p"
+	.string "{RIVAL}: Ah, hey! {PLAYER}{KUN}!\p"
+	.string "Ah trouwens, 'ad je gij mijn\n"
+	.string "nummer al ip PokéNAV?\p"
+	.string "Wachte, kgoat vo je intypen,\n"
+	.string "stuur ma wanneer daje wilt whé!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registered {RIVAL}\n"
-	.string "in the Pokénav.$"
+	.string "{RIVAL} is herehistreerd\n"
+	.string "in je Pokénav. Jeij!$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
-	.string "{RIVAL}: By the way, {PLAYER}, I walked\n"
-	.string "by Mr. Briney in Petalburg Woods.\p"
-	.string "I bet he was on his way home to his\n"
-	.string "cottage by the sea.\p"
-	.string "{PLAYER}, how's your Pokédex?\n"
-	.string "Have you filled in any pages yet?\p"
-	.string "Mine rules.\p"
-	.string "Want to have a battle to test how\n"
-	.string "far you've progressed?$"
+	.string "{RIVAL}: Aja en nog iet!\n"
+	.string "Weetje wie dak davers gepasseerd benne\p"
+	.string "in 't Kennedybos? Ge moog ke raden.\n"
+	.string "… …Yarrrr min moatje. MR. PEKEL!\p"
+	.string "Daddis toch wok ne vréen é.\n"
+	.string "Dus eh…dit gezegdzijnde!\p"
+	.string "({RIVAL} klapt in zijn handen)\n"
+	.string "Wa denk je, batteringske?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "{RIVAL}: What's the matter? Don't have\n"
-	.string "any confidence in your Pokémon?$"
+	.string "{RIVAL}: Allez, durfdje nie miskien?\p"
+	.string "'t Is ma vo de leute é!\n"
+	.string "Bitje confidence in uzelf!$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "{RIVAL}: What's up?\n"
-	.string "Want to have a battle with me?$"
+	.string "{RIVAL}: En?\n"
+	.string "Eje de moed bijeengeroapt vo een matchke?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "{RIVAL}: I know you just became\n"
-	.string "a Trainer, but I won't go easy!$"
+	.string "{RIVAL}: Doe je beste!\n"
+	.string "Want ik goa 't wok min al geevn!$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Joaaa 't gotvert…!\n"
+	.string "Amai! 'k Mag je zeker nie onderskatn!$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "{RIVAL}: By the way, you know\n"
-	.string "Mr. Briney? The guy I just passed?\p"
-	.string "I bet you didn't know this, since you\n"
-	.string "just moved here, {PLAYER}, but\l"
-	.string "Mr. Briney was once a great sailor.$"
+	.string "{RIVAL}: Ah, voordak et vergeet, de Pekel é,\n"
+	.string "dak davers é gepasseerd…\p"
+	.string "{PLAYER}, ge zit gij ier verrust dus\n"
+	.string "ge wit et miskien nie ma, die keirl was\l"
+	.string "in een vorig leevn ne kapitein, zo machtig,\p"
+	.string "da de zeeën em vreesdehen, allez, da zeggen ze.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Timesaving tunnel nearing\n"
-	.string "completion!”\p"
-	.string "…Is what it says on the sign, but\n"
-	.string "there's also a big “X” splashed\l"
-	.string "across it in red paint…$"
+	.string "“De Tunnel die Tijd Bespaart' is in\n"
+	.string "zijn eindfase!”\p"
+	.string "…da stoat ip da bord ma pertank\n"
+	.string "da spel duurt blikboar al evenlange\l"
+	.string "lik de renovatie van Gent Sint-Pieters…$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "Devon Corporation\p"
-	.string "“For all your living needs, we make\n"
-	.string "it all.”$"
+	.string "Barco\p"
+	.string "“Wij moakn skermen\n"
+	.string "alsof ze voor onszelve zin.”$"
 
 RustboroCity_Text_GymSign:
-	.string "Rustboro City Pokémon Gym\n"
-	.string "Leader: Roxanne\p"
-	.string "“The Rock-loving honors student!”$"
+	.string "Kortrijk Pokémon Gym\n"
+	.string "Leider: Roxanne\p"
+	.string "“Onversloagne winnoar van bladsteenschoar\n"
+	.string "als blad nie meedoet”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "Devon Corp. Branch Office\p"
-	.string "“Access limited to Devon employees\n"
-	.string "and authorized personnel.”$"
+	.string "Barco filiaal\p"
+	.string "“Toegang enkel voor mensen met een\n"
+	.string "badge en veel te dure externen.”$"
 
 RustboroCity_Text_CitySign:
-	.string "Rustboro City\p"
-	.string "“The city probing the integration of\n"
-	.string "nature and science.”$"
+	.string "Kortrijk\p"
+	.string "“De stad die niet Gent is,\n"
+	.string "ma 'et zo geirn wil zijn”$"
 
 RustboroCity_Text_TrainersSchoolSign:
 	.string "Pokémon Trainer's School\p"
@@ -1264,40 +1271,40 @@ RustboroCity_Text_TrainersSchoolSign:
 	.string "Pokémon!”$"
 
 RustboroCity_Text_CuttersHouse:
-	.string "Cutter's House$"
+	.string "Huis van de KUTKEIRL$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "I've been developing an added feature\n"
-	.string "for the Pokénav…\p"
-	.string "And it turned out great!\p"
-	.string "{PLAYER}, may I see that Pokénav?\n"
-	.string "The one our President gave you?$"
+	.string "Ik bennekik bezig me een nieuwe 'fietuur'\n"
+	.string "te moakn vo de Pokénav…\p"
+	.string "Fietuur, nint, gin Friture!\p"
+	.string "{PLAYER}, magk jen Pokénav efkes?\n"
+	.string "Dien daje gekregen èt van onzen CEO?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
-	.string "There you go, {PLAYER}!\p"
-	.string "I added a new feature named\n"
-	.string "Match Call to your Pokénav.\p"
-	.string "Using the Match Call feature,\n"
-	.string "you can chat with people who have\l"
-	.string "been registered in your Pokénav.\p"
-	.string "{PLAYER}, our President Stone should\n"
-	.string "be registered in your Pokénav.\p"
-	.string "Test it out.\n"
-	.string "Please give our President a call.$"
+	.string "Voilà se, {PLAYER}!\p"
+	.string "Kheb em utgerust me een nieuwe...\n"
+	.string "frit-..featu-..functie...\p"
+	.string "Min gedachtn zitn elders.\n"
+	.string "De functie heet "Revancheke".\l"
+	.string "Aje n'en Temmer z'n nummer èt,\p"
+	.string "kundjem ipbeln vo een matchke.\n"
+	.string "Handih éé.\p"
+	.string "Onzne CEO stoat wok in 't telefoonboek.\n"
+	.string "Belt em ke ip?$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Please select the Pokénav.$"
+	.string "Helieve den Pokénav te selectern, tjoetn.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, I'd better get back to work.\n"
-	.string "Please take care, {PLAYER}!$"
+	.string "Oké, 'k ga nu weer bitje pretenderen dak druk\n"
+	.string "bezig benne. Ciao é, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
-	.string "Did you know this?\p"
-	.string "You can have a 2-on-2 battle even\n"
-	.string "if you're not with another Trainer.\p"
-	.string "If you catch the eyes of two Trainers\n"
-	.string "when you have two or more Pokémon,\l"
-	.string "they'll both challenge you.\p"
-	.string "Don't you think it'd be cool if you\n"
-	.string "could beat two Trainers by yourself?$"
+	.string "Wistje dadde?\p"
+	.string "Ge kun 2v2 boattringen doen zelfs\n"
+	.string "aje aljinne zie!\p"
+	.string "Aje n'en tweeling krust, Siamees of niet,\n"
+	.string "dan kundje ze twôpe in jin ke\l"
+	.string "utdoagn en mohelijks afkussn.\p"
+	.string "Zodda nie ma'hhtig zijn...\n"
+	.string "twee vliegn, allez, temmers, in jin klap?$"
