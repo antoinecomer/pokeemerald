@@ -22,16 +22,16 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall::
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
-	.string "Way back in the old days, Devon was just\n"
-	.string "a teeny, tiny company.$"
+	.string "Lang heleden, lang lang heleden...\n"
+	.string "toen was ik nog niet heboren.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
-	.string "My daddy's working at the Corporation.\p"
-	.string "My daddy made this!\n"
-	.string "But I can't use it, so you can have it.$"
+	.string "Min voader werkt ier.\p"
+	.string "Kiek wadatie hemoakt é!\n"
+	.string "Ik kunt niet hebrukn, dus ge meug et èn.$"
 
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo:
-	.string "My daddy's working at the Corporation.\p"
-	.string "When I grow up, I'm going to work for\n"
-	.string "Devon, too.$"
+	.string "Min voader werkt ier veur et bedrif.\p"
+	.string "Dankzie de kracht van nepotisme,\n"
+	.string "goakik ier loatr wok werken.$"
 
