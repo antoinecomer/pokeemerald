@@ -50,32 +50,34 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "Huh? My Pokémon is cute?\n"
-	.string "Sure, I knew that.\p"
-	.string "But if you really want, I'm willing\n"
-	.string "to trade it to you.\p"
-	.string "I'll trade you my {STR_VAR_2} for\n"
-	.string "a {STR_VAR_1} if you want.$"
+	.string "Huh? Min Pokémon is koddig?\n"
+	.string "Da moeje mie nie vertelln whé.\p"
+	.string "Ma omdajet gie zijt, wil ik u wel n'en\n"
+	.string "deal doen. 'k Doe da nie alledoagn whe.\p"
+	.string "Mijnen {STR_VAR_2} vo\n"
+	.string "jun {STR_VAR_1}, wuk peisdje?$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
 	.string "Eheheh…\n"
-	.string "Please be good to my Pokémon.$"
+	.string "Brave zin é me min Pokémon.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
-	.string "Huh? That doesn't look anything like\n"
-	.string "a {STR_VAR_1} to me.$"
+	.string "Huh? Peisdje gie nu serieus, doodserieus,\n"
+	.string "da DA, n'en {STR_VAR_1} is?\p
+	.strong "Lemayonnaise lik da ze zeggn$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
-	.string "Oh, if you don't want to, that's okay.\n"
-	.string "But my Pokémon is cute, you know…$"
+	.string "Oh, ajem nie moe ebbn, gin probleem.\n"
+	.string "Ma min Pokémon is beeere koddig, ti ma ke zeggen…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
-	.string "Any Pokémon can be cute if you raise\n"
-	.string "it with care and kindness.$"
+	.string "Gelik welkne Pokémon kun koddig zin\n"
+	.string "aje ze me genoeg liefde ipvoedt.\p
+	.string "Behalve Mr. Mime. Da zin vullards.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
-	.string "In all sorts of places, there are all\n"
-	.string "sorts of Pokémon and people.\p"
-	.string "I find that fascinating, so I go to all\n"
-	.string "sorts of places.$"
+	.string "Nieuwe ploatsn, nieuwe Pokémons,\n"
+	.string "ma wok, nieuwe mensn, helaas.\p"
+	.string "En ze komen ton uw 'us binn',\n"
+	.string "en beginnen te tetteren lik gin ander.$"
 

@@ -10,12 +10,12 @@ RustboroCity_House2_EventScript_LittleGirl::
 	end
 
 RustboroCity_House2_Text_TrainerSchoolExcellent:
-	.string "The Trainer's School is excellent.\p"
-	.string "If you study there, you could even\n"
-	.string "become a Gym Leader.$"
+	.string "Onze skole vo Temmers is machtig.\p"
+	.string "Roxanne is daar als klein meiske begonnen,\n"
+	.string "en geeft er nu zelve lesse, das toch skwonne, nie?$"
 
 RustboroCity_House2_Text_RoxanneKnowsALot:
-	.string "Roxanne, the Gym Leader, really knows\n"
-	.string "a lot about Pokémon.\p"
-	.string "She's really strong, too!$"
+	.string "Wudr zin de Roxanne fanclub.\n"
+	.string "Lik Swifties ma ton. Roxfannekes.\p"
+	.string "Ey, 't is een hobby lik een ander!$"
 
