@@ -72,7 +72,7 @@ RustboroCity_House1_Text_YouDontWantToThatsOkay:
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
 	.string "Gelik welkne Pokémon kun koddig zin\n"
-	.string "aje ze me genoeg liefde ipvoedt.\p
+	.string "aje ze me genoeg liefde ipvoedt.\p"
 	.string "Behalve Mr. Mime. Da zin vullards.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
