@@ -1285,7 +1285,7 @@ RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Kheb em utgerust me een nieuwe...\n"
 	.string "frit-..featu-..functie...\p"
 	.string "Min gedachtn zitn elders.\n"
-	.string "De functie heet "Revancheke.\l"
+	.string "De functie heet 'Revancheke'.\l"
 	.string "Aje n'en Temmer z'n nummer èt,\p"
 	.string "kundjem ipbeln vo een matchke.\n"
 	.string "Handih éé.\p"
