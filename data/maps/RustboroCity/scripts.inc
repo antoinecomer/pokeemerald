@@ -1275,7 +1275,7 @@ RustboroCity_Text_CuttersHouse:
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
 	.string "Ik bennekik bezig me een nieuwe 'fietuur'\n"
-	.string "te moakn vo de Pokénav…\p"
+	.string "t'ontwikkeln vo de Pokénav…\p"
 	.string "Fietuur, nint, gin Friture!\p"
 	.string "{PLAYER}, magk jen Pokénav efkes?\n"
 	.string "Dien daje gekregen èt van onzen CEO?$"
