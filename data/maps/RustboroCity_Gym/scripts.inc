@@ -212,7 +212,7 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "Under Attak is een pak 'oher,\n"
 	.string "en ge kunt nu CUT gebrukn.\p"
 	.string "Names de Kortrikzanen excuseer ik mij vo\n"
-	.string "dien absoluten debiel die CUT geeft.\pak
+	.string "dien absoluten debiel die CUT geeft.\p"
 	.string "Ah, en ierse, nog iet.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
