@@ -64,7 +64,7 @@ RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
 	.string "Huh? Peisdje gie nu serieus, doodserieus,\n"
 	.string "da DA, n'en {STR_VAR_1} is?\p"
-	.strong "Lemayonnaise lik da ze zeggn$"
+	.string "Lemayonnaise lik da ze zeggn$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
 	.string "Oh, ajem nie moe ebbn, gin probleem.\n"
