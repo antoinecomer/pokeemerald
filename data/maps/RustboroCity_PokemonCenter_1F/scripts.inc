@@ -15,17 +15,17 @@ RustboroCity_PokemonCenter_1F_ProbopassEvo::
 	end
 
 RustboroCity_PokemonCenter_1F_ProbopassEvo_Text:
-	.string "Nosepass evolves and changes\n"
-	.string "its type to Rock and Steel.\p"
-	.string "To evolve, it must be near a\n"
-	.string "strong magnetic field.\p"
-	.string "Such places are rare in Hoenn,\n"
-	.string "so scientists found another way:\l"
-	.string "making Nosepass hold a Thunder\l"
-	.string "Stone boosts its magnetic field\l"
-	.string "enough to trigger evolution!\p"
-	.string "I still wonder what Thunder\n"
-	.string "Stones are made of…$"
+	.string "Kenje dendien? Nosepass?\n"
+	.string "Dien evolueert in Stjin en Stoal.\p"
+	.string "In tidde, aje een sterk mahneetisch\n"
+	.string "veld nwôdig om em t'evolueern.\p"
+	.string "Ma in Oenn, medol da woatr ier,\n"
+	.string "en die wetenskapprs ntwa gevonden.\l"
+	.string "Thunderstjin ip uw mulleeee.\l"
+	.string "Lik alle probljimn int leevn,\l"
+	.string "niets da gin stjin ip e mulle kun oplossn!\p"
+	.string "'k Vroage min af vanwa dadde\n"
+	.string "gemoakt es…$"
 
 RustboroCity_PokemonCenter_1F_EventScript_Nurse::
 	setvar VAR_0x800B, LOCALID_NURSE
@@ -48,10 +48,10 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "My Pokémon has a Naive nature, and my\n"
-	.string "friend's has a Jolly nature.\p"
-	.string "It's fascinating how Pokémon have\n"
-	.string "personalities!$"
+	.string "Min mons zin 'naïef' en die van min\n"
+	.string "moatn zin 'ophewekt' qua natuur.\p"
+	.string "Peisdje da da woar es,\n"
+	.string "'soort zoekt soort'? Nin toch. Ofwel..?$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
 	.string "Just like people, there are male and\n"
