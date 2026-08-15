@@ -252,13 +252,13 @@ RustboroCity_PokemonSchool_Text_StudentsWhoDontStudyGetQuickClaw:
 	.string "Allez gij. De C van Quick Claw natuurlik!$"
 
 RustboroCity_PokemonSchool_Text_ExplainQuickClaw:
-	.string "Lustert,  \n"
-	.string "occasionally speed up and get to move\l"
-	.string "before its opponent.\p"
-	.string "There are many other items that are\n"
-	.string "meant to be held by Pokémon.\p"
-	.string "Just those alone will give you many\n"
-	.string "topics to study!$"
+	.string "Lustert,\n"
+	.string "'t leevn e vo de rappe.\l"
+	.string "Tzelfste me Quick Claw.\p"
+	.string "Sommigste kjirn meugje jist aanvalln.\n"
+	.string "En aje lik ik zie...\p"
+	.string "Jin djoef..\n"
+	.string "is henoeh..!!$"
 
 RustboroCity_PokemonSchool_Text_TradingRightNow:
 	.string "Kben echt drie Pokémons aant ruilen vo jin.\n"
