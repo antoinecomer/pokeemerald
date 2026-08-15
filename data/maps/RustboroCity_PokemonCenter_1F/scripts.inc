@@ -54,13 +54,13 @@ RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
 	.string "'soort zoekt soort'? Nin toch. Ofwel..?$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
-	.string "Just like people, there are male and\n"
-	.string "female Pokémon.\p"
-	.string "But no one seems to have any idea how\n"
-	.string "they're different.$"
+	.string "Just lik bie de meschn, eje bie Pokémon\n"
+	.string "mannekes, en vrouwn.\p"
+	.string "Wuk zitje zo te kiekn? Ek ntwa miszegd miskien?\n"
+	.string "Aja ti woa. Get wok onzijdige. Abaja é.$"
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
-	.string "The man next door gave me an HM!\p"
-	.string "I used it to teach my Pokémon how to\n"
-	.string "Cut down skinny trees.$"
+	.string "Diene vint, onzne buurman, é mie een\p"
+	.string "HM heheven. Bjistig é.\n"
+	.string "Die keirl is wel ne specioaln.$"
 

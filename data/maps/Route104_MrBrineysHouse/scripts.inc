@@ -119,7 +119,7 @@ Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
 Route104_MrBrineysHouse_Text_SetSailForDewford:
 	.string "Mr. Pekel: AHOY M'N MOATJES!\p"
 	.string "LICHT ET ANKER! IP NA DE PANNE!\n"
-	.string "Pico! Hijs et zeil, m'n kleintje!\p"
+	.string "Pico! Hijs et zeil, min kleintje!\p"
 	.string "Pico: Piiiiiiiiii!!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:

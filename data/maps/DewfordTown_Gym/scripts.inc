@@ -303,31 +303,31 @@ DewfordTown_Gym_Text_GymGuidePostVictory:
 	.string "Your future is bright, too!$"
 
 DewfordTown_Gym_Text_TakaoIntro:
-	.string "Might is right!\n"
-	.string "Come on!$"
+    .string "Machtig en krachtig!\n"
+    .string "Kom mor ip!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-	.string "Not enough power…$"
+    .string "Ti ni machtig genoeg…$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+    .string "Twas machtiger dan dak krachtig was!\n"
+    .string "Kmoe zeggn, goei techniek zenne!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for Brawly to be\n"
-	.string "involved!\p"
-	.string "I'll crush you!$"
+    .string "Der is ni jin goe reden voor Brawly om zich\n"
+    .string "te moeien!\p"
+    .string "Kgoan u verpletteren!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+    .string "Ma… allez?\n"
+    .string "Hoe konnekik zo gemakkelijk verliezn?$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
-	.string "I'm not going to waste this loss.\n"
-	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a Gym Leader…\p"
-	.string "No, I'll become the Pokémon League\n"
-	.string "Champion!$"
+    .string "Uit uw verlies moeje leren.\n"
+    .string "Dus dit ga mij motiveren vo beter te worren!\p"
+    .string "En dan in den toekomst goak boaze zin van min eigen gym…\p"
+    .string "Nin, beter zelfs, Pokémon Liga\n"
+    .string "Kampioen!$"
 
 DewfordTown_Gym_Text_LauraIntro:
 	.string "Don't you dare brush me off!\n"

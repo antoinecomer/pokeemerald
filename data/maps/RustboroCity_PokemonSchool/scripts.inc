@@ -327,7 +327,7 @@ RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 	.string "Maak je geen illusies.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
-	.string "Hallo? Ken ik u?\n"
+	.string "Hallo? Kenk ik u?\n"
 	.string "Ah, dat groentje van Poperinge wellicht?\p"
 	.string "Ik ben Scott, onaangenaam.\n"
 	.string "Ik zoek Temmers met 'potentieel'.\p"

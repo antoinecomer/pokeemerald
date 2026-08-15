@@ -1136,9 +1136,10 @@ Route104_Text_MayPostBattle:
 	.string "Pokémons zin nie alleen je pionnen...\p"
 	.string "Ken sommigste me'sn die totaal\n"
 	.string "hin band èn me under 'Mons...\p"
-	.string "De slingr sloat soms wok den anderen\n"
-	.string "kant ip...\p"
-	.string "{RIVAL}: (staart getraumatiseerd)$"
+	.string "En wok me'sn bij wie..uhh..\n"
+	.string "de slingr ton den anderen\n"
+	.string "kant ip sloat...\p"
+	.string "({RIVAL} staart getraumatiseerd)$"
 
 Route104_Text_BrendanWeShouldRegister:
 	.string "{RIVAL}: Moh, hey, {PLAYER}!\p"

@@ -20,5 +20,5 @@ RustboroCity_Flat2_1F_Text_DevonWorkersLiveHere:
 	.string "Wuknen dystopischen boel.$"
 
 RustboroCity_Flat2_1F_Text_Skitty:
-	.string "Skitty: WAFWAFWAFWAFWAFWAF!$"
+	.string "Skitty: Gyaaaah!$"
 
