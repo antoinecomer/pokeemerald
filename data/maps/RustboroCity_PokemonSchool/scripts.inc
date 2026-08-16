@@ -200,8 +200,8 @@ RustboroCity_PokemonSchool_EventScript_ScottWatchStudents::
 	end
 
 RustboroCity_PokemonSchool_Text_BlackboardListsStatusChanges:
-	.string "Et bord lijst alle statussen ip\n"
-	.string "da Pokémon tiddes baterringe kunn iploopn.$"
+	.string "Et bord lijst alle statussen ip da\n"
+	.string "{PKMN} tiddes baterringe kunn iploopn.$"
 
 RustboroCity_PokemonSchool_Text_ReadWhichTopic:
 	.string "Wuk eje zin om te lezen\n"
@@ -261,20 +261,21 @@ RustboroCity_PokemonSchool_Text_ExplainQuickClaw:
 	.string "is henoeh..!!$"
 
 RustboroCity_PokemonSchool_Text_TradingRightNow:
-	.string "Kben echt drie Pokémons aant ruilen vo jin.\n"
+	.string "Kben DRIE {PKMN} aant ruilen vo JIN.\n"
 	.string "Tis mn favorieten, dus tis de moeite é.$"
 
 RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot:
-	.string "Die keirl wil bèèèère graag een Kadabra.\n"
-	.string "Kga em zjirre jin geven. Lik da ze zegn, lmao.$"
+	.string "Die keirl wil bèèère graag een Kadabra.\n"
+	.string "Kga em zjirre jin geven.\p"
+	.string "Lik da ze zegn, lmao.$"
 
 RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems:
-	.string "Pokémons kunnen dingen vastoddn,\n"
-	.string "mo ge moet gie niet verwachtn da ze zudder\l"
-	.string "zelve under Paracetamolleke gon pakkn whé.$"
+	.string "{PKMN} kunn' dingen vastoddn, mo ge\n"
+	.string "moe gie nie verwachtn da ze zudder\l"
+	.string "zelve under Paracetamol gon pakkn whé.$"
 
 RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself:
-	.string "Als ne Pokémon 'in de war' es,\n"
+	.string "Als ne {PKMN} 'in de war' es,\n"
 	.string "ton zie je geskeetn whe.\p"
 	.string "Sommigste kjirn goan ze een djoef ip\n"
 	.string "under eigen mulle geevn. Nie gezeverd.\p"
@@ -303,14 +304,14 @@ RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
 	.string "Ik zoek Temmers met 'potentieel'.\p"
 	.string "Sleutelwoorden zijn 'MET' en 'POTENTIEEL'.\n"
 	.string "Jij mist helaas beide.\p"
-	.string "Hier zitten sommige jonge talenten daarentegen..\n"
+	.string "Hier zitten enkele jongeren mét talent.\n"
 	.string "Ik reis Hoenn rond om talent te zoeken.\p"
 	.string "Het is HOENN, spreek de H uit trouwens.\n"
 	.string "En, wat doe jij hier?\p"
 	.string "Misschien kan je nog iets bijleren hier.\n"
 	.string "Als je een tip wilt van een expert,\p"
-	.string "iemand in dit dorp kan 'CUT' aan\n"
-	.string "je Pokémon aanleren. Graag gedaan..eehehe.$"
+	.string "iemand in dit dorp kan 'CUT' aanleren.\n"
+	.string "Graag gedaan..eehehe.$"
 
 RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown:
 	.string "Scott: Hmm… Laat me even.\p"

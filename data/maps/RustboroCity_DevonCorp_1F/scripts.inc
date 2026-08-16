@@ -81,66 +81,64 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hello and welcome to the Devon\n"
-	.string "Corporation.\p"
-	.string "We're proud producers of items and\n"
-	.string "medicine that enhance your life.$"
+	.string "Ge zijt welhekomn in\n"
+	.string "BARCO.\p"
+	.string "Wudr moakn vanalles\n"
+	.string "daje leevn verbeterd of in elk\p"
+	.string "ons bakkn held doe skeppn.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "One of our research staff stupidly\n"
-	.string "got robbed of an important parcel.$"
+	.string "Jin van onze mindr competente\n"
+	.string "onderzoekers es wel bestoln zeker...\p"
+	.string "..wiedat er diene witi aanhenomn èt..$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, those Running Shoes!\n"
-	.string "They're one of our products!\p"
-	.string "It makes me happy when I see someone\n"
-	.string "using something we made.$"
+	.string "Eyy, die lwopskoen'!\n"
+	.string "Da is ons product!\p"
+	.string "Twôn ke je Strava?\n"
+	.string "Nie mis, nie mis...\p"
+	.string "Fak gij kunt sjette heevn.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
-	.string "That stolen parcel…\p"
-	.string "Well, sure it's important, but it's not\n"
-	.string "anything that anyone can use.\p"
-	.string "In my estimation, that robber must not\n"
-	.string "have been very bright.$"
+	.string "Da hestoln pakske…\p"
+	.string "Tes wel belangrik..mo\n"
+	.string "enkel wudr kunn' da hebrukn..\p"
+	.string "Ik peizekik, da dien dief\n"
+	.string "nie et skerpste mes es..$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
-	.string "It sounds like they've recovered\n"
-	.string "the ripped-off Devon Goods.$"
+	.string "Tskint da da hestoln pakske\n"
+	.string "terug is? Aba daddis hoe nieuws!$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "I'm sorry, only authorized people\n"
-	.string "are allowed to enter here.$"
+	.string "Tspit mie zjir, ma enkel\n"
+	.string "hemahhtihd personeel mah ier binn'.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
-	.string "It's beyond stupid.\n"
-	.string "How could we get robbed?$"
+	.string "Echt hat-ahhterlik..\n"
+	.string "WUDDR? BESTOLEN?$"
 
 RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere:
-	.string "Hi, there!\n"
-	.string "You're always welcome here!$"
+	.string "Ah, tis GIJ!\n"
+	.string "Gie é!\p"
+	.string "Gie..gie zie ier alsan welkom!$"
 
 RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
-	.string "Samples of rocks and metal are\n"
-	.string "displayed in the glass case.\p"
-	.string "There's a panel with some writing\n"
-	.string "on it…\p"
-	.string "“Devon Corporation got its start as\n"
-	.string "a producer of stones from quarries.\p"
-	.string "“The company also produced iron from\n"
-	.string "filings in the sand.\p"
-	.string "“From that humble start as a producer\n"
-	.string "of raw materials, Devon developed.\p"
-	.string "“Devon is now a manufacturer of a wide\n"
-	.string "range of industrial products.”$"
+	.string "Stukkn van stjinnen en stukkn\n"
+	.string "metoal wôr'n tenteunhesteld.\p"
+	.string "Der stoat een plakkoat\n"
+	.string "me een pak tekst…\p"
+	.string "“Barco is begonnen in 19-..”\n"
+	.string "{PLAYER}{KUN}: Soai!$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
-	.string "Prototypes and test products fill\n"
-	.string "the glass display case.\p"
-	.string "There's a panel with a description…\p"
-	.string "“In addition to industrial products,\n"
-	.string "Devon now markets sundries and\l"
-	.string "pharmaceuticals for better lifestyles.\p"
-	.string "“Recently, Devon has begun marketing\n"
-	.string "tools for Pokémon Trainers, including\l"
-	.string "Poké Balls and Pokénav systems.”$"
+	.string "Prototypn en testproductn wôrdn\n"
+	.string "tenteunhesteld achter 't hlas.\p"
+	.string "Me een beskrivingske natuurlik…\p"
+	.string "“Barco heeft z'n industrieel gamma\n"
+	.string "uitgebreid naar allerlei\l"
+	.string "levensstijl-producten zoals\p"
+	.string "loopschoenen of gereeschap voor Temmers.\n"
+	.string "Zoals Poké Balls en Smartphones.”\l"
+	.string "{PLAYER}{KUN}: Amai zeg!$"
 
