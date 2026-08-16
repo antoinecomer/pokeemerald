@@ -276,12 +276,10 @@ RustboroCity_Gym_Text_RegisteredRoxanne:
 	.string "is toehoevoegd in den Pokénav.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "Roxanne: Kzin bere content je\n"
-	.string "were te zien!\p"
-	.string "Ik, Roxanne, Gym Leider zijnde,\p"
-	.string "zin vet betoald om u af te kusn.?\n"
-	.string "En kzin nog bitje verbeterd whe\p"
-	.string "sinds de loatste ke.\n"
+	.string "Roxanne: Kzin bere content dak\n"
+	.string "u were zie!\p"
+	.string "Ke min 'uiswerk hedoan sinds\n"
+	.string "sinds de loatste ke.\p"
 	.string "Odje ma vast!$"
 
 RustboroCity_Gym_Text_RoxanneRematchDefeat:
@@ -290,16 +288,15 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 
 RustboroCity_Gym_Text_RoxannePostRematch:
 	.string "Roxanne: Miskien moek min stratehie\n"
-	.string "erzien wanneer dat ip Pokémons aankomt.\p"
+	.string "'erzien wanneer dat ip Pokémons aankomt.\p"
 	.string "Ik zie et licht nu....amai zo fel,\n"
 	.string "wuk blinkt er ier in min ogen?!$"
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
-	.string "Roxanne: Kzin bere content je were te zien.\n"
-	.string "Ik, Roxanne, Gym Leider zijnde,\p"
-	.string "zin vet betoald om u af te kusn.?\n"
-	.string "En kzin nog bitje verbeterd whe\p"
-	.string "sinds de loatste ke.\n"
+	.string "Roxanne: Kzin bere content\n"
+	.string "dak u were zie!\p"
+	.string "Ke min 'uiswerk hedoan sinds\n"
+	.string "sinds de loatste ke.\p"
 	.string "Odje ma vast!$"
 	.string "Mo meendje gie da nu…\n"
 	.string "Wie n'èt er nu ma JIN Pokémon ip zak?\p"
