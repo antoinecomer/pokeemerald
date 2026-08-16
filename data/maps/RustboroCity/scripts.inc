@@ -1024,7 +1024,7 @@ RustboroCity_EventScript_Boy1::
 RustboroCity_Text_WeShortenItToDevon:
 	.string "Belgian American Radio COrporation…\n"
 	.string "Mo iederjin zegt geweun Barco whé.\p"
-	.string "Ze moakn vooral skermn\n"
+	.string "Ze moakn vooral skermn,\n"
 	.string "vroeger wok minder kosjere dingn..\l"
 	.string "woois al gwôrd van Scioteq?$"
 
@@ -1048,8 +1048,8 @@ RustboroCity_Text_HeyThatsRustborosGymBadge:
 RustboroCity_Text_YoureNewAroundHere:
 	.string "Oh? En wie zijdje gij?\n"
 	.string "Nie van alier zeker?\p"
-	.string "Komdje u aanslutn als student onze\n"
-	.string "skool? Ge zijt gij welkom whé!\p"
+	.string "Komdje u aanslutn als student in\n"
+	.string "onze skole? Ge zijt gij welkom whé!\p"
 	.string "En tevens ge ziet erut daje wel\n"
 	.string "'t een en 't ander kun bieljirn...$"
 

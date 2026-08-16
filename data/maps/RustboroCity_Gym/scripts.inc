@@ -124,8 +124,8 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Roxanne bievoorbeeld, zie gebrukt enkel\p"
 	.string "mo Pokémons vant type Stjin.\n"
 	.string "Waroem? Daaroem. Hin vroagn stelln.\p"
-	.string "Stjin is een beeeeregoe type...\n"
-	.string "ma aanhezien alles heweun bladsteenschaar es,\l"
+	.string "Stjin is een beeeeregoe type...ma aan-\n"
+	.string "hezien alles heweun bladsteenschaar es,\l"
 	.string "kundje tactisch me Woatr of Hes aanvalln.\p"
 	.string "Aje aar een pandoering verkwopt,\n"
 	.string "komt me zien.\p"
@@ -148,15 +148,16 @@ RustboroCity_Gym_Text_JoshIntro:
 	.string "wudr zin van een ander 'otje gesneedn whé!$"
 
 RustboroCity_Gym_Text_JoshDefeat:
-	.string "Fak, gij zijt gij uit een nog beter 'out hesneedn…$"
+	.string "Fak, gij zijt gij uit een\n"
+	.string "nog beter 'out hesneedn…$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
 	.string "Blad, steen, schaar.\n"
 	.string "Woois al ne stjin tegen u mulle ghad?$"
 
 RustboroCity_Gym_Text_TommyIntro:
-	.string "Aje al tehen ik verliest,\n"
-	.string "ton zieje gie echt geskeetn tehen Roxanne!$"
+	.string "Aje al tehen ik verliest, ton ziej\n"
+	.string "gie echt geskeetn tehen Roxanne!$"
 
 RustboroCity_Gym_Text_TommyDefeat:
 	.string "Ja wadde dadde!$"
@@ -170,11 +171,12 @@ RustboroCity_Gym_Text_MarcIntro:
 	.string "Lustert, vindje da nu wok hinne zjivr,\n"
 	.string "min Pokés zin van Stjin, joat. Kverstoat.\p"
 	.string "Daddeet RUIMTE nodig, ja.\n"
-	.string "Kzit me een hasboete omdak een voetpad é vernield!$"
+	.string "Kzit nu me een hasboete\l"
+	.string "omdak een voetpad eb vernield!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
-	.string "Fak maat!\n"
-	.string "'k Ging 'k ik min hasboete ip u verhoaln! MILJAAR!$"
+	.string "Jipla!\n"
+	.string "Noh een boete! MILJAAR!$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
 	.string "Een berewijze man zei ooit ne ke\p"
@@ -231,14 +233,15 @@ RustboroCity_Gym_Text_ExplainRockTombInfinite:
 	.string "Ak et in jin woord zou motn beskrivn,\n"
 	.string "'t is mahhtig.\p"
 	.string "Aje een TM gebrukt, vjil mesn peizen\n"
-	.string "miljaar, m'en TM is na de klutn.$"
-	.string "Niets in mindr woar, ge kunt da oneindig\n"
+	.string "miljaar, m'en TM is na de klutn.\l"
+	.string "Niets in mindr woar, ge kunt da oneindig\l"
 	.string "gebrukn, aja é.$"
 
 RustboroCity_Gym_Text_RoxannePostBattle:
 	.string "'t Leevn is lik e rondpunt,'\n"
 	.string "ge pakt n'en afslag, en ge mist er drie!\p"
-	.string "Gie èt dudelik talent. Doagt Brawly ut in De Panne,\n"
+	.string "Gie èt dudelik talent.\n"
+	.string "Doagt Brawly ut in De Panne,\l"
 	.string "en mist uwen afslag niet!$"
 
 RustboroCity_Gym_Text_GymStatue:
@@ -259,10 +262,12 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "en daje ne serieuze sprong hemoakt é.\p"
 	.string "Awel, gebt mie echt hemotiveerd vo\n"
 	.string "min Gym te erpakkn, en mezelve wok.\p"
-	.string "'k Wille kik nie helovn dakkik u nie kunne\n"
-	.string "versloan. Dus komt gerust een dezer nog ke\p"
-	.string "terug na Kortrik, ik kik der alleszins naar ut\n"
-	.string "om je were te zien! En 'k hope gie wok!\p"
+	.string "'k Wille kik nie helovn dakkik u\n" 
+	.string "nie é kunn'n versloan. Dus komt\n"
+	.string "gerust een dezer nog ke\l"
+	.string "terug na Kortrik, ik kik der\l"
+	.string "alleszins naar ut om je were\l"
+	.string "te zien! En 'k hope gie wok!\p"
 	.string "… … … … … …Salutjes é!\n"
 	.string "… … … … … Klik!$"
 

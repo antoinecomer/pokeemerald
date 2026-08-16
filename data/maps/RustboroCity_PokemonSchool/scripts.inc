@@ -225,7 +225,7 @@ RustboroCity_PokemonSchool_Text_ExplainParalysis:
 	.string "gebruik een Paralyz Heal.$"
 
 RustboroCity_PokemonSchool_Text_ExplainSleep:
-	.string "Als uw Pokémon slaapt tijdens een gevecht,\n"
+	.string "Als uw {PKMN} slaapt in een gevecht,\n"
 	.string "dan is het een luiaard.\p"
 	.string "Komt dat u niet bekend voor?\n"
 	.string "Slapen op het werk?\l"
