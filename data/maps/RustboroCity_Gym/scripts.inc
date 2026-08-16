@@ -276,7 +276,8 @@ RustboroCity_Gym_Text_RegisteredRoxanne:
 	.string "is toehoevoegd in den Pokénav.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "Roxanne: Kzin bere content je were te zien.\n"
+	.string "Roxanne: Kzin bere content je\n"
+	.string "were te zien!\p"
 	.string "Ik, Roxanne, Gym Leider zijnde,\p"
 	.string "zin vet betoald om u af te kusn.?\n"
 	.string "En kzin nog bitje verbeterd whe\p"
