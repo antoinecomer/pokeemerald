@@ -260,92 +260,100 @@ DewfordTown_Hall_EventScript_ReceivedSludgeBomb::
 	end
 
 DewfordTown_Hall_Text_CantImagineLifeWithoutTrend:
-	.string "What's in vogue? Why, it has to be\n"
+	.string "Wuk dat de nieuwen trend is?\n"
+	.string "Kgoat je ké zehhen é.\l"
 	.string "“{STR_VAR_1}”!\p"
-	.string "I can't imagine what life would be like\n"
-	.string "without “{STR_VAR_1}”!$"
+	.string "Wuk zou me leevn nog woard zin\n"
+	.string "zonder de hlorie van “{STR_VAR_1}”?$"
 
 DewfordTown_Hall_Text_GettingBoredOfTrend:
-	.string "What's in vogue? Why, it has to be\n"
+	.string "Wuk da de nieuwste rage is?\n"
+	.string "Moeje gie da zelve nog vroagn?\l"
 	.string "“{STR_VAR_1}”!\p"
-	.string "But I'm getting kind of bored with it.\p"
-	.string "I should look for the next big thing.$"
+	.string "Aba natuurlik da.\p"
+	.string "Wuk peisdje dat er na ga komm'n?$"
 
 DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "I'm teaching my Pokémon about\n"
+	.string "'k Lere minne Zigzagoon alles ovr\n"
 	.string "“{STR_VAR_1},”\l"
-	.string "but it's not going well.\p"
-	.string "It's a bit too much, I think.$"
+	.string "mo ie verstoat er gin klootn van.\p"
+	.string "Den onzen is e bitje hardleers.\n"
+	.string "Mo ie kun al iptelln!$"
 
 DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
-	.string "I'm studying up on the hip and trendy\n"
-	.string "“{STR_VAR_1}” now.\p"
-	.string "Is it true that there's a deep link\n"
-	.string "between “{STR_VAR_1}”\l"
-	.string "and “{STR_VAR_2}”?$"
+	.string "Ik wille olles weetn\n"
+	.string "euvr “{STR_VAR_1}”.\p"
+	.string "Mo ge moe verdr kiekn daje neuze\n"
+	.string "lang es. Denk heweun ke na.\p"
+	.string "Pakt nu ke “{STR_VAR_1}”\n"
+	.string "En ton “{STR_VAR_2}”.\p"
+	.string "Zyn jen ohen al op'n? Ziejet licht?$"
 
 DewfordTown_Hall_Text_MyHunchWasRight:
-	.string "Oh!\n"
-	.string "So, my hunch was right!\p"
-	.string "I'm one step closer to being hip and\n"
-	.string "happening, yowza!$"
+	.string "Moh!\n"
+	.string "Ik èt alsan heweten!\p"
+	.string "Min populariteit goat hin\n"
+	.string "hrenzn mé kenn'n!$"
 
 DewfordTown_Hall_Text_NotEasyToKeepUp:
-	.string "What?!\n"
-	.string "Is that so?!\p"
-	.string "It's not easy for an older fellow like\n"
-	.string "me to keep up with trends!$"
+	.string "WUKDADDE?!\n"
+	.string "Aja?! Allez gie. Mohow zeg.\p"
+	.string "'t Es godverdomme moeilik om vandoag\n"
+	.string "den dag nog mee te zin whè!$"
 
 DewfordTown_Hall_Text_TVShowAboutTrend:
-	.string "This whole business about\n"
+	.string "Kenkik da histern hwêurd ip TV!\n"
 	.string "“{STR_VAR_1}”…\l"
-	.string "Isn't there a TV show on it?$"
+	.string "Meugn ze da wel zehhen?$"
 
 DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
-	.string "Across the sea…\p"
-	.string "Is “{STR_VAR_1}”\n"
-	.string "even more popular?$"
+	.string "Over den oceaan…\p"
+	.string "Zou “{STR_VAR_1}”\n"
+	.string "noh populairder zin?$"
 
 DewfordTown_Hall_Text_CollectTrendMerchandise:
-	.string "I collect official\n"
+	.string "'k Verkwôpe 'k ik officiële\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "licensed merchandise.\p"
-	.string "I have official\n"
-	.string "“{STR_VAR_1}” Dolls…\p"
-	.string "Official “{STR_VAR_1}”\n"
-	.string "brand clothing…\p"
-	.string "And officially licensed\n"
+	.string "tshirts, 'imdjes, bandjes.\p"
+	.string "Noem moar ip.\n"
+	.string "“{STR_VAR_1}” popp'n, joat…\p"
+	.string "Officiële “{STR_VAR_1}”\n"
+	.string "koss'n, tzal wel zin…\p"
+	.string "En helicensieerde\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "picture books.\p"
-	.string "Heheh, I own!\n"
-	.string "I'm not sharing anything with you!$"
+	.string "kleurboekn, aja é.\p"
+	.string "Zo...dus giij wilt een aandeel?\p"
+	.string "Mag niet!$"
 
 DewfordTown_Hall_Text_BooksAboutTrend:
-	.string "Identifying Good\n"
+	.string "KEN HET VERSCHIL!\n"
 	.string "“{STR_VAR_1}” &\l"
-	.string "Bad “{STR_VAR_1}”…\p"
-	.string "The link between\n"
-	.string "“{STR_VAR_1}” and\l"
+	.string "Slechte “{STR_VAR_1}”…\p"
+	.string "De link tussen\n"
+	.string "“{STR_VAR_1}” en\l"
 	.string "Pokémon…\p"
-	.string "Useful\n"
+	.string "Nuttige\n"
 	.string "“{STR_VAR_1}”…\p"
-	.string "It's neatly jammed with books about\n"
-	.string "“{STR_VAR_1}.”$"
+	.string "{PLAYER}: Aje dien bucht leest\n"
+	.string "over “{STR_VAR_1}” keldert\p"
+	.string "jen IQ..$"
 
 DewfordTown_Hall_Text_TrendsScream:
-	.string "“{STR_VAR_1}'s\n"
-	.string "Scream” is the title.$"
+	.string "“De lokkreet van {STR_VAR_1}”\n"
+	.string "is den titel.$"
 
 DewfordTown_Hall_Text_TrendsSmile:
-	.string "“{STR_VAR_1}'s\n"
-	.string "Smile” is the title.$"
+	.string "De skwone hlimlach van\n"
+	.string "“{STR_VAR_1}”\l"
+	.string "is den titel.$"
 
 DewfordTown_Hall_Text_LastTrend:
-	.string "It's titled “The Last\n"
+	.string "Den titel es “De loatste\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_BirthOfTrend:
-	.string "It's titled “The Birth Of\n"
+	.string "Den titel es
+	.string "“De onhelukkihe heboorte\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
