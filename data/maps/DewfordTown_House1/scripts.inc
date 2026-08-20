@@ -20,17 +20,19 @@ DewfordTown_House1_EventScript_Zigzagoon::
 	end
 
 DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland:
-	.string "There's a lot to be said for living on\n"
-	.string "a small island like this in harmony with\l"
-	.string "Pokémon and the family.$"
+	.string "'t Valt iets te zehhen over 't leevn\n"
+	.string "ip een klin eilandje. 't Is ier skwône.\l"
+	.string "Mo aje jinne roarn ipt eiland 'ebt,\l"
+	.string "Ge ziet dendien dus ieder'n dag é.$"
 
 DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
-	.string "I left the major port of Slateport\n"
-	.string "City when I married my husband here.\p"
-	.string "Life goes by slowly on this little\n"
-	.string "island. But being surrounded by the\l"
-	.string "beautiful sea--that's happiness, too.$"
+	.string "'k En den 'aven van Nieuwpoort\n"
+	.string "verloatn vo de liefde. Skwon é.\p"
+	.string "Den tyd ga troage voorut ip een\n"
+	.string "eilandje. En omringd zin door\l"
+	.string "'t zeetje. Daddis gelukkig zyn.$"
 
 DewfordTown_House1_Text_Zigzagoon:
-	.string "Zigzagoon: Guguuh!$"
+	.string "Zigzagoon: Guguuh!\n"
+	.string "(skart an zin balln)$"
 

@@ -27,13 +27,16 @@ DewfordTown_PokemonCenter_1F_EventScript_Man::
 	end
 
 DewfordTown_PokemonCenter_1F_Text_StoneCavern:
-	.string "There's a stone cavern at the edge\n"
-	.string "of town.\p"
-	.string "I've heard you can find rare stones\n"
-	.string "there.$"
+	.string "Aje tend'n lwôpt ier bitje verder,\n"
+	.string "goaje e hrotte tegenkom'n.\p"
+	.string "'t Skint daje da nog bitje zeldzoame\n"
+	.string "stjinn'n vindt.\p"
+	.string "{PLAYER} peist: Alégow miskien vindje\n"
+	.string "wok een HOBBY!$"\p"
 
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
-	.string "Even if a Pokémon faints and can't\n"
-	.string "battle, it can still use a move learned\l"
-	.string "from a Hidden Machine (HM).$"
+	.string "Zelf als n'en Pokémon bezwijkt,\n"
+	.string "kundje nog alsan een HM in zin strot\l"
+	.string "duwen! Wist je da?\p"
+	.string "{PLAYER}: Nink..gij psycho!$"
 
