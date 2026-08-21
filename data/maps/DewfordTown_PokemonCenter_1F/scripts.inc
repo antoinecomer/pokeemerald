@@ -38,5 +38,5 @@ DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
 	.string "Zelf als n'en Pokémon bezwijkt,\n"
 	.string "kundje nog alsan een HM in zin strot\l"
 	.string "duwen! Wist je da?\p"
-	.string "{PLAYER}: Nink..gij psycho!$"
+	.string "{PLAYER}: Nink..gij psychopoat!$"
 

@@ -84,40 +84,49 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	step_end
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "My name is Steven.\p"
-	.string "I'm interested in rare stones,\n"
-	.string "so I travel here and there.\p"
-	.string "Oh?\n"
-	.string "A Letter for me?$"
+	.string "Jabeja gie, gadverdamme.\p"
+	.string "Daddis nog e bitje ne zeldzoame stjin..\n"
+	.string "Ik ben Steven, oangenoame.\p"
+	.string "Steven: Vroagsje!\p"
+	.string "Wuk est er zwoarder?\p"
+	.string "E kilo patatn, of e kilo stoal?\n"
+	.string "Aba e kilo stoal natuurlik!\l"
+	.string "Want stoal is zwoarder dan patatn!\p"
+	.string "… … … … … … … … … … … … … … … … … …"
+	.string "Wuk? 't Es tzelfste?  
+	.string "Steven: Oh?\n"
+	.string "N'en brief veur ik?$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "Steven: Okay, thank you.\p"
-	.string "You went through all this trouble to\n"
-	.string "deliver that. I need to thank you.\p"
-	.string "Let me see…\n"
-	.string "I'll give you this TM.\p"
-	.string "It contains my favorite move,\n"
-	.string "Steel Wing.$"
+	.string "Steven: Ah, merci.\p"
+	.string "Kzin content dat gin belastingn zin.\n"
+	.string "Die geldzakn me udder zes regeringn.\p"
+	.string "Ke kikn é…\n"
+	.string "Kga jen min favorieten\p"
+	.string "oanval geevn in e TM'ke,\n"
+	.string "Stoaln Vleuhel.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "Steven: Your Pokémon appear quite\n"
-	.string "capable.\p"
-	.string "If you keep training, you could even\n"
-	.string "become the Champion of the Pokémon\l"
-	.string "League one day. That's what I think.\p"
-	.string "I know, since we've gotten to know each\n"
-	.string "other, let's register one another in\l"
-	.string "our Pokénavs.\p"
-	.string "… … … … … …$"
+	.string "Steven: Oan je Pokémon te ziene,\n"
+	.string "zieje gie wel lik n'en deftigen Temmer.\p"
+	.string "Aje zo bluvt goan,\n"
+	.string "moeje u smitn vo 't Kampioenschap\l"
+	.string "van Oen. Zeg dakkik et gezeit è.\p"
+	.string "Nieuw vroagsje.\n"
+	.string "Bicky of Mexicano?\l"
+	.string "… … … … … … … … … … … … … … … … … …\l"
+	.string "Hôed antwoord joegne.\p"
+	.string "Wudr zien mekoar were é, ier,\p"
+	.string "min numéro. $"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Registered Steven\n"
-	.string "in the Pokénav.$"
+	.string "Steven rehistreerdehe\n"
+	.string "zichzelve in jen Pokénav.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
-	.string "Now, I've got to hurry along.$"
+	.string "Allez. Kzin deure. Tchow é.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, your Bag is full…\n"
-	.string "That's too bad, then.$"
+	.string "Mohow jong je zak zit vul…\n"
+	.string "Los et ip.$"
 
