@@ -32,9 +32,9 @@ NavelRock_UnownChamber_U_A::
 	end
 
 NavelRock_UnownChamber_U_A_Text:
-	.string "You feel as though this Unown\n"
-	.string "is urging you to follow it.\p"
-	.string "Accept its offering?$"
+	.string "Gèt et hevoel dat dien Unown\n"
+	.string "vroagt om em vriendelik te volhen.\p"
+	.string "Doen we wudr da?$"
 
 NavelRock_UnownChamber_CloseExitDoor:
 	setmetatile 11, 4, METATILE_Cave_EntranceCover, TRUE
@@ -169,8 +169,8 @@ ResetUnownChamberState:
 	end
 
 Test_Message_Unown:
-	.string "A radio static can be faintly\n"
-	.string "heard around the room.\p"
-	.string "It quickly fades away in many\n"
-	.string "directions, including outside\l"
-	.string "of this chamber.$"
+	.string "Tiens, stoat de radio an?\n"
+	.string "'k Oore lik precies heruis.\p"
+	.string "Et komt van verskillende kantn,\n"
+	.string "van binn'n, en zelfs butn.\l"
+	.string "Ge krigt een rilling.$"

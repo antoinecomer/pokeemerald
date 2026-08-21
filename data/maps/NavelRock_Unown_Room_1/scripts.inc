@@ -31,10 +31,12 @@ NavelRock_Unown_Room_1_U_Guide::
 	end
 
 NavelRock_Unown_Room_1_U_Guide_Text:
-	.string "You feel as though this Unown\n"
-	.string "is urging you to follow it.\p"
-	.string "Accept its offering and go\n"
-	.string "back to the Unown Chamber?$"
+	.string "Gèt et hevoel datdien Unown\n"
+	.string "wilt dajem volgt.\p"
+	.string "En ie wilt er precies\n"
+	.string "'gin tekeningske bie moakn.'\p"
+	.string "Accepteerdje zin offer om\n"
+	.string "were te keren na de Unown Chamber?$"
 
 @GOD
 
@@ -239,11 +241,11 @@ LOCALID_ARC_Movement:
 	step_end
 
 NavelRock_Unown_Room_1_Second_Trigger_Text:
-	.string "A giant, godly creature towers above\n"
-	.string "you, sending shivers down your spine.\p"
-	.string "It radiates immense power, and\n"
-	.string "it will not let you pass any further.\p"
-	.string "Are you ready to face it?$"
+	.string "Een hihantisch, mahhtig bjist buigt\n"
+	.string "over u, en ge krigt rillingen.\p"
+	.string "Zin kracht is immens, nie normoal.\n"
+	.string "Et loat u nie verdergoan.\p"
+	.string "Zieje kloar voor et te temmen?$"
 
 NavelRock_Unown_Room_1_Talk_Arceus::
 	msgbox NavelRock_Unown_Room_1_Talk_Arceus_Text1, MSGBOX_DEFAULT
@@ -265,16 +267,16 @@ LOCALID_ARC_Movement_Talk:
 	step_end
 
 NavelRock_Unown_Room_1_Talk_Arceus_Text1:
-	.string "Arceus is letting me pass.$"
+	.string "Arceus loat mie deure.$"
 
 NavelRock_Unown_Room_1_Talk_Arceus_Text2:
-	.string "The wild Arceus reacted to the\n"
-	.string "Arceus in my party!\p"
-	.string "Somehow, I understood that it was\n"
-	.string "strangely surprised to find another\l"
-	.string "Arceus in this same dimension.\p"
-	.string "Where did the Egg that Steven has\n"
-	.string "given me come from?$"
+	.string "De wilden Arceus reaheert ip\n"
+	.string "minnen eign Arceus!\p"
+	.string "'k Peize dak et oan zin mulle zie.\n"
+	.string "Dien è hjil in de war\l"
+	.string "om nog jin lik em te zien.\p"
+	.string "Woar komt da ei da Steven\n"
+	.string "mie heheven èt ton vandoan?$"
 
 
 @KING!
@@ -494,14 +496,16 @@ NavelRock_Unown_Room_1_Final_Trigger_Battle_Caught::
 	end
 
 NavelRock_Unown_Room_1_Final_Trigger_Text:
-	.string "The ground trembles beneath your\n"
-	.string "feet, and the very air seems to\l"
-	.string "twist and shiver.\p"
-	.string "It exists.\p"
-	.string "Legends once dismissed as stories\n"
-	.string "take form before your eyes…\p"
-	.string "Are you ready to face the myth\n"
-	.string "in your final challenge?$"
+	.string "Miljaar? De hrond ondr je voetn\n"
+	.string "beeft, en de lucht es stifkod.\l"
+	.string "En gebt jen polar nie mee.\p"
+	.string "… … … … … … … … … … … …\p"
+	.string "Hodverdomme. 't Zal hin woar zin.\p"
+	.string "De léhendes aan tafel bij mémé\n"
+	.string "blijkn ommeneké woar te zyn…\p"
+	.string "'t Woarn alhelik toch gin soamnzweringen..\p"
+	.string "Zet je skrap..\p"
+	.string "vo de ULTIEME UTDOAHINGE!!$"
 
 NavelRock_Unown_Room_1_Ending_Trigger::
 	goto_if_gt VAR_TEST_DARK, 4, Debug_Script_1_Closemessage
@@ -514,14 +518,15 @@ NavelRock_Unown_Room_1_Ending_Trigger::
 	end
 
 NavelRock_Unown_Room_1_Ending_Trigger_Text:
-	.string "{COLOR GREEN}Congratulations! You beat the\n"
-	.string "secret event! If you got here there's\l"
-	.string "not much else to do.\p"
-	.string "Enjoy your newly discovered Pokémon\n"
-	.string "and don't spoil too much this event\l"
-	.string "to others! You can leave them hints!\p"
-	.string "Thank you for playing Pokémon\n"
-	.string "Modern Emerald,\p"
-	.string "with gratitude,\p"
-	.string "its creator,\p"
-	.string "Resetes12.$"
+	.string "{COLOR GREEN}Mo proficiat zeg!\n"
+	.string "Dit was et ultra-heheime evenement!\l"
+	.string "Amai minne frak.\p"
+	.string "'Opelik eje vjille helachen,\n"
+	.string "en beeeere veel leute g'had.\p"
+	.string "A's da helukt es, dan zink content.\p"
+	.string "Vanut de hrond van min 'erte\p"
+	.string "MERCI!\n"
+	.string "Vjille, vjille hroeten\p"
+	.string "van uw liefste kapoen,\p"
+	.string "euh, ik bedoele, je vertoaler,\p"
+	.string "Antoine.$"

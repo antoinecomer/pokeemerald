@@ -152,5 +152,5 @@ NavelRock_Fork_Puzzle_All_Puzzles_Completed::
 	end
 
 Puzzle_Complete_Text:
-	.string "The puzzle now displays an\n"
-	.string "ancient Pokémon.$"
+	.string "De puzzle twônt nu n'en\n"
+	.string "pre'istorischen Pokémon.$"

@@ -152,5 +152,5 @@ Ho_Oh_Text:
 	.string "Gyyaaao!$"
 
 Ho_Oh_Legendaries_Text:
-	.string "Three unknown roars echoed\n"
-	.string "through Navel Rock.$"
+	.string "Drie onhekende kreetn\n"
+	.string "werd'n hehoord ip Navel Rock.$"

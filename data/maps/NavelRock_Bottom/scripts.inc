@@ -117,5 +117,5 @@ Lugia_Text:
 	.string "Grooaah!$"
 
 Lugia_Legendaries_Text:
-	.string "Three mighty cries echoed\n"
-	.string "through Navel Rock.$"
+	.string "De echo van drie mahhtige\n"
+	.string "kreetn weerhalmden ip Navel Rock.$"

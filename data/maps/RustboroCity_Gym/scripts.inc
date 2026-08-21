@@ -111,8 +111,8 @@ RustboroCity_Gym_EventScript_RegisterRoxanne::
 
 RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Yeeps, ça va?\p"
-	.string "Kgoa je ke wa zeggen é!\n"
-	.string "Eje ambitie om Kampioen van Oen te wordn?\p"
+	.string "Kgoa je ke wa zeggen é! Eje\n"
+	.string "ambitie om Kampioen van Oen te wordn?\p"
 	.string "De kampi-oen dus, hehehe. Snapjem.\n"
 	.string "A-hum! Der is jin probleem damee.\p"
 	.string "Der zin al die Gym Leiders...\n"
@@ -135,17 +135,17 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "Godmiljaar! Wa een onverwinning!\n"
 	.string "Ke kik u toch wel hoed aanhemoedigd é!\p"
 	.string "Juij!\n"
-	.string "Check jen Temmer Koarte.\p"
-	.string "Jen Stjin Medaille zot er moetn ipstoan\n"
-	.string "normaal hezien toch.\p"
-	.string "'t Is te zehhen…\p"
+	.string "Check jen Temmer ID.\p"
+	.string "Je Medaille zot er moetn ipstoan,\n"
+	.string "allez, normaal hezien toch.\p"
+	.string "Dus eihelik é…\p"
 	.string "Gie èt nu je jiste stap hezet\n"
 	.string "in het wordn van de Kampi-Oen!\p"
 	.string "Machtig é!$"
 
 RustboroCity_Gym_Text_JoshIntro:
-	.string "Wudr Gym Temmers,\n"
-	.string "wudr zin van een ander 'otje gesneedn whé!$"
+	.string "Wudr Gym Temmers, wudr zin\n"
+	.string "van een ander 'otje gesneedn whé!$"
 
 RustboroCity_Gym_Text_JoshDefeat:
 	.string "Fak, gij zijt gij uit een\n"
@@ -169,7 +169,8 @@ RustboroCity_Gym_Text_TommyPostBattle:
 
 RustboroCity_Gym_Text_MarcIntro:
 	.string "Lustert, vindje da nu wok hinne zjivr,\n"
-	.string "min Pokés zin van Stjin, joat. Kverstoat.\p"
+	.string "min Pokés zin van Stjin, joat.\l"
+	.string "Kverstoat.\p"
 	.string "Daddeet RUIMTE nodig, ja.\n"
 	.string "Kzit nu me een hasboete\l"
 	.string "omdak een voetpad eb vernield!$"
@@ -179,8 +180,9 @@ RustboroCity_Gym_Text_MarcDefeat:
 	.string "Noh een boete! MILJAAR!$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
-	.string "Een berewijze man zei ooit ne ke\p"
-	.string "'De winnoar die bluvt zjivrn tehen de verliezer,\n"
+	.string "Een berewijze man zei ooit ne ke:\p"
+	.string "'De winnoar die bluvt zjivrn\n"
+	.string "tehen de verliezer,\l"
 	.string "krigt weldra ne stjin ip zn mulle.'$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
@@ -213,8 +215,8 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "van u bjistjes, uw Pokémons.\p"
 	.string "Under Attak is een pak 'oher,\n"
 	.string "en ge kunt nu CUT gebrukn.\p"
-	.string "Names de Kortrikzanen excuseer ik mij vo\n"
-	.string "dien absoluten debiel die CUT geeft.\p"
+	.string "Names de Kortrikzanen excuseer ik mij\n"
+	.string "vo dien absoluten debiel die CUT geeft.\p"
 	.string "Ah, en ierse, nog iet.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
