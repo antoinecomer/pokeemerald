@@ -97,81 +97,89 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	end
 
 Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "I'm the owner of the Seashore House.\n"
-	.string "But you can call me Mr. Sea!\p"
-	.string "What I love above all is to see hot\n"
-	.string "Pokémon battles.\p"
-	.string "Let me see that your heart burns hot!\p"
-	.string "If you can defeat all the Trainers\n"
-	.string "here, I'll reward your efforts.$"
+	.string "AHOY.\n"
+	.string "Ik...ik zin Meneer De Zji!\p"
+	.string "De zji, den dik..\n"
+	.string "tafels en stoeln..\p"
+	.string "en me'sn me ljilijke smoeln..\p"
+	.string "Harnaaln en kroketten,\n"
+	.string "en wuvn me dikke te-\p"
+	.string "Ahum. Kwoarn ant wegdrômn.\p"
+	.string "Ge zit welgekommen in oes 'us\n"
+	.string "oan zji, doagt oes ut, wudr\l"
+	.string "zin heer en meester ipt strand!$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
-	.string "Show me some hot matches!\p"
-	.string "I run this Seashore House just for\n"
-	.string "that reason alone!$"
+	.string "Jit zand!\p"
+	.string "Jitte batteringe!\n"
+	.string "Jit weer! Fuck!\l"
+	.string "Ik bluf binn' whé. Kzin verbrand!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
-	.string "You're scorching hot!\n"
-	.string "Those battles blazed!\l"
-	.string "I'm more than just satisfied!\p"
-	.string "As thanks for showing me your hot\n"
-	.string "streak, I want you to take these.\p"
-	.string "It's half a dozen bottles of Soda Pop!$"
+	.string "Uw batterstijl!\n"
+	.string "Nog jitter dan de zunne!\l"
+	.string "Da dèk nog nwôois gezien!\p"
+	.string "Als e bedankingsje,\n"
+	.string "meug je dit 'ebbn van ik.\p"
+	.string "N'en 'alven bak! Zuppn ga je!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Oh, but hey, your Bag's jammed full.\n"
-	.string "I'll hang on to these for you.$"
+	.string "Je zak zit vul moat.\n"
+	.string "Kgoa ze vo je koel oddn.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Want to buy some Soda Pop?\n"
-	.string "Pokémon love it!\p"
-	.string "Just ¥300 a bottle!\n"
-	.string "Buy some!$"
+	.string "Wildje e frisdrankske?\n"
+	.string "Zelfs Pokémons zin der zot ip!\p"
+	.string "Just 3 miljoen miljard veur e fles!\n"
+	.string "Kwôpt jintje!\p"
+	.string ".............\p"
+	.string "Allez dan. Vo jou ma ¥300.$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
-	.string "Here you go!$"
+	.string "Iersè!$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
-	.string "You don't have the money.$"
+	.string "Gie zie blut. Skooier!$"
 
 Route109_SeashoreHouse_Text_ThatsTooBad:
-	.string "No?\n"
-	.string "That's too bad.$"
+	.string "Njih?\n"
+	.string "Mohowzeh.$"
 
 Route109_SeashoreHouse_Text_DwayneIntro:
-	.string "If you're looking for a battle in the\n"
-	.string "Seashore House, you'll find no\l"
-	.string "hotter Trainer than me, matey!$"
+	.string "Ip zoek noar iet?\n"
+	.string "Ik zin ep zoek na jitte poezen!\l"
+	.string "Mo d'enigste jitte poeze\l"
+	.string "da benkik!$"
 
 Route109_SeashoreHouse_Text_DwayneDefeated:
-	.string "That was a hot battle!\n"
-	.string "I can accept that loss, matey!$"
+	.string "Ting mie datter nog e jitte poeze\n"
+	.string "in the house es!$"
 
 Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Whenever I'm in Slateport, I enjoy\n"
-	.string "hot battles and ice-cold Soda Pop!$"
+	.string "Witje wadat er goe es me e kod drankske\n"
+	.string "Aba natuurlik! E jitte batteringe!$"
 
 Route109_SeashoreHouse_Text_JohannaIntro:
-	.string "Boring battles aren't worth the effort.\p"
-	.string "Fiery hot battles are what toughen up\n"
-	.string "Trainers and Pokémon!$"
+	.string "Zorg daje mie nie vervjilt.\p"
+	.string "Echte temmers ljivn veur et\n"
+	.string "jitst van de strid!$"
 
 Route109_SeashoreHouse_Text_JohannaDefeated:
-	.string "That's hot!$"
+	.string "Jit. POEPJIT!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
 	.string "Whew, I'm all thirsty.\n"
 	.string "Maybe I'll have a Soda Pop.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
-	.string "I'm going to show you how great\n"
-	.string "my Pokémon are, but don't cry!$"
+	.string "Check m'n Pokémon! Cool é?\n"
+	.string "Kgoa probjirn niet te bleitn!$"
 
 Route109_SeashoreHouse_Text_SimonDefeated:
-	.string "…I lost, but I won't cry…$"
+	.string "…Ke verlorn, mo kgon nie bleitn…$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "If one of my Pokémon knew the move\n"
-	.string "for carrying me across water on its\l"
-	.string "back, I could get rid of this inner tube.$"
+	.string "Ip een dag goak kunn' surf'n\n"
+	.string "me m'en Pokémon! En ton kunk\l"
+	.string "die achterlike zwemband wegsmitn.$"
 

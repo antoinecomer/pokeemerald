@@ -521,7 +521,7 @@ Route109_Text_ChillAtMyPapasSpot:
 	.string "Yo, Temmers!\n"
 	.string "Ofdaje nu te kouw èt,\l"
 	.string "of te jit,\l"
-	.string "bie m'n pa ziej ma welkom,\n"
+	.string "bie m'n pa ziej ma welkom,\l"
 	.string "aje een snelle zit!$"
 
 Route109_Text_LittleKidsDartAround:
@@ -562,12 +562,12 @@ Route109_Text_ZigzagoonCry:
 
 Route109_Text_SeashoreHouseSign:
 	.string "'De Grote Kraakvis'\p"
-	.string "“Ip hete zanden wordt er gabatterd!\n"
-	.string "Temmers zo vurig, ze staon in de fik!”$"
+	.string "“Ip jitte zandn wordt er gabatterd!\n"
+	.string "Temmers zo vurig, ze stoan in de fik!”$"
 
 Route109_Text_TrainerTipsSign:
 	.string "Temmer Tips\p"
 	.string "Pokémons ipt zelfde level\n"
 	.string "zin nie alsan evensterk.\p"
-	.string "Als n'en Dresseur ze zelve traint...\n"
+	.string "Als n'en Temmer ze zelve traint...\n"
 	.string "wôrd'n ze vjille machtiher.$"
