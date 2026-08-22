@@ -1187,10 +1187,12 @@ RustboroCity_Text_MayDefeat:
 RustboroCity_Text_MayMrBrineyHint:
 	.string "{RIVAL}: Ah, voordak et vergeet, de Pekel é,\n"
 	.string "dak davers é gepasseerd…\p"
-	.string "{PLAYER}{KUN}, ge zit gij ier verrust dus\n"
-	.string "ge wit et miskien nie ma, die keirl was\l"
-	.string "in een vorig leevn ne kapitein, zo machtig,\p"
-	.string "da de zeeën em vreesdehen, allez, da zeggen ze.$"
+	.string "{PLAYER}{KUN}, ge zit gij ier\n" 
+	.string "verrust dus ge wit et\l"
+	.string "miskien nie ma, die keirl was\l"
+	.string "in een vorig leevn ne kapitein\l"
+	.string ",zo machtig, da de zeeën em\l"
+	.string "vreesdehen, allez, da zeggen ze.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
 	.string "{RIVAL}: Ah, hey! {PLAYER}{KUN}!\p"

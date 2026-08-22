@@ -715,7 +715,7 @@ DewfordTown_Text_GettingItchToFish:
 DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "Daddis hesproken, een woar'id\n"
 	.string "lik een zeekoe godvertoeme!\p"
-	.string "Witje wa da mie ipwarmt? Abaja. Vissn!"
+	.string "Witje wa da mie ipwarmt? Abaja. Vissn!\p"
 	.string "Iere, n'en 'engel van dezen engel.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
@@ -733,8 +733,8 @@ DewfordTown_Text_ThrowInFishingAdvice:
 	.string "kundje Pokémon van 'n ander kleurke\l"
 	.string "vinden! Machtig é..\p"
 	.string "Kettingvissn betekent daje de\n"
-	.string "wilde Pokémon versloat en direct ipnieuw\l"
-	.string "vist ip dezelfde ploatse.\p"
+	.string "wilde Pokémon versloat en direct\l"
+	.string "ipnieuw vist ip dezelfde ploatse.\p"
 	.string "Aje weglwôpt of zelve versloan wurd,\n"
 	.string "versliesdje jen combo!$"
 
