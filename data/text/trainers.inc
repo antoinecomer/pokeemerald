@@ -1,38 +1,41 @@
 Route102_Text_CalvinIntro:
-	.string "If you have Pokémon with you, then\n"
-	.string "you're an official Pokémon Trainer!\l"
-	.string "You can't say no to my challenge!$"
+	.string "Gie zie n'en Temmer..\n"
+	.string "en IK zen n'en Temmer!\l"
+	.string "Witje wada betekent?\l"
+	.string "Batteringeu!$"
 
 Route102_Text_CalvinDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "I should have trained mine more…$"
+	.string "Miljaar…\n"
+	.string "Kèn ne valske start hepakt…$"
 
 Route102_Text_CalvinPostBattle:
-	.string "Listen, you. If you're strong,\n"
-	.string "you should have told me before!$"
+	.string "Zeggeh, kundje e bitje beleefdid an' dag\n"
+	.string "lehhen naste ke en min loatn weetn daje\l"
+	.string "n'en hevordenden zyt?!$"
 
 Route102_Text_CalvinRegister:
-	.string "I've been working hard at this since\n"
-	.string "I saw you before.\p"
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your Pokénav?$"
+	.string "Mak u numm'r èn?\n"
+	.string "Ben wel fan, kwil e rematchke.$"
 
 Route102_Text_CalvinRegisterShort:
-	.string "I'd like to battle you again, so can\n"
-	.string "you register me in your Pokénav?$"
+	.string "Mak u numm'r èn?\n"
+	.string "Ben wel fan, kwil e rematchke.$"
 
 Route102_Text_CalvinRematchIntro:
-	.string "Ever since I lost to you, I desperately\n"
-	.string "trained my Pokémon.\l"
-	.string "You can't say no to my challenge!$"
+	.string "Gie woart min jiste rivoal.\n"
+	.string "Kèn dag en nacht hetraind jong..\l"
+	.string "{PLAYER}: Wie zieje gie zelfs?\p"
+	.string "Calvin: … … … … … … … … …"
+	.string "Mutn! Tes Calvin!! Vergit et nie!$"
 
 Route102_Text_CalvinRematchDefeated:
-	.string "Arrgh, I lost…\n"
-	.string "Is my training method not right?$"
+	.string "'Oelang ist nog tot 67…\n"
+	.string "Kwil ip pensioen. Ket get.$"
 
 Route102_Text_CalvinRematchPostBattle:
-	.string "If you're going to get stronger,\n"
-	.string "I'll get stronger, too.$"
+	.string "Min carrière is gedoan.\n"
+	.string "Allez. Tis te zeggen.\p"
+	.string "Kgoat motn vroagn aan mama$"
 
 Route102_Text_AllenIntro:
 	.string "Did you just become a Trainer?\n"
