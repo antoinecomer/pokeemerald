@@ -574,9 +574,9 @@ static const u16 sSpeciesToHoennPokedexNum[NUM_SPECIES - 1] =
     //SPECIES_TO_HOENN(UNUSED_SPACE8),
     //SPECIES_TO_HOENN(UNUSED_SPACE9),
     //SPECIES_TO_HOENN(UNUSED_SPACE10),
-    //SPECIES_TO_HOENN(DEOXYS_ATTACK),
-    //SPECIES_TO_HOENN(DEOXYS_DEFENSE),
-    //SPECIES_TO_HOENN(DEOXYS_SPEED),
+    SPECIES_TO_HOENN(DEOXYS_ATTACK),
+    SPECIES_TO_HOENN(DEOXYS_DEFENSE),
+    SPECIES_TO_HOENN(DEOXYS_SPEED),
 };
 
 // Assigns all species to the National Dex Index (Summary No. for National Dex)
@@ -1040,9 +1040,9 @@ static const u16 sSpeciesToNationalPokedexNum[NUM_SPECIES - 1] =
     //SPECIES_TO_NATIONAL(UNUSED_SPACE8),
     //SPECIES_TO_NATIONAL(UNUSED_SPACE9),
     //SPECIES_TO_NATIONAL(UNUSED_SPACE10),
-    //SPECIES_TO_NATIONAL(DEOXYS_ATTACK),
-    //SPECIES_TO_NATIONAL(DEOXYS_DEFENSE),
-    //SPECIES_TO_NATIONAL(DEOXYS_SPEED),
+    SPECIES_TO_NATIONAL(DEOXYS_ATTACK),
+    SPECIES_TO_NATIONAL(DEOXYS_DEFENSE),
+    SPECIES_TO_NATIONAL(DEOXYS_SPEED),
 };
 
 // Assigns all Hoenn Dex Indexes to a National Dex Index
@@ -1507,9 +1507,9 @@ static const u16 sHoennToNationalOrder[NUM_SPECIES - 1] =
     //HOENN_TO_NATIONAL(UNUSED_SPACE8),
     //HOENN_TO_NATIONAL(UNUSED_SPACE9),
     //HOENN_TO_NATIONAL(UNUSED_SPACE10),
-    //HOENN_TO_NATIONAL(DEOXYS_ATTACK),
-    //HOENN_TO_NATIONAL(DEOXYS_DEFENSE),
-    //HOENN_TO_NATIONAL(DEOXYS_SPEED),
+    HOENN_TO_NATIONAL(DEOXYS_ATTACK),
+    HOENN_TO_NATIONAL(DEOXYS_DEFENSE),
+    HOENN_TO_NATIONAL(DEOXYS_SPEED),
 };
 
 const struct SpindaSpot gSpindaSpotGraphics[] =
@@ -5053,9 +5053,6 @@ void CreateBoxMon(struct BoxPokemon *boxMon, u16 species, u8 level, u8 fixedIV, 
     }
     else // Player is the OT
     {
-        u32 rolls = 0;
-        u32 shinyRolls = 0;
-
         value = gSaveBlock2Ptr->playerTrainerId[0]
               | (gSaveBlock2Ptr->playerTrainerId[1] << 8)
               | (gSaveBlock2Ptr->playerTrainerId[2] << 16)
@@ -5312,7 +5309,8 @@ void CreateMonWithGenderNatureLetter(struct Pokemon *mon, u16 species, u8 level,
 }
 
 // This is only used to create Wally's Ralts.
-void CreateMaleMon(struct Pokemon *mon, u16 species, u8 level)
+// Forces female so it's consistent with Wally's later Gardevoir.
+void CreateFemaleMon(struct Pokemon *mon, u16 species, u8 level)
 {
     u32 personality;
     u32 otId;
@@ -5322,7 +5320,7 @@ void CreateMaleMon(struct Pokemon *mon, u16 species, u8 level)
         otId = Random32();
         personality = Random32();
     }
-    while (GetGenderFromSpeciesAndPersonality(species, personality) != MON_MALE);
+    while (GetGenderFromSpeciesAndPersonality(species, personality) != MON_FEMALE);
     CreateMon(mon, species, level, USE_RANDOM_IVS, TRUE, personality, OT_ID_PRESET, otId);
 }
 
@@ -5750,6 +5748,10 @@ void CreateEnemyEventMon(void)
     s32 species = gSpecialVar_0x8004;
     s32 level = gSpecialVar_0x8005;
     s32 itemId = gSpecialVar_0x8006;
+
+    //tx_randomizer_and_challenges
+    if (gSaveBlock1Ptr->tx_Random_Static)
+        species = GetSpeciesRandomSeeded(species, TX_RANDOM_T_STATIC, 0);
 
     ZeroEnemyPartyMons();
     CreateEventMon(&gEnemyParty[0], species, level, USE_RANDOM_IVS, FALSE, 0, OT_ID_PLAYER_ID, 0);
@@ -6432,8 +6434,10 @@ s32 CalculateBaseDamage(struct BattlePokemon *attacker, struct BattlePokemon *de
             if (attackerHoldEffect == sHoldEffectToType[i][0]
                 && type == sHoldEffectToType[i][1])
             {
-                attack = (attack * (attackerHoldEffectParam + 100)) / 100;
-                spAttack = (spAttack * (attackerHoldEffectParam + 100)) / 100;
+                if (IS_MOVE_SPECIAL(gCurrentMove))
+                    spAttack = (spAttack * (attackerHoldEffectParam + 100)) / 100;
+                else
+                    attack = (attack * (attackerHoldEffectParam + 100)) / 100;
                 break;
             }
     }
@@ -8273,7 +8277,11 @@ u8 GetAbilityBySpecies(u16 species, u8 abilityNum)
             && (gSaveBlock1Ptr->tx_Mode_Legendary_Abilities == 0))
         gLastUsedAbility = gSpeciesInfo[species].abilities_old[0];
     else if ((abilityNum == 1)
-            && (species == SPECIES_NOCTOWL || species == SPECIES_YANMEGA)
+            && (species == SPECIES_NOCTOWL 
+             || species == SPECIES_YANMEGA
+             || species == SPECIES_CLAMPERL
+             || species == SPECIES_HUNTAIL
+             || species == SPECIES_GOREBYSS)
             && (gSaveBlock1Ptr->tx_Mode_Modern_Types == 0))
         gLastUsedAbility = gSpeciesInfo[species].abilities_old[1];
     else if (abilityNum)
@@ -10507,10 +10515,10 @@ u16 GetBattleBGM(void)
         {
         case SPECIES_LATIOS:
         case SPECIES_LATIAS:
-            return MUS_BW_VS_LEGEND;
+            return BW_SEQ_BGM_VS_MOVEPOKE;
         default:
             // Fallback to existing behavior if species couldn't be read.
-            return MUS_BW_VS_LEGEND;
+            return BW_SEQ_BGM_VS_MOVEPOKE;
         }
     }
     else if (gBattleTypeFlags & BATTLE_TYPE_TRAINER)
@@ -10539,11 +10547,15 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_ROCKET;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_G_CIS;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 3) == 1)
+                if((Random() % 4) == 1)
                     return MUS_DP_VS_GALACTIC_BOSS;
-                else if((Random() % 3) == 2)
+                else if((Random() % 4) == 2)
                     return MUS_HG_VS_ROCKET;
+                else if((Random() % 4) == 3)
+                    return BW_SEQ_BGM_VS_G_CIS;
                 else
                     return MUS_VS_AQUA_MAGMA_LEADER;
             }
@@ -10561,11 +10573,15 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_ROCKET;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_PLASMA;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 3) == 1)
+                if((Random() % 4) == 1)
                     return MUS_DP_VS_GALACTIC;
-                else if((Random() % 3) == 2)
+                else if((Random() % 4) == 2)
                     return MUS_HG_VS_ROCKET;
+                else if((Random() % 4) == 3)
+                    return BW_SEQ_BGM_VS_PLASMA;
                 else
                     return MUS_VS_AQUA_MAGMA;
             }
@@ -10583,11 +10599,15 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_ROCKET;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_PLASMA;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 3) == 1)
+                if((Random() % 4) == 1)
                     return MUS_DP_VS_GALACTIC_COMMANDER;
-                else if((Random() % 3) == 2)
+                else if((Random() % 4) == 2)
                     return MUS_HG_VS_ROCKET;
+                else if((Random() % 4) == 3)
+                    return BW_SEQ_BGM_VS_PLASMA;
                 else
                     return MUS_VS_AQUA_MAGMA;
             }
@@ -10604,15 +10624,19 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_GYM_LEADER_KANTO;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_GYMLEADER;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 5) == 1)
+                if((Random() % 6) == 1)
                     return MUS_RG_VS_GYM_LEADER;
-                else if((Random() % 5) == 2)
+                else if((Random() % 6) == 2)
                     return MUS_DP_VS_GYM_LEADER;
-                else if((Random() % 5) == 3)
+                else if((Random() % 6) == 3)
                     return MUS_HG_VS_GYM_LEADER;
-                else if((Random() % 5) == 4)
+                else if((Random() % 6) == 4)
                     return MUS_HG_VS_GYM_LEADER_KANTO;
+                else if((Random() % 6) == 5)
+                    return BW_SEQ_BGM_VS_GYMLEADER;
                 else
                     return MUS_VS_GYM_LEADER;
             }
@@ -10629,13 +10653,17 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_CHAMPION;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_CHAMP;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 4) == 1)
+                if((Random() % 5) == 1)
                     return MUS_RG_VS_CHAMPION;
-                else if((Random() % 4) == 2)
+                else if((Random() % 5) == 2)
                     return MUS_DP_VS_CHAMPION;
-                else if((Random() % 4) == 3)
+                else if((Random() % 5) == 3)
                     return MUS_HG_VS_CHAMPION;
+                else if((Random() % 5) == 4)
+                    return BW_SEQ_BGM_VS_CHAMP;
                 else
                     return MUS_VS_CHAMPION;
             }
@@ -10654,11 +10682,15 @@ u16 GetBattleBGM(void)
                 else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                     return MUS_HG_VS_RIVAL;
                 else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                    return BW_SEQ_BGM_VS_RIVAL;
+                else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
                 {
-                    if((Random() % 3) == 1)
+                    if((Random() % 4) == 1)
                         return MUS_DP_VS_RIVAL;
-                    else if((Random() % 3) == 2)
+                    else if((Random() % 4) == 2)
                         return MUS_HG_VS_RIVAL;
+                    else if((Random() % 4) == 3)
+                        return BW_SEQ_BGM_VS_RIVAL;
                     else
                         return MUS_VS_RIVAL;
                 }
@@ -10676,15 +10708,19 @@ u16 GetBattleBGM(void)
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                 return MUS_HG_VS_GYM_LEADER_KANTO;
             else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                return BW_SEQ_BGM_VS_SHITENNO;
+            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
             {
-                if((Random() % 5) == 1)
+                if((Random() % 6) == 1)
                     return MUS_DP_VS_ELITE_FOUR;
-                else if((Random() % 5) == 2)
+                else if((Random() % 6) == 2)
                     return MUS_RG_VS_GYM_LEADER;
-                else if((Random() % 5) == 3)
+                else if((Random() % 6) == 3)
                     return MUS_HG_VS_GYM_LEADER;
-                else if((Random() % 5) == 4)
+                else if((Random() % 6) == 4)
                     return MUS_HG_VS_GYM_LEADER_KANTO;
+                else if((Random() % 6) == 5)
+                    return BW_SEQ_BGM_VS_SHITENNO;
                 else
                     return MUS_VS_ELITE_FOUR;
             }
@@ -10696,22 +10732,33 @@ u16 GetBattleBGM(void)
         case TRAINER_CLASS_FACTORY_HEAD:
         case TRAINER_CLASS_PIKE_QUEEN:
         case TRAINER_CLASS_PYRAMID_KING:
-            if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 0)
+            if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 0)
                 return MUS_VS_FRONTIER_BRAIN;
-            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 1)
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 1)
                 return MUS_VS_FRONTIER_BRAIN;
-            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 2)
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 2)
                 return MUS_PL_VS_FRONTIER_BRAIN;
-            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 3)
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 3)
                 return MUS_HG_VS_FRONTIER_BRAIN;
-            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 4)
                 return MUS_HG_VS_FRONTIER_BRAIN;
-            else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 5)
+                {
+                    if((Random() % 2) == 1)
+                        return BW_SEQ_BGM_VS_N;
+                    else
+                        return BW_SEQ_BGM_VS_N_2;
+                }
+            else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 6)
             {
-                if((Random() % 3) == 1)
+                if((Random() % 5) == 1)
                     return MUS_PL_VS_FRONTIER_BRAIN;
-                else if((Random() % 3) == 2)
+                else if((Random() % 5) == 2)
                     return MUS_HG_VS_FRONTIER_BRAIN;
+                else if((Random() % 5) == 3)
+                    return BW_SEQ_BGM_VS_N;
+                else if((Random() % 5) == 4)
+                    return BW_SEQ_BGM_VS_N_2;
                 else
                     return MUS_VS_FRONTIER_BRAIN;
             }
@@ -10730,15 +10777,21 @@ u16 GetBattleBGM(void)
                 else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 4)
                     return MUS_HG_VS_TRAINER_KANTO;
                 else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 5)
+                    return BW_SEQ_BGM_VS_SUBWAY_TRAINER;
+                else if (gSaveBlock2Ptr->optionsFrontierTrainerBattleMusic == 6)
                 {
-                    if((Random() % 5) == 1)
+                    if((Random() % 7) == 1)
                         return MUS_DP_VS_TRAINER;
-                    else if((Random() % 5) == 2)
+                    else if((Random() % 7) == 2)
                         return MUS_RG_VS_TRAINER;
-                    else if((Random() % 5) == 3)
+                    else if((Random() % 7) == 3)
                         return MUS_HG_VS_TRAINER;
-                    else if((Random() % 5) == 4)
+                    else if((Random() % 7) == 4)
                         return MUS_HG_VS_TRAINER_KANTO;
+                    else if((Random() % 7) == 5)
+                        return BW_SEQ_BGM_VS_SUBWAY_TRAINER;
+                    else if((Random() % 7) == 6)
+                        return BW_SEQ_BGM_VS_TRAINER;
                     else
                         return MUS_VS_TRAINER;
                 }
@@ -10757,15 +10810,19 @@ u16 GetBattleBGM(void)
                 else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 4)
                     return MUS_HG_VS_TRAINER_KANTO;
                 else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 5)
+                    return BW_SEQ_BGM_VS_TRAINER;
+                else if (gSaveBlock2Ptr->optionsTrainerBattleMusic == 6)
                 {
-                    if((Random() % 5) == 1)
+                    if((Random() % 6) == 1)
                         return MUS_DP_VS_TRAINER;
-                    else if((Random() % 5) == 2)
+                    else if((Random() % 6) == 2)
                         return MUS_RG_VS_TRAINER;
-                    else if((Random() % 5) == 3)
+                    else if((Random() % 6) == 3)
                         return MUS_HG_VS_TRAINER;
-                    else if((Random() % 5) == 4)
+                    else if((Random() % 6) == 4)
                         return MUS_HG_VS_TRAINER_KANTO;
+                    else if((Random() % 6) == 5)
+                        return BW_SEQ_BGM_VS_TRAINER;
                     else
                         return MUS_VS_TRAINER;
                 }
@@ -10785,15 +10842,19 @@ u16 GetBattleBGM(void)
         else if (gSaveBlock2Ptr->optionsWildBattleMusic == 4)
             return MUS_HG_VS_WILD_KANTO;
         else if (gSaveBlock2Ptr->optionsWildBattleMusic == 5)
+            return BW_SEQ_BGM_VS_NORAPOKE;
+        else if (gSaveBlock2Ptr->optionsWildBattleMusic == 6)
         {
-            if((Random() % 5) == 1)
+            if((Random() % 6) == 1)
                 return MUS_HG_VS_WILD_KANTO;
-            else if((Random() % 5) == 2)
+            else if((Random() % 6) == 2)
                 return MUS_RG_VS_WILD;
-            else if((Random() % 5) == 3)
+            else if((Random() % 6) == 3)
                 return MUS_DP_VS_WILD;
-            else if((Random() % 5) == 4)
+            else if((Random() % 6) == 4)
                 return MUS_HG_VS_WILD;
+            else if((Random() % 6) == 5)
+                return BW_SEQ_BGM_VS_NORAPOKE;
             else
                 return MUS_VS_WILD;
         }
@@ -11368,7 +11429,7 @@ void SetWildMonHeldItem(void)
         u16 rnd = Random() % 100;
         u16 species = GetMonData(&gEnemyParty[0], MON_DATA_SPECIES, 0);
         u16 chanceNoItem = 45;
-        u16 chanceNotRare = 90;
+        u16 chanceNotRare = 95;
         if (!GetMonData(&gPlayerParty[0], MON_DATA_SANITY_IS_EGG, 0)
             && GetMonAbility(&gPlayerParty[0]) == ABILITY_COMPOUND_EYES)
         {
@@ -11611,6 +11672,13 @@ void StopPokemonAnimationDelayTask(void)
         DestroyTask(delayTaskId);
 }
 
+void StopFrontSpriteAnimationDelayTask(void)
+{
+    u8 delayTaskId = FindTaskIdByFunc(Task_AnimateAfterDelay);
+    if (delayTaskId != TASK_NONE)
+        DestroyTask(delayTaskId);
+}
+
 void BattleAnimateBackSprite(struct Sprite *sprite, u16 species)
 {
     if (gSaveBlock2Ptr->optionsBattleSceneOff == 1)
@@ -11693,7 +11761,7 @@ u16 PlayerGenderToFrontTrainerPicId(u8 playerGender)
         return FacilityClassToPicIndex(FACILITY_CLASS_BRENDAN);
 }
 
-void HandleSetPokedexFlag(u16 nationalNum, u8 caseId, u32 personality)
+void HandleSetPokedexFlag(u16 nationalNum, u8 caseId, u32 personality, u32 otId)
 {
     u8 getFlagCaseId = (caseId == FLAG_SET_SEEN) ? FLAG_GET_SEEN : FLAG_GET_CAUGHT;
     if (!GetSetPokedexFlag(nationalNum, getFlagCaseId)) // don't set if it's already set
@@ -11704,6 +11772,9 @@ void HandleSetPokedexFlag(u16 nationalNum, u8 caseId, u32 personality)
         if (NationalPokedexNumToSpecies(nationalNum) == SPECIES_SPINDA)
             gSaveBlock2Ptr->pokedex.spindaPersonality = personality;
     }
+    // Always check shininess regardless of whether this is a first sighting
+    if (IsPersonalityShiny(otId, personality))
+        SetShinySeenFlag(nationalNum);
 }
 
 const u8 *GetTrainerClassNameFromId(u16 trainerId)
@@ -11921,18 +11992,17 @@ u8 *MonSpritesGfxManager_GetSpritePtr(u8 managerId, u8 spriteNum)
 //******************* tx_randomizer_and_challenges
 void RandomizeTypeEffectivenessListEWRAM(u16 seed)
 {
-    u8 i;
+    u8 i, j;
     u8 stemp[RANDOM_TYPE_COUNT];
 
     memcpy(stemp, sOneTypeChallengeValidTypes, sizeof(sOneTypeChallengeValidTypes));
     ShuffleListU8(stemp, NELEMS(sOneTypeChallengeValidTypes), seed);
 
-    sTypeEffectivenessList[TYPE_MYSTERY] = TYPE_NORMAL;
-    for (i=0; i<NUMBER_OF_MON_TYPES; i++)
+    sTypeEffectivenessList[TYPE_MYSTERY] = TYPE_MYSTERY;
+    for (i = 0, j = 0; i < NUMBER_OF_MON_TYPES; i++)
     {
         if (i != TYPE_MYSTERY)
-            sTypeEffectivenessList[i] = stemp[i];
-
+            sTypeEffectivenessList[i] = stemp[j++];
     }
 }
 u8 GetTypeEffectivenessRandom(u8 type)
@@ -12082,7 +12152,9 @@ u8 GetTypeBySpecies(u16 species, u8 typeNum)
     || species == SPECIES_SWALOT                //-Normal
     || species == SPECIES_LUVDISC               //-Fairy
     || species == SPECIES_ELECTIVIRE            //-Fighting
-    || species == SPECIES_YANMEGA))             //+Flying, -Dragon
+    || species == SPECIES_YANMEGA               //+Flying, -Dragon
+    || species == SPECIES_HUNTAIL               //-Psychic
+    || species == SPECIES_GOREBYSS))            //-Dark
     {
         if (typeNum == 1)
             type = gSpeciesInfo[species].types_old[0];

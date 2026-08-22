@@ -1466,9 +1466,9 @@ s32 GetTypeEffectiveness(struct Pokemon *mon, u8 moveType) {
             }
             else if (GetTypeEffectivenessRandom(TYPE_EFFECT_ATK_TYPE(i)) == moveType) {
                 // check type1
-                if (TYPE_EFFECT_DEF_TYPE(i) == type1)
+                if (GetTypeEffectivenessRandom(TYPE_EFFECT_DEF_TYPE(i)) == type1)
                     multiplier = TYPE_EFFECT_MULTIPLIER(i);
-                else if (TYPE_EFFECT_DEF_TYPE(i) == type2 && type1 != type2)
+                else if (GetTypeEffectivenessRandom(TYPE_EFFECT_DEF_TYPE(i)) == type2 && type1 != type2)
                     multiplier = TYPE_EFFECT_MULTIPLIER(i);
                 else {
                     i += 3;
@@ -1513,9 +1513,9 @@ s32 GetTypeEffectiveness(struct Pokemon *mon, u8 moveType) {
             }
             else if (GetTypeEffectivenessRandom(TYPE_EFFECT_ATK_TYPE_OLD(i)) == moveType) {
                 // check type1
-                if (TYPE_EFFECT_DEF_TYPE_OLD(i) == type1)
+                if (GetTypeEffectivenessRandom(TYPE_EFFECT_DEF_TYPE_OLD(i)) == type1)
                     multiplier = TYPE_EFFECT_MULTIPLIER_OLD(i);
-                else if (TYPE_EFFECT_DEF_TYPE_OLD(i) == type2 && type1 != type2)
+                else if (GetTypeEffectivenessRandom(TYPE_EFFECT_DEF_TYPE_OLD(i)) == type2 && type1 != type2)
                     multiplier = TYPE_EFFECT_MULTIPLIER_OLD(i);
                 else {
                     i += 3;
@@ -3951,12 +3951,16 @@ static void Cmd_getexp(void)
                     PlayBGM(MUS_DP_VICTORY_WILD); 
                 else if((gSaveBlock2Ptr->optionsWildBattleMusic == 3) || (gSaveBlock2Ptr->optionsWildBattleMusic == 4))
                     PlayBGM(MUS_HG_VICTORY_WILD); 
-                else if (gSaveBlock2Ptr->optionsWildBattleMusic == 5)
+                else if(gSaveBlock2Ptr->optionsWildBattleMusic == 5)
+                    PlayBGM(BW_SEQ_BGM_WIN1);
+                else if (gSaveBlock2Ptr->optionsWildBattleMusic == 6)
                 {
-                    if((Random() % 3) == 1)
+                    if((Random() % 4) == 1)
                         PlayBGM(MUS_DP_VICTORY_WILD); 
-                    else if((Random() % 3) == 2)
-                        PlayBGM(MUS_HG_VICTORY_WILD); 
+                    else if((Random() % 4) == 2)
+                        PlayBGM(MUS_HG_VICTORY_WILD);
+                    else if((Random() % 4) == 3)
+                        PlayBGM(BW_SEQ_BGM_WIN1); 
                     else
                         PlayBGM(MUS_VICTORY_WILD); 
                 }
@@ -5437,7 +5441,7 @@ static void Cmd_switchinanim(void)
                                  | BATTLE_TYPE_RECORDED_LINK
                                  | BATTLE_TYPE_TRAINER_HILL
                                  | BATTLE_TYPE_FRONTIER)))
-        HandleSetPokedexFlag(SpeciesToNationalPokedexNum(gBattleMons[gActiveBattler].species), FLAG_SET_SEEN, gBattleMons[gActiveBattler].personality);
+        HandleSetPokedexFlag(SpeciesToNationalPokedexNum(gBattleMons[gActiveBattler].species), FLAG_SET_SEEN, gBattleMons[gActiveBattler].personality, gBattleMons[gActiveBattler].otId);
 
     gAbsentBattlerFlags &= ~(gBitTable[gActiveBattler]);
 
@@ -10962,6 +10966,7 @@ static void Cmd_trysetcaughtmondexflags(void)
 {
     u16 species = GetMonData(&gEnemyParty[0], MON_DATA_SPECIES, NULL);
     u32 personality = GetMonData(&gEnemyParty[0], MON_DATA_PERSONALITY, NULL);
+    u32 otId = GetMonData(&gEnemyParty[0], MON_DATA_OT_ID, NULL);
 
     if (GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_GET_CAUGHT))
     {
@@ -10969,7 +10974,7 @@ static void Cmd_trysetcaughtmondexflags(void)
     }
     else
     {
-        HandleSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_CAUGHT, personality);
+        HandleSetPokedexFlag(SpeciesToNationalPokedexNum(species), FLAG_SET_CAUGHT, personality, otId);
         gBattlescriptCurrInstr += 5;
     }
 }

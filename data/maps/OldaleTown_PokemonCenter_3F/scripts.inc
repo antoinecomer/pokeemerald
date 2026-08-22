@@ -46,6 +46,7 @@ Wondertrade_Movement_PlayerApproachCounter:
 	step_end
 
 EventScript_DoWonderTrade::
+	goto_if_unset FLAG_WT_ENABLED, EventScript_WTNotActiveYet_NoWT
 	goto_if_set FLAG_UNLIMITIED_WONDERTRADE, EventScript_DoWonderTradeStartNoLimit
 	special CheckIfRandomizerIsActive
 	goto_if_unset FLAG_WT_ENABLED_RANDOMIZER, EventScript_DoWonderTradeStart
@@ -83,6 +84,11 @@ EventScript_WTChallengesCancel::
 
 EventScript_WTNotActiveYet::
 	msgbox EventScript_DoWonderTrade_Text_FiveBadges, MSGBOX_DEFAULT
+	closemessage
+	end
+
+EventScript_WTNotActiveYet_NoWT::
+	msgbox EventScript_DoWonderTrade_Text_EnableAfterBeatingGame, MSGBOX_DEFAULT
 	closemessage
 	end
 

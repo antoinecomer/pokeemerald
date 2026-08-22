@@ -79,6 +79,7 @@ static const u8 sText_PlayerLostAgainstEnemyTrainer[] = _("{B_PLAYER_NAME} is ou
 static const u8 sText_PlayerPaidPrizeMoney[] = _("{B_PLAYER_NAME} paid ¥{B_BUFF1} as the prize\nmoney…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}");
 static const u8 sText_PlayerWhiteout[] = _("{B_PLAYER_NAME} is out of\nusable Pokémon!\p");
 static const u8 sText_PlayerWhiteout2[] = _("{B_PLAYER_NAME} panicked and lost ¥{B_BUFF1}…\p… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}");
+static const u8 sText_PlayerWhiteoutNoMoney[] = _("… … … …\p{B_PLAYER_NAME} whited out!{PAUSE_UNTIL_PRESS}");
 static const u8 sText_PreventsEscape[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX} prevents\nescape with {B_SCR_ACTIVE_ABILITY}!\p");
 static const u8 sText_CantEscape2[] = _("Can't escape!\p");
 static const u8 sText_AttackerCantEscape[] = _("{B_ATK_NAME_WITH_PREFIX} can't escape!");
@@ -233,7 +234,7 @@ static const u8 sText_PkmnObtainedX2[] = _("{B_DEF_NAME_WITH_PREFIX} obtained\n{
 static const u8 sText_PkmnObtainedXYObtainedZ[] = _("{B_ATK_NAME_WITH_PREFIX} obtained\n{B_BUFF1}.\p{B_DEF_NAME_WITH_PREFIX} obtained\n{B_BUFF2}.");
 static const u8 sText_PkmnCopiedFoe[] = _("{B_ATK_NAME_WITH_PREFIX} copied\n{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}!");
 static const u8 sText_PkmnMadeWish[] = _("{B_ATK_NAME_WITH_PREFIX} made a Wish!");
-static const u8 sText_PkmnWishCameTrue[] = _("{B_BUFF1}'s WISH\ncame true!");
+static const u8 sText_PkmnWishCameTrue[] = _("{B_BUFF1}'s Wish\ncame true!");
 static const u8 sText_PkmnPlantedRoots[] = _("{B_ATK_NAME_WITH_PREFIX} planted its roots!");
 static const u8 sText_PkmnAbsorbedNutrients[] = _("{B_ATK_NAME_WITH_PREFIX} absorbed\nnutrients with its roots!");
 static const u8 sText_PkmnAnchoredItself[] = _("{B_DEF_NAME_WITH_PREFIX} anchored\nitself with its roots!");
@@ -277,7 +278,7 @@ static const u8 sText_PkmnPreventsPoisoningWith[] = _("{B_EFF_NAME_WITH_PREFIX}'
 static const u8 sText_PkmnPreventsConfusionWith[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nprevents confusion!");
 static const u8 sText_PkmnRaisedFirePowerWith[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nraised its Fire power!");
 static const u8 sText_PkmnAnchorsItselfWith[] = _("{B_DEF_NAME_WITH_PREFIX} anchors\nitself with {B_DEF_ABILITY}!");
-static const u8 sText_PkmnCutsAttackWith[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncuts {B_DEF_NAME_WITH_PREFIX}'s ATTACK!");
+static const u8 sText_PkmnCutsAttackWith[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\ncuts {B_DEF_NAME_WITH_PREFIX}'s attack!");
 static const u8 sText_PkmnPreventsStatLossWith[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX}'s {B_SCR_ACTIVE_ABILITY}\nprevents stat loss!");
 static const u8 sText_PkmnHurtsWith[] = _("{B_DEF_NAME_WITH_PREFIX}'s {B_DEF_ABILITY}\nhurt {B_ATK_NAME_WITH_PREFIX}!");
 static const u8 sText_PkmnTraced[] = _("{B_SCR_ACTIVE_NAME_WITH_PREFIX} Traced\n{B_BUFF1}'s {B_BUFF2}!");
@@ -903,6 +904,7 @@ const u8 * const gBattleStringsTable[BATTLESTRINGS_COUNT - BATTLESTRINGS_TABLE_S
     [STRINGID_BAGISFULL - BATTLESTRINGS_TABLE_START] = sText_BagIsFull,
     [STRINGID_PKMNDROPPEDITEM - BATTLESTRINGS_TABLE_START] = sText_PkmnDroppedItem,
     [STRINGID_FOURITEMSUSED - BATTLESTRINGS_TABLE_START] = sText_FourItemsUsed,
+    [STRINGID_PLAYERWHITEOUT_NOMONEY - BATTLESTRINGS_TABLE_START] = sText_PlayerWhiteoutNoMoney,
 };
 
 const u16 gMissStringIds[] =
@@ -1298,9 +1300,11 @@ const u8 gText_WhatWillWallyDo[] = _("Wuk ga de\nWally doen?");
 const u8 gText_LinkStandby[] = _("{PAUSE 16}Link standby…");
 const u8 gText_BattleMenu[] = _("Battrn{CLEAR_TO 56}Zak\nPokémon{CLEAR_TO 56}Lwôpn");
 const u8 gText_SafariZoneMenu[] = _("Ball{CLEAR_TO 56}{POKEBLOCK}\nGo Near{CLEAR_TO 56}Run");
-const u8 gText_MoveInterfacePP[] = _("PP ");
-const u8 gText_MoveInterfaceType[] = _("Type/");
-const u8 gText_MoveInterfacePpType[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}PP\nType/");
+const u8 gText_MoveInterface_Effective_Up[] = _("{UP_ARROW_2}");
+const u8 gText_MoveInterface_Effective_Down[] = _("{DOWN_ARROW_2}");
+const u8 gText_MoveInterface_Effective_X[] = _("{BIG_MULT_X}");
+const u8 gText_MoveInterface_Effective_Null[] = _(" ");
+const u8 gText_MoveInterface_STAB_Icon[] = _("S");
 const u8 gText_MoveInterfaceDynamicColors[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}");
 const u8 gText_WhichMoveToForget4[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}Which move should\nbe forgotten?");
 const u8 gText_BattleYesNoChoice[] = _("{PALETTE 5}{COLOR_HIGHLIGHT_SHADOW DYNAMIC_COLOR4 DYNAMIC_COLOR5 DYNAMIC_COLOR6}Yes\nNo");
@@ -1571,15 +1575,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] =
         .bgColor = 14,
         .shadowColor = 15,
     },
-    [B_WIN_PP] = {
+    [B_WIN_MOVE_TYPE_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_NARROW,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
-        .fgColor = 12,
+        .fgColor = 13,
         .bgColor = 14,
-        .shadowColor = 11,
+        .shadowColor = 15,
     },
     [B_WIN_PSS_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -1601,15 +1605,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] =
         .bgColor = 14,
         .shadowColor = 11,
     },
-    [B_WIN_MOVE_TYPE] = {
+    [B_WIN_STAB] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_NARROW,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
-        .fgColor = 13,
+        .fgColor = 8,
         .bgColor = 14,
-        .shadowColor = 15,
+        .shadowColor = 9,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -1737,41 +1741,35 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal[] =
         .fgColor = 1,
         .shadowColor = 6,
     },
-    [24] = { // 24 "type" super-effective
+    [B_WIN_EFFECTIVENESS_UP] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
         .speed = 0,
         .fgColor = 6,
         .bgColor = 14,
         .shadowColor = 5,
     },
-    [25] = { // 25 "type" not very effective
+	[B_WIN_EFFECTIVENESS_DOWN] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
+        .speed = 0,
+        .fgColor = 3,
+        .bgColor = 14,
+        .shadowColor = 15,
+    },
+	[B_WIN_EFFECTIVENESS_NONE] = {
+        .fillValue = PIXEL_FILL(0xE),
+        .fontId = FONT_NORMAL,
+        .x = 0,
+        .y = 1,
         .speed = 0,
         .fgColor = 1,
         .bgColor = 14,
         .shadowColor = 3,
-    },
-    [26] = { // 26 "type" no effect
-        .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
-        .x = 0,
-        .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
-        .speed = 0,
-        .fgColor = 7,
-        .bgColor = 14,
-        .shadowColor = 15,
     },
     [B_WIN_MOVE_DESCRIPTION] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -1859,9 +1857,9 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena[] =
         .bgColor = 14,
         .shadowColor = 15,
     },
-    [B_WIN_PP] = {
+    [B_WIN_MOVE_TYPE_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_NARROW,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
@@ -1889,15 +1887,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena[] =
         .bgColor = 14,
         .shadowColor = 11,
     },
-    [B_WIN_MOVE_TYPE] = {
+    [B_WIN_STAB] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_NARROW,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
-        .fgColor = 13,
+        .fgColor = 8,
         .bgColor = 14,
-        .shadowColor = 15,
+        .shadowColor = 9,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2027,41 +2025,35 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena[] =
         .fgColor = 1,
         .shadowColor = 6,
     },
-    [24] = { // 24 "type" super-effective
+    [B_WIN_EFFECTIVENESS_UP] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
         .speed = 0,
         .fgColor = 6,
         .bgColor = 14,
         .shadowColor = 5,
     },
-    [25] = { // 25 "type" not very effective
+	[B_WIN_EFFECTIVENESS_DOWN] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
+        .speed = 0,
+        .fgColor = 3,
+        .bgColor = 14,
+        .shadowColor = 15,
+    },
+	[B_WIN_EFFECTIVENESS_NONE] = {
+        .fillValue = PIXEL_FILL(0xE),
+        .fontId = FONT_NORMAL,
+        .x = 0,
+        .y = 1,
         .speed = 0,
         .fgColor = 1,
         .bgColor = 14,
         .shadowColor = 3,
-    },
-    [26] = { // 26 "type" no effect
-        .fillValue = PIXEL_FILL(0xE),
-        .fontId = 7,
-        .x = 0,
-        .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
-        .speed = 0,
-        .fgColor = 7,
-        .bgColor = 14,
-        .shadowColor = 15,
     },
     [B_WIN_MOVE_DESCRIPTION] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2149,15 +2141,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal_FRLGFont[] =
         .bgColor = 14,
         .shadowColor = 15,
     },
-    [B_WIN_PP] = {
+    [B_WIN_MOVE_TYPE_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
         .fgColor = 12,
         .bgColor = 14,
-        .shadowColor = 11,
+        .shadowColor = 15,
     },
     [B_WIN_PSS_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2179,15 +2171,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal_FRLGFont[] =
         .bgColor = 14,
         .shadowColor = 11,
     },
-    [B_WIN_MOVE_TYPE] = {
+    [B_WIN_STAB] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
-        .fgColor = 13,
+        .fgColor = 8,
         .bgColor = 14,
-        .shadowColor = 15,
+        .shadowColor = 9,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2315,41 +2307,35 @@ static const struct BattleWindowText sTextOnWindowsInfo_Normal_FRLGFont[] =
         .fgColor = 1,
         .shadowColor = 6,
     },
-    [24] = { // 24 "type" super-effective
+    [B_WIN_EFFECTIVENESS_UP] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
         .speed = 0,
         .fgColor = 6,
         .bgColor = 14,
         .shadowColor = 5,
     },
-    [25] = { // 25 "type" not very effective
+	[B_WIN_EFFECTIVENESS_DOWN] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
+        .speed = 0,
+        .fgColor = 3,
+        .bgColor = 14,
+        .shadowColor = 15,
+    },
+	[B_WIN_EFFECTIVENESS_NONE] = {
+        .fillValue = PIXEL_FILL(0xE),
+        .fontId = FONT_NORMAL,
+        .x = 0,
+        .y = 1,
         .speed = 0,
         .fgColor = 1,
         .bgColor = 14,
         .shadowColor = 3,
-    },
-    [26] = { // 26 "type" no effect
-        .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
-        .x = 0,
-        .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
-        .speed = 0,
-        .fgColor = 7,
-        .bgColor = 14,
-        .shadowColor = 15,
     },
     [B_WIN_MOVE_DESCRIPTION] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2437,9 +2423,9 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena_FRLGFont[] =
         .bgColor = 14,
         .shadowColor = 15,
     },
-    [B_WIN_PP] = {
+    [B_WIN_MOVE_TYPE_ICON] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
@@ -2467,15 +2453,15 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena_FRLGFont[] =
         .bgColor = 14,
         .shadowColor = 11,
     },
-    [B_WIN_MOVE_TYPE] = {
+    [B_WIN_STAB] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
         .speed = 0,
-        .fgColor = 13,
+        .fgColor = 8,
         .bgColor = 14,
-        .shadowColor = 15,
+        .shadowColor = 9,
     },
     [B_WIN_SWITCH_PROMPT] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2605,41 +2591,35 @@ static const struct BattleWindowText sTextOnWindowsInfo_Arena_FRLGFont[] =
         .fgColor = 1,
         .shadowColor = 6,
     },
-    [24] = { // 24 "type" super-effective
+    [B_WIN_EFFECTIVENESS_UP] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
         .speed = 0,
         .fgColor = 6,
         .bgColor = 14,
         .shadowColor = 5,
     },
-    [25] = { // 25 "type" not very effective
+	[B_WIN_EFFECTIVENESS_DOWN] = {
         .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
+        .fontId = FONT_NORMAL,
         .x = 0,
         .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
+        .speed = 0,
+        .fgColor = 3,
+        .bgColor = 14,
+        .shadowColor = 15,
+    },
+	[B_WIN_EFFECTIVENESS_NONE] = {
+        .fillValue = PIXEL_FILL(0xE),
+        .fontId = FONT_NORMAL,
+        .x = 0,
+        .y = 1,
         .speed = 0,
         .fgColor = 1,
         .bgColor = 14,
         .shadowColor = 3,
-    },
-    [26] = { // 26 "type" no effect
-        .fillValue = PIXEL_FILL(0xE),
-        .fontId = FONT_SMALL,
-        .x = 0,
-        .y = 1,
-        .letterSpacing = 0,
-        .lineSpacing = 0,
-        .speed = 0,
-        .fgColor = 7,
-        .bgColor = 14,
-        .shadowColor = 15,
     },
     [B_WIN_MOVE_DESCRIPTION] = {
         .fillValue = PIXEL_FILL(0xE),
@@ -2741,6 +2721,8 @@ void BufferStringBattle(u16 stringID)
             else if (gBattleTypeFlags & BATTLE_TYPE_WALLY_TUTORIAL)
                 stringPtr = sText_WildPkmnAppearedPause;
             else if (gBattleTypeFlags & BATTLE_TYPE_SAFARI)
+                stringPtr = sText_WildPkmnAppearedOld;
+            else if (gBattleTypeFlags & BATTLE_TYPE_FIRST_BATTLE)
                 stringPtr = sText_WildPkmnAppearedOld;
             else
                 if (gSaveBlock2Ptr->optionsLRtoRun == 0)

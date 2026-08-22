@@ -512,6 +512,7 @@ static const u8 sBattleStyleMovePoints[MOVES_COUNT][NUM_MOVE_POINT_TYPES] =
     [MOVE_PLAY_ROUGH]    = {[MOVE_POINTS_ACCURATE] = 1},
     [MOVE_MOONBLAST]     = {[MOVE_POINTS_RARE] = 1, [MOVE_POINTS_ACCURATE] = 1, [MOVE_POINTS_LUCK] = 1},
     [MOVE_POISON_JAB]    = {[MOVE_POINTS_DMG] = 1, [MOVE_POINTS_EFFECT] = 1},
+    [MOVE_HEAL_PULSE]    = {[MOVE_POINTS_RARE] = 1, [MOVE_POINTS_HEAL] = 1, [MOVE_POINTS_ACCURATE] = 1},
 };
 
 // This array is searched in-order to determine what battle style a tourney trainer uses.
@@ -2451,7 +2452,10 @@ static void InitDomeTrainers(void)
                 || species[j] == SPECIES_GULPIN
                 || species[j] == SPECIES_SWALOT
                 || species[j] == SPECIES_LUVDISC
-                || species[j] == SPECIES_ELECTIVIRE))
+                || species[j] == SPECIES_ELECTIVIRE
+                || species[j] == SPECIES_YANMEGA
+                || species[j] == SPECIES_HUNTAIL
+                || species[j] == SPECIES_GOREBYSS))
                 {
                     monTypesBits |= gBitTable[gSpeciesInfo[gFacilityTrainerMons[DOME_MONS[i][j]].species].types_old[0]];
                     monTypesBits |= gBitTable[gSpeciesInfo[gFacilityTrainerMons[DOME_MONS[i][j]].species].types_old[1]];

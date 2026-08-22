@@ -522,6 +522,7 @@ extern const u8 gText_12PoofForgotMove[];
 extern const u8 gText_StopLearningMove2[];
 extern const u8 gText_MoveNotLearned[];
 extern const u8 gText_PkmnElevatedToLvVar2[];
+extern const u8 gText_RareCandyUsedNoLevelUp[];
 extern const u8 gText_RemoveMailBeforeItem[];
 extern const u8 gText_PkmnHoldingItemCantHoldMail[];
 extern const u8 gText_MailTransferredFromMailbox[];
@@ -3216,5 +3217,7 @@ extern const u8 gText_BattleRules_NoItems_Player[];
 extern const u8 gText_UnitSystemMetric[];   //tx_optionsPlus
 extern const u8 gText_UnitSystemImperial[]; //tx_optionsPlus
 extern const u8 gText_Var1DotVar2_Metric[];
+extern const u8 gText_Follow[];
+extern const u8 gText_PkmnWillFollowYou[];
 
 #endif // GUARD_STRINGS_H
