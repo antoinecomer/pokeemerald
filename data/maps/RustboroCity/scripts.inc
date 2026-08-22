@@ -1022,9 +1022,9 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "Belgian American Radio COrporation…\n"
-	.string "Mo iederjin zegt geweun Barco whé.\p"
-	.string "Ze moakn vooral skermn,\n"
+	.string "Biezondere Allerhande Leegaerdn COrp…\n"
+	.string "Mo iederjin zegt geweun Balco whé.\p"
+	.string "Ze moakn allerlei technolohie,\n"
 	.string "vroeger wok minder kosjere dingn..\l"
 	.string "woois al gwôrd van Scioteq?$"
 
@@ -1143,20 +1143,21 @@ RustboroCity_Text_PleaseComeWithMe:
 RustboroCity_Text_MayHiLetsRegister:
 	.string "{RIVAL}: Ah, hey! {PLAYER}{KUN}!\p"
 	.string "Ah trouwens, 'ad je gij mijn\n"
-	.string "nummer al ip PokéNAV?\p"
-	.string "Wachte, kgoat vo je intypen,\n"
-	.string "stuur ma wanneer daje wilt whé!\p"
+	.string "nummer al ip PokéNav?\p"
+	.string "Gif ke je gsm, kgoat intyp'n.\n"
+	.string "Stuur ma wanneer daje wilt whé!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "{RIVAL} is herehistreerd\n"
-	.string "in je Pokénav. Nie mis… … … …$"
+	.string "{RIVAL} rehistreerdehe\n"
+	.string "oarzelve in je Pokénav.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
 	.string "{RIVAL}: Aja en nog iet!\n"
-	.string "Weetje wie dak davers gepasseerd benne\p"
-	.string "in 't Kennedybos? Ge moog ke raden.\n"
-	.string "… …Yarrrr min moatje. MR. PEKEL!\p"
+	.string "Weetje wie dak davers gepasseerd\l"
+	.string "benne in 't Kennedybus?\p"
+	.string "Ge moog ke raden.\n"
+	.string "“Yarrrr, min moatje”. MR. PEKEL!\p"
 	.string "Daddis toch wok ne vréen é.\n"
 	.string "Dus eh…dit gezegdzijnde!\p"
 	.string "({RIVAL} klapt in haar handen)\n"
@@ -1176,7 +1177,8 @@ RustboroCity_Text_MayImNotGoingToLose:
 	.string "{RIVAL}: We zin ongeveer ipt zelfde\n"
 	.string "moment Temmer geword'n, {RIVAL}!\p"
 	.string "Ma 'k goat je daarom nie makkelik moakn!\p"
-	.string "Peis ma nie dak duusd ke Harden ga spamm'n whé!$"
+	.string "Peis ma nie dak duusd ke Harden\n"
+	.string "ga spamm'n whé!$"
 
 RustboroCity_Text_MayDefeat:
 	.string "Aiaiai! Ge zijt inderdaad een slagsje\n"
@@ -1245,8 +1247,8 @@ RustboroCity_Text_TunnelNearingCompletion:
 	.string "lik de renovatie van Gent Sint-Pieters…$"
 
 RustboroCity_Text_DevonCorpSign:
-	.string "Barco\p"
-	.string "“Wij moakn skermen\n"
+	.string "Balco\p"
+	.string "“Wij moakn ball'n\n"
 	.string "alsof ze voor onszelve zin.”$"
 
 RustboroCity_Text_GymSign:
@@ -1256,7 +1258,7 @@ RustboroCity_Text_GymSign:
 	.string "als blad nie meedoet”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
-	.string "Barco filiaal\p"
+	.string "Balco filiaal\p"
 	.string "“Toegang enkel voor mensen met een\n"
 	.string "badge en veel te dure externen.”$"
 
@@ -1276,27 +1278,30 @@ RustboroCity_Text_CuttersHouse:
 RustboroCity_Text_DevelopedNewPokenavFeature:
 	.string "Ik bennekik bezig me een nieuwe 'fietuur'\n"
 	.string "t'ontwikkeln vo de Pokénav…\p"
-	.string "Fietuur, nint, gin Friture!\p"
+	.string "Fietuur, nint, gin Friture!\n"
+	.string "Ge weet wel. Een feature é!\p"
 	.string "{PLAYER}, magk jen Pokénav efkes?\n"
 	.string "Dien daje gekregen èt van onzen CEO?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Voilà se, {PLAYER}!\p"
 	.string "Kheb em utgerust me een nieuwe...\n"
-	.string "frit-..featu-..functie...\p"
+	.string "frit-..freatu-....\p"
+	.string "een functie.\p"
 	.string "Min gedachtn zitn elders.\n"
 	.string "De functie heet 'Revancheke'.\l"
 	.string "Aje n'en Temmer z'n nummer èt,\p"
 	.string "kundjem ipbeln vo een matchke.\n"
 	.string "Handih éé.\p"
-	.string "Onzne CEO stoat wok in 't telefoonboek.\n"
+	.string "Onzne CEO stoa wok in 't telefoonboek.\n"
 	.string "Belt em ke ip?$"
 
 RustboroCity_Text_PleaseSelectPokenav:
 	.string "Helieve den Pokénav te selectern, tjoetn.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Oké, 'k ga nu weer bitje pretenderen dak druk\n"
+	.string "Oké, 'k ga nu weer bitje\n" 
+	.string "pretenderen dak druk\l"
 	.string "bezig benne. Ciao é, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:

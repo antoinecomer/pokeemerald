@@ -32,7 +32,7 @@ DewfordTown_PokemonCenter_1F_Text_StoneCavern:
 	.string "'t Skint daje da nog bitje zeldzoame\n"
 	.string "stjinn'n vindt.\p"
 	.string "{PLAYER} peist: Alégow miskien vindje\n"
-	.string "wok een HOBBY!$"\p"
+	.string "wok een HOBBY!$"
 
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
 	.string "Zelf als n'en Pokémon bezwijkt,\n"

@@ -591,7 +591,7 @@ PetalburgWoods_Text_IWasGoingToAmbushYou:
 	.string "Ket get van te wachtn, dus ier ben ik!$"
 
 PetalburgWoods_Text_HandOverThosePapers:
-	.string "Gij doar! Barco Onderzoeker!\p"
+	.string "Gij doar! Balco Onderzoeker!\p"
 	.string "Gif mie je papieren!$"
 
 PetalburgWoods_Text_YouHaveToHelpMe:

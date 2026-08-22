@@ -90,10 +90,10 @@ GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
 	.string "Steven: Vroagsje!\p"
 	.string "Wuk est er zwoarder?\p"
 	.string "E kilo patatn, of e kilo stoal?\n"
-	.string "Aba e kilo stoal natuurlik!\l"
+	.string "Aba, e kilo stoal natuurlik!\l"
 	.string "Want stoal is zwoarder dan patatn!\p"
-	.string "… … … … … … … … … … … … … … … … … …"
-	.string "Wuk? 't Es tzelfste?  
+	.string "… … … … … … … … … … … … … … … … … …\p"
+	.string "Wuk? 't Es tzelfste?\p"  
 	.string "Steven: Oh?\n"
 	.string "N'en brief veur ik?$"
 

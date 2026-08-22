@@ -68,7 +68,8 @@ RustboroCity_House1_Text_DoesntLookLikeMonToMe:
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
 	.string "Oh, ajem nie moe ebbn, gin probleem.\n"
-	.string "Ma min Pokémon is beeere koddig, ti ma ke zeggen…$"
+	.string "Ma min Pokémon is beeere koddig,\l"
+	.string "ti ma ke zeggen…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
 	.string "Gelik welkne Pokémon kun koddig zin\n"

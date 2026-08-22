@@ -364,7 +364,7 @@ PlayersHouse_1F_Text_DontPushYourselfTooHard:
 
 PlayersHouse_1F_Text_IsThatAPokenav:
 	.string "MAMA: Waddis da daar? Ne nieuwe GSM?\n"
-	.string "Gekregen van n'twien van BARCO?\p"
+	.string "Gekregen van n'twien van BALCO?\p"
 	.string "Voegt mie ma zjirre toe\p"
 	.string "En ge gaat mie toch af en toe\n"
 	.string "een belleke geven?\p"

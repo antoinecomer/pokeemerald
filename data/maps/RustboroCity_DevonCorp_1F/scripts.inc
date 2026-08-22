@@ -82,7 +82,7 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
 	.string "Ge zijt welhekomn in\n"
-	.string "BARCO.\p"
+	.string "BALCO.\p"
 	.string "Wudr moakn vanalles\n"
 	.string "daje leevn verbeterd of in elk\p"
 	.string "ons bakkn held doe skeppn.$"
@@ -128,14 +128,14 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "metoal wôr'n tenteunhesteld.\p"
 	.string "Der stoat een plakkoat\n"
 	.string "me een pak tekst…\p"
-	.string "“Barco is begonnen in 19-..”\n"
+	.string "“Balco is begonnen in 19-..”\n"
 	.string "{PLAYER}{KUN}: Soai!$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Prototypn en testproductn wôrdn\n"
 	.string "tenteunhesteld achter 't hlas.\p"
 	.string "Me een beskrivingske natuurlik…\p"
-	.string "“Barco heeft z'n industrieel gamma\n"
+	.string "“Balco heeft z'n industrieel gamma\n"
 	.string "uitgebreid naar allerlei\l"
 	.string "levensstijl-producten zoals\p"
 	.string "loopschoenen of gereeschap voor Temmers.\n"

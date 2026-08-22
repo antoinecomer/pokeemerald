@@ -352,8 +352,8 @@ DewfordTown_Hall_Text_LastTrend:
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_BirthOfTrend:
-	.string "Den titel es
-	.string "“De jammerlike heboorte van\n"
+	.string "Den titel es\n"
+	.string "“De jammerlike heboorte van\l"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:

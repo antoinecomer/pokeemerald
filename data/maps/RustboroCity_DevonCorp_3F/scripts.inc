@@ -202,9 +202,9 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay::
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
 	.string "Elk zin dag, ik benne Mr. Verstichel,\n"
 	.string "den Sie Ie Ooh, jazeker.\p"
-	.string "'k Eb just 't een en 't ander over u g'oord!\p"
-	.string "Gie èt ons personeel gered, nie jin ki..\n"
-	.string "MO TWJI KI! Alléhow zeg.\p"
+	.string "'k Eb just 't 1 en 't ander over u g'oord!\p"
+	.string "Gie èt ons personeel gered, nie 1 kji..\n"
+	.string "MO 2 KJI! Alléhow zeg.\p"
 	.string "'k Goa 'k ik u toch nog iet moet'n vroagn,\n"
 	.string "'k ga mie nie generen!\p"
 	.string "A'k et goe behrepen eb..\n"
@@ -227,24 +227,28 @@ RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
 	.string "Mr. Vertsichel: Da machientje…\p"
-	.string "Daddis ne 'Hé Pé Es', oftewel ne Navigator,\n"
-	.string "me Poké dervoor want da klonk goe.\p"
-	.string "Gin vroagn steln, geweun aanvoardn.\n"
+	.string "Daddis ne 'Hé Pé Es', oftewel ne Navihator,\n"
+	.string "me Poké dervoor want da klonk goêd.\p"
+	.string "Gin vroagn steln, geweun oanvoardn.\n"
 	.string "Elkne temmer, ELKNEN temmer è da nodig.\p"
-	.string "Een koarte. Oe vindje anders jenne weg terug?\p"
+	.string "Et é een koarte. Me stroatnam'n enal.\n"
+	.string "Oe vindje anders jenne weg terug?\p"
 	.string "Ma echt tot in de details enal é!\n"
 	.string "Hjil Oen, allez Hoenn, in je broekzak.\p"
 	.string "Daddis toch machtig...?\n"
 	.string "Aja nog iets, {PLAYER},\l"
 	.string "der is een vré gespuis ip de boane.\p"
-	.string "Van die witi's die zich Aqua of Mahma noemn,\n"
-	.string "geweune negeren en gin spel mee zoekn, verstoajt?$"
+	.string "Van die witi's die zich Aqua of Mahma\p"
+	.string "noemn, geweune negeren en\n"
+	.string "gin spel mee zoekn, verstoajt?$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneGoWithCautionAndCare:
 	.string "Mr. Vertsichel: En ezo, voilà se. Moh,\n"
-	.string "kiek ne ke na 't uur zeg, is 't al zo laat zeg?\p"
-	.string ".....(Mr. Verstichel klapt in z'n handen) Jah!\n"
-	.string "Allez moakt daje wegkomt, kheb sebiet vergoaringe.\p"
+	.string "kiek ne ke na 't uur zeg,\l" 
+	.string "is 't al zo laat zeg?\p"
+	.string "(Mr. Verstichel klapt in z'n handen) Jah!\p"
+	.string "Allez moakt daje wegkomt,\n" 
+	.string "kheb sebiet vergoaringe.\l"
 	.string "Ik kun ip u rekenen!$"
 
 RustboroCity_DevonCorp_3F_Text_CountingOnYou:
@@ -301,10 +305,10 @@ RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "de Elite 4 afmoakn, daar goat et om zeg ik u!$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
-	.string "Dit is de derde verdiepinge\n"
-	.string "in Barco.\p"
+	.string "Dit is den derden étage\n"
+	.string "in Balco.\p"
 	.string "Den bureau van onzne SIE IE OH\n"
-	.string "is ep dezen étage.\p"
+	.string "is ep 't skwon verdiep é.\p"
 	.string "Kwille je nog ke stif bedanken\n"
 	.string "voor al daje voor oes gedoan èt.\p"
 	.string "Zeg eh… da pakketje\n"
@@ -313,14 +317,15 @@ RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
 	.string "Nieuwpoort te gon afgeevn?\p"
 	.string "Als da ellendig, miserabel krapul,\n"
 	.string "da uitschot van Team Aqua en Magma,\p"
-	.string "weer udder vulle pwotn… sorry whé, kmoe afkoeln.\n"
+	.string "weer udder vulle pwotn…\n"
+	.string "sorry whé, kmoe afkoeln.\l"
 	.string "Ma serieus, kundje da rehelen?\p"
 	.string "Ah en nog iet!\n"
 	.string "Kundje ier een secondje wachtn?$"
 
 RustboroCity_DevonCorp_3F_Text_WordWithPresidentComeWithMe:
-	.string "Onzne Président zod een klaptje willen doen\n"
-	.string "met u! Ge zijt vriendlik\p"
+	.string "Onzne Président zod een klaptje\n"
+	.string "willen doen met u! Ge zijt vriendlik\p"
 	.string "gevroagd om mie te volgen.$"
 
 RustboroCity_DevonCorp_3F_Text_PleaseGoAhead:

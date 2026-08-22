@@ -635,7 +635,7 @@ RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
 
 RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams:
 	.string "'k Zin bezig me een machien te moakn\n"
-	.string "om de dromen van je Mons te visualisern..\l"
+	.string "om de drômen van je Mons te visualisern..\l"
 	.string "Mo waarom doekik da toch…\p"
 	.string "Tlukt nie, en ti hjil nutteloos.$"
 
@@ -709,10 +709,10 @@ RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
 RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext:
 	.string "Wuk goak nu ip werken?\n"
 	.string "Stel...een machien da\p"
-	.string "eten aan Wingulls en Tailows geeft\n"
-	.string "in ruil vo 't afval van mensn?\p"
+	.string "eten aan Wingulls en Tailows gift\n"
+	.string "in ruil vo 't afval van de mensn?\p"
 	.string "Daddis toch machtig?\n"
-	.string "Zo roapn ze et afval ip van\p"
+	.string "Zo roapn ze 't afval ip van\p"
 	.string "al da krapul da cigaretn en gellekes\n"
 	.string "ip de grond smit.$"
 
