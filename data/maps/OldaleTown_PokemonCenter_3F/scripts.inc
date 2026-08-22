@@ -234,3 +234,8 @@ EventScript_DoWonderTrade_Text_FiveBadges:
 	.string "Dju, et WonderWissel systeem\n"
 	.string "marcheert noh niet. Ge goat 'n andere\l"
 	.string "ki moeten wjirre kommen.$"
+
+EventScript_DoWonderTrade_Text_EnableAfterBeatingGame:
+    .string "Et WonderWissel systeem werkt nog nie.\n"
+    .string "Enkel erkende Kampioenen\l"
+    .string "zin welgekommen!$"
