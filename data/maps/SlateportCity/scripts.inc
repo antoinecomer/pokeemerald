@@ -1058,10 +1058,10 @@ SlateportCity_Text_BushedHikingFromMauville:
 	.string "Volhende ké pak ik de vélo!$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "Haddock, dien die da museum ip\n"
+	.string "Mortimer, dien die da museum ip\n"
 	.string "pwôtn é gezet, es wok de leidr\l"
 	.string "van een onderzji-dienst.\p"
-	.string "Dus iederjin noemt em Kapt. Haddock.$"
+	.string "Dus iederjin noemt em Kapt. Mortimer.$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
 	.string "Amai.\n"
@@ -1196,99 +1196,108 @@ SlateportCity_Text_BattleTentBuiltRecently:
 	.string "dus zèn e Battle Tent hezet!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "I was hoping that it was a famous star\n"
-	.string "so I could get an autograph.\p"
-	.string "But who's that being interviewed?\n"
-	.string "Isn't that Capt. Stern?$"
+	.string "Ze zeidn ollemolle datter een\n"
+	.string "bekende sterre ging afkom'n.\p"
+	.string "Taylor Swift? Shakira? Nint.\n"
+	.string "Tis onzne lokale kapitein.$"
 
 SlateportCity_Text_InterviewerSoCool:
-	.string "That lady interviewer is so cool\n"
-	.string "and pretty.\p"
-	.string "When I grow up, I'm going to be\n"
-	.string "an international journalist!$"
+	.string "Ik kiek ip na die journaliste,\n"
+	.string "en dabie, tis een prente.\p"
+	.string "Akkik een carrière moe kiez'n,\n"
+	.string "ton wil ik wok journalist zin\l"
+	.string "met et verskil dakkik interessantere\l"
+	.string "onderwerp'n zo kiez'n.$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "Capt. Stern says they discovered\n"
-	.string "something at the bottom of the sea.\p"
-	.string "I wonder what it is?\n"
-	.string "What could it be?$"
+	.string "Kapt. Mortimer zegt da ze ntwa\n"
+	.string "gevond'n èn ip de bodem van de\p"
+	.string "oceaan. Kvroag mie af wuk.\n"
+	.string "Vuftig kilo plastiek?$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
-	.string "What's going on here?\p"
-	.string "Did the good Captain come back with\n"
-	.string "a big fish from the ocean floor?$"
+	.string "Wuk gebeurt er ier?\p"
+	.string "Eeft de kapitein iet ipgevist?\n"
+	.string "Miskien zin hezond verstand?$"
 
 SlateportCity_Text_AmIOnTV:
-	.string "Hey! Are you watching?\n"
-	.string "Am I on TV?$"
+	.string "Ey! Ziej oant kiekn?\n"
+	.string "Benk ip TV?\p"
+	.string "'t Es 'twôpn zondr ondertitels!$"
 
 SlateportCity_Text_CaptainsACelebrity:
-	.string "A TV interview! Here!\n"
-	.string "The Captain's a celebrity!$"
+	.string "Een TV interview! Iere!\n"
+	.string "De kapitein es e Vie Aai Pie!$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "TY: Okay, Capt. Stern, a big smile\n"
-	.string "for the camera!$"
+	.string "TY: Oké, Kapt. Mortimer, een grote\n"
+	.string "glimlach voor de camera!$"
 
 SlateportCity_Text_MostInvaluableExperience:
-	.string "Gabby: I see, I see. You've had a most\n"
-	.string "invaluable experience…$"
+	.string "Gabby: Ah zo, u zwemt onwaarschijnlijk\n"
+	.string "in ervaring…figuurlijk dan.$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "Capt. Stern: Yes, indeed. We intend to\n"
-	.string "move ahead with our exploration.$"
+	.string "Kapt. M.: Joak, 't zal wel zin.\n"
+	.string "Allée, duizend bommen en den bwôm in.\l"
+	.string "Pretendeer nie daje geïnteresseerd zit!$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "Gabby: That's wonderful, Capt. Stern!\n"
-	.string "Thank you for taking the time from\l"
-	.string "your busy schedule to talk to us.\p"
-	.string "We hope we can interview you again\n"
-	.string "with news of more discoveries!$"
+	.string "Gabby: Wat een reactie!\n"
+	.string "Dit zal massaal kliks genereren!\l"
+	.string "Bedankt voor uw tijd, Kapitein.\p"
+	.string "We hopen u binnenkort opnieuw te\n"
+	.string "mogen interviewen!$"
 
 SlateportCity_Text_SternWhewFirstInterview:
-	.string "Capt. Stern: Whew…\p"
-	.string "That was my first time to be filmed for\n"
-	.string "TV. That was nerve-wracking.$"
+	.string "Kapt. M.: Fieuw…\p"
+	.string "Min jiste interview. Kvond dat nog\n"
+	.string "algelik meeviel. Khad gin stress.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "Oh! {PLAYER}{KUN}!\n"
-	.string "You're looking great!\p"
-	.string "We made a huge discovery on our last\n"
-	.string "seafloor exploration.\p"
-	.string "We found an underwater cavern on\n"
-	.string "Route 128.\p"
-	.string "We think it's the habitat of a Pokémon\n"
-	.string "that's said to have been long extinct.$"
+	.string "'K èn ne goeie mop!\p"
+	.string "Twee tetn in e envelop!\n"
+	.string "Ma serieus efkes,\p"
+	.string "w'ebben e HIHANTISCHE ontdekkinge\n"
+	.string "gedoan ip Boane 128.\p"
+	.string "We peizn dattet de 'abitat es\n"
+	.string "da zohezehd allange zou motn\l"
+	.string "dwôd zin..$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Fufufu…\n"
-	.string "Capt. Stern, I presume.\p"
-	.string "We of Team Aqua will assume\n"
-	.string "control of your submarine!\p"
-	.string "Your objections are meaningless!\n"
-	.string "We expect your total cooperation!\p"
-	.string "Fufufu…\n"
-	.string "Just watch and learn what Team\l"
-	.string "Aqua has planned!$"
+	.string "Aha…\n"
+	.string "Kapt. Mortimer, nim ik oan.\p"
+	.string "Wudr, Team Aqua, nimm'n jen\n"
+	.string "onderzjiër in beslag!\p"
+	.string "Oanvoard et. Loat et hebeurn.\n"
+	.string "'t Is vo jen eihen gôed!\p"
+	.string "'Ahaha…\n"
+	.string "De wjirld goa 'ardandig ljirn\l"
+	.string "da ze nie me de klwôtn van\l"
+	.string "Moedr Oarde moetn spjiln!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "Capt. Stern: What was that all about?\p"
-	.string "It sounded like someone using\n"
-	.string "a megaphone…\p"
-	.string "Where did it come from?$"
+	.string "Kapt. M: Wuk was da ollemolle?\p"
+	.string "'t Klink precies lik ne mehafoon\n"
+	.string "me e bitje prétense…\p"
+	.string "Vanwoar kommet?$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
-	.string "It's from the Harbor!\p"
-	.string "The submarine!\n"
-	.string "They're trying to take it!$"
+	.string "'t Es van...!!\p"
+	.string "HODVERTOMMETOCHTZALHINWOARZIN\p"
+	.string "In de Haven..!!!\p"
+	.string "Den onderzjiër!\n"
+	.string "Ze goan em koapn!$"
 
 SlateportCity_Text_PleaseComeWithMe:
 	.string "{PLAYER}{KUN}!\n"
-	.string "Please, come with me!$"
+	.string "Kom! Astenblief!$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "Battle Tent Slateport Site\n"
-	.string "“Find it! The ultimate Pokémon!”$"
+	.string "BatterTente van Nieuwpoort\n"
+	.string "“Wudr rehelen ethische batteringen\l"
+	.string "alsof ze voor onszelf zyn.”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
 	.string "Stern's Shipyard\p"
@@ -1296,108 +1305,115 @@ SlateportCity_Text_SternsShipyardWantedSign:
 	.string "in all currents.”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "Stern's Shipyard\p"
-	.string "“The ferry S.S. Tidal nears\n"
-	.string "completion for serving the ports of\l"
-	.string "Slateport and Lilycove.”$"
+	.string "De scheepswerf van Morris\p"
+	.string "“De ferry S.S. Het Ei es\n"
+	.string "bikan gerjid en zal binn'kort\l"
+	.string "voarn tuss'n ier en ZeeBruhhe.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "Stern's Shipyard\p"
-	.string "“Boarding of the Slateport-Lilycove\n"
-	.string "ferry S.S. Tidal is handled at the\l"
-	.string "Harbor.”$"
+	.string "De scheepswerf van Morris\p"
+	.string "“De Nieuwpoort-Brugge ferry\n"
+	.string "S.S. Het Ei: de snelste navette\l"
+	.string "tussen hier en Zeebrugge.”$"
 
 SlateportCity_Text_PokemonFanClubSign:
 	.string "Pokémon Fan Club\n"
-	.string "“Calling all fans of Pokémon!”$"
+	.string "“E warme iproep aan alle fans!”$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "“The endless sea sustains\n"
-	.string "all life.”\p"
-	.string "Oceanic Museum$"
+	.string "“De eindeloze zee voedt\n"
+	.string "voortdurend het eindige leven.”\p"
+	.string "Maritiem museum$"
 
 SlateportCity_Text_CitySign:
-	.string "Slateport City\p"
-	.string "“The port where people and Pokémon\n"
-	.string "cross paths.”$"
+	.string "Nieuwpoort\p"
+	.string "“DÉ (ENIGSTE ECHTE) stad aan zee.\n"
+	.string "Zelf ons bad is e stad!\l"
+	.string "(Fuck you Oostende!).”$"
 
 SlateportCity_Text_MarketSign:
-	.string "Slateport Market\n"
-	.string "“Unique items found nowhere else!”$"
+	.string "Nieuwpoort Markt\n"
+	.string "“Doe e batje! 't Is crisis!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "Slateport Harbor\p"
-	.string "“The ferry S.S. Tidal is under\n"
-	.string "construction in the Shipyard.\p"
-	.string "“Service is scheduled to begin\n"
-	.string "shortly.”$"
+	.string "Haven van Nieuwpoort\p"
+	.string "“De ferry S.S. Het Ei is\n"
+	.string "momenteel nog niet af.\p"
+	.string "“Binnenkort treedt deze in\n"
+	.string "dienst.”$"
 
 SlateportCity_Text_HarborSign:
-	.string "Slateport Harbor\p"
-	.string "“Enjoy a delightful cruise on\n"
-	.string "the ferry S.S. Tidal.”$"
+	.string "Haven van Nieuwpoort\p"
+	.string "“Geniet van een zalige boottocht\n"
+	.string "op de ferry S.S. Het Ei.”$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "Name Rater's House\n"
-	.string "“Pokémon nicknames rated.”$"
+	.string "'t Us van de Koosnoamexpert\n"
+	.string "“Is uw koosnoamke e W of een L?”$"
 
 SlateportCity_Text_ExplainBerries:
-	.string "If a wild Pokémon gets hurt, it heals\n"
-	.string "itself by chewing on Berries.\p"
-	.string "Did you know that?\p"
-	.string "Somebody saw that and got the idea\n"
-	.string "of making medicine from Berries.\p"
-	.string "Did you know that?\p"
-	.string "To turn Berries into medicine,\n"
-	.string "they must be crushed into powder.\p"
-	.string "Did you know that?\p"
-	.string "You seem to have an interest\n"
-	.string "in Berries!\p"
-	.string "I've got something good for someone\n"
-	.string "like you.$"
+	.string "Wistjeda?\p"
+	.string "Als e wilde Pokémon gewond es,\n"
+	.string "goat ie Bessen frettn om te henezen.\p"
+	.string "En wistjeda?\p"
+	.string "Iemand ad da hezien en ie é\n"
+	.string "ton heneesmiddln hemoakt ermee.\p"
+	.string "Eeeeen wistjeda?\p"
+	.string "Om van Bessn medicijnen te moakn,\n"
+	.string "moeje ze plettn tot poeier.\p"
+	.string "Eeeeeeen wiiiiistjeda?\p"
+	.string "Gie zie lik precies stifcurieus\n"
+	.string "noar alles wada me Bessn te moakn èt!\p"
+	.string "'k Ekkik juste iet\n"
+	.string "voor iemand lik gie.$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "I recently had machines installed at\n"
-	.string "Pokémon Centers for crushing Berries.\p"
-	.string "The Berry Crush machines are at\n"
-	.string "the Direct Corner upstairs.\p"
-	.string "Did you know?\p"
-	.string "Could you make Berry Powder for\n"
-	.string "me using those machines?\p"
-	.string "I can make you all sorts of medicine\n"
-	.string "if you bring me lots of Berry Powder.$"
+	.string "Wist je da?\p"
+	.string "'k Eb recentelik machienen loatn\n"
+	.string "ploatsn in Pokécenters.\p"
+	.string "Spesjoale machienen vo Bessen mee\n"
+	.string "te plettn! Handih é.\p"
+	.string "Aje mie wa Bessenpoeier bringt\n"
+	.string "deur die machienen te hebrukn,\l"
+	.string "kunkik voor u allerlie swôrtn\l"
+	.string "medicijnen moakn. Kzweiret.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Have you brought me some\n"
-	.string "Berry Powder?$"
+	.string "Eje mie wa BessenPoeier\n"
+	.string "hebracht?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
-	.string "What would you like to exchange\n"
-	.string "it with?$"
+	.string "Wa zoeje der mee will'n\n"
+	.string "utwisseln?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Okay, you want to exchange your\n"
-	.string "Berry Powder for one {STR_VAR_1}?$"
+	.string "Oké, gie wilt je BessenPoeier\n"
+	.string "utwisseln vo jin {STR_VAR_1}?$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
-	.string "Oh, dear. You don't have enough\n"
-	.string "Berry Powder.$"
+	.string "Uh, oh.\p"
+	.string "Wist je da?\p"
+	.string "Gie zie te blut.$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
-	.string "This is fine Berry Powder.\n"
-	.string "It will make excellent medicine.\p"
-	.string "Would you like to trade more of your\n"
-	.string "Berry Powder for something else?$"
+	.string "Daddis nog e bitje kwaliteit zeg.\n"
+	.string "Da hoa hoei medicijn'n heevn.\p"
+	.string "Wildje nog e bitje BessenPoeier\n"
+	.string "me me utwisseln?\l"
+	.string "Wist je da...BessenPoeier\l"
+	.string "ge kunta wok ipsnuvvn.\p"
+	.string "Sssssssssssssnif.$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
-	.string "Okay! When you get some more\n"
-	.string "Berry Powder, bring it to me, please!$"
+	.string "Oké! Aje nog mjir BessenPoeier\n"
+	.string "vindt, bring et..PLEASE!\l"
+	.string "Sniff..$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
-	.string "Come back if you'd like to trade your\n"
-	.string "Berry Powder for some medicine.\p"
-	.string "I'm always running a bazaar here.\p"
-	.string "Did you know?$"
+	.string "Kom gerust were aje je BessenPoeier\n"
+	.string "wilt inruiln vo medicijnen.\p"
+	.string "Of, heh, 'medicijn'en'. E?\p"
+	.string "Nog e wistjedatje..ssnif.?$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
 	.string "Scott: Huh?\n"
@@ -1410,34 +1426,35 @@ SlateportCity_Text_YouDroveTeamAquaAway:
 
 SlateportCity_Text_MaybeThisTrainer:
 	.string "Scott: Hmm…\n"
-	.string "Maybe, just maybe, this Trainer…$"
+	.string "Misschien toch, deze Temmer…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "Scott: All right! I think you're going\n"
-	.string "to become a good friend.\p"
-	.string "So, let's register each other in our\n"
-	.string "Pokénavs.\p"
+	.string "Scott: Oké dan! Soms moet ik\n"
+	.string "erkennen dat ik een fout heb gemaakt.\p"
+	.string "Jij vertoont potentieel.\n"
+	.string "Geef eens je Pokénav?.\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Registered this Scott person\n"
-	.string "in the Pokénav.$"
+	.string "Dien onbeskoftn oap (Scott)\n"
+	.string "é zichzelve heréhistreerd.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "Scott: What I'd like to do is tag along\n"
-	.string "with you, but I do want to keep an eye\l"
-	.string "on the talents of other people, too.\p"
-	.string "So, I'll be off to roam other towns\n"
-	.string "a bit more.\p"
-	.string "Be seeing you, {PLAYER}{KUN}!$"
+	.string "Scott: Tot nu toe heb je gelu-\n"
+	.string "...-kig veel strategisch gespeeld.\l"
+	.string "Wanneer je eindel- , ik bedoel,\p"
+	.string "mocht je helaas komen te verliezen\n"
+	.string "in de komende Gym...\p"
+	.string "Bel me zeker op, {PLAYER}{KUN}!\n"
+	.string "Ik zal je wat moed influisteren..\p"
+	.string "Hehe...tot de volgende?$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "Scott: Oh, hey!\n"
-	.string "If it isn't {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, let me guess--you're going\n"
-	.string "to take the Battle Tent challenge?\p"
-	.string "Yeah! That's a good idea!\n"
-	.string "That's a really great idea!\p"
-	.string "After all, a tough Trainer is\n"
-	.string "the perfect fit for the Battle Tent!\p"
-	.string "Give it your best effort!$"
+	.string "Scott: Ah! Alweer jij.\n"
+	.string "{PLAYER}{KUN}!\p"
+	.string "Als ik jou was, zou ik ook\n"
+	.string "wat oefenen in die Tent.\p"
+	.string "Je kan de ervaring gebruiken hé!\n"
+	.string "En ik bedoel dat enkel positief!\p"
+	.string "Doe je best!\p"
+	.string "{PLAYER}{KUN}: ...mutn.$"

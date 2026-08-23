@@ -335,7 +335,8 @@ RustboroCity_DevonCorp_3F_Text_PleaseGoAhead:
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard:
 	.string "Aje de skeepswerf in Nieuwpoort ga zien,\n"
-	.string "zodje in principe Kap'tein Haddock moetn zien.$"
+	.string "zodje in principe Kapitein Mortimer\l"
+	.string "moetn zien.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular:
 	.string "Ge weet, wudr verkwo'pn van die Pokéballen é.\n"

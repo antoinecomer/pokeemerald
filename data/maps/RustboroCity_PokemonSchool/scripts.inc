@@ -324,7 +324,8 @@ RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 	.string "Jaja, 'stjinnen medaille', goed.\p"
 	.string "Hoe zal ik het zeggen. Het is...\n"
 	.string "verrassend...dat jij Roxanne versloeg.\p"
-	.string "Maar goed, ook het beste paard struikelt eens toch?\n"
+	.string "Maar goed, ook het beste paard\n"
+	.string "struikelt eens toch?\l"
 	.string "Maak je geen illusies.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
