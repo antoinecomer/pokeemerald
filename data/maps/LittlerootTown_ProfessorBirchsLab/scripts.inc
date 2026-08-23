@@ -793,7 +793,7 @@ LittlerootTown_ProfessorBirchsLab_Text_LikeYouToHavePokemon:
 	.string "En natuurlik. Omdaje mie gered e,\n"
 	.string "wil ik daje gij de Pokémon krigt\l"
 	.string "daje davers et gebrukt.\p"
-	.string "{PLAYER} kreeg den {STR_VAR_1}!$"
+	.string "{PLAYER} krigt n'en {STR_VAR_1}!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon:
 	.string "Prof. C.: Binnenst daje bezig zit,\n"
@@ -1049,7 +1049,7 @@ LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon:
 	.string "Goe gekozen min moatje!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter:
-	.string "{PLAYER} kreeg de {STR_VAR_1}\n"
+	.string "{PLAYER} krigt n'en {STR_VAR_1}\n"
 	.string "van Prof. C.!$"
 
 @ Unused

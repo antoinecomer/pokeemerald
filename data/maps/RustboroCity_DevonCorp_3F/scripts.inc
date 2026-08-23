@@ -223,7 +223,7 @@ RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
 	.string "Nint, n' is gin twintigduusd dollar.$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
-	.string "{PLAYER} kreeg den Pokénav.$"
+	.string "{PLAYER} krigt den Pokénav.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
 	.string "Mr. Vertsichel: Da machientje…\p"

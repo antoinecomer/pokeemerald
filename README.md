@@ -9,7 +9,9 @@ Vooruitgang:
 ✓ Olddale
 ✓ Petalburg
 ✓ Route 101-109
-Nu aan het vertalen: Rustboro, Dewford
+✓ Rustboro
+✓ Dewford
+Nu aan het vertalen: Slateport
 
 
 Ik baseer mij op de decompilation van Emerald van [Pret](https://github.com/pret/pokeemerald) en specifiek Resetes12's versie [Modern Emerald](https://github.com/resetes12/pokeemerald) die een heleboel QOL verbeteringen aanbiedt. Je hebt devkitARM nodig als je zelf wilt compileren.

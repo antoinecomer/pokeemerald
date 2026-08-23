@@ -28,7 +28,7 @@ DewfordTown_House2_EventScript_Boy::
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 	.string "Moet daddier nu ke zien!\p"
-	.string "Voilà! Een Zijdn Sjaal!!\n"
+	.string "Voilà! Een Zijdn Foulard!!\n"
 	.string "Aje ook ma een bitje modebewust zyt,\p"
 	.string "ton zije toch direc' verkocht?\n"
 	.string "Ik é jen drip direct hezien en ERKEND.\p"
@@ -39,10 +39,10 @@ DewfordTown_House2_Text_NoRoom:
 	.string "Gebt gin ploatse in uwe zak?\p"
 	.string "Moakt ploats of doeddem oan!\n"
 	.string "Ik zou een hypotheek pakk'n vo\l"
-	.string "deze sjaal!$"
+	.string "deze foulard!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "De Zijdn Sjaal moakt 'Normoale'\n"
+	.string "De Zijdn Foulard moakt 'Normoale'\n"
 	.string "aanvalln beter.\p"
 	.string "Letterlik gelik welkne Pokémon\n"
 	.string "kun em aandoen.\p"

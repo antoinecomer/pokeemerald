@@ -978,191 +978,222 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "I'm the Energy Guru! I'll go for it and\n"
-	.string "sell you what you need!$"
+	.string "Ik benne een hoeroe! Een hoeroe\n"
+	.string "van de enerhie.\p"
+	.string "{PLAYER}: Een 'oere?\n"
+	.string "Nint. HHHHOEROE. Ne sjamaan!\l" 
+	.string "Moeje ntwa kwôpn of komje slim doen?$"
 
 SlateportCity_Text_OhYourPokemon:
 	.string "Oh?\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Jen {STR_VAR_1}…$"
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
-	.string "Went for it stupendously!\p"
-	.string "As its reward, please give it this\n"
-	.string "Effort Ribbon.$"
+	.string "ie farmt aura!\p"
+	.string "Dat effortke verdient e lintje.\n"
+	.string "Et lintje van effort é.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} received the Effort Ribbon.$"
+	.string "{PLAYER} krigt de Effort Lint.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} put the Effort Ribbon\n"
-	.string "on {STR_VAR_1}.$"
+	.string "{PLAYER} ploatstehe et Effort Lintje\n"
+	.string "ip {STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder:
-	.string "You have to go for it a little harder.\p"
-	.string "If you do, I'll give your Pokémon\n"
-	.string "something nice.$"
+	.string "Gie moe nog e bitje mjir aura farm'n.\p"
+	.string "Aje da doe, goak je Pokémon\n"
+	.string "ntwa spesjioals geevn.$"
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
-	.string "Oh! Your {STR_VAR_1}, that Effort\n"
-	.string "Ribbon looks good on it!$"
+	.string "Oh! Jenne {STR_VAR_1}, da Effort\n"
+	.string "Lintje stoat em bèregoe!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "The light of the lighthouse reaches\n"
-	.string "dozens of miles away.\p"
-	.string "I wonder if it doesn't startle Pokémon\n"
-	.string "in the sea.$"
+	.string "Et licht van de vuurtwôrn rikt verre.\n"
+	.string "Doe ke een hokske oeverre.\p"
+	.string "Dertig zeemijln! Daddis dus\n"
+	.string "Vuvvenvuftig kilometer!\p"
+	.string "Ik ôpe geweun da da licht et leevn\n"
+	.string "in de zji nie verstoort.$"
 
 SlateportCity_Text_SeaweedFullOfLife:
-	.string "Ooh, look at this!\p"
-	.string "The seaweed you can get around these\n"
-	.string "parts is fresh and full of life.\p"
-	.string "Why, it looks like it can even rear up\n"
-	.string "and attack!$"
+	.string "Ooh, kiek ne ké daarsie!\p"
+	.string "Et zjiwier daje ier kun kriggen\n"
+	.string "is vers en vul leevn.\p"
+	.string "Zo levendih, aba, et zo kunn'\n"
+	.string "rechtstoan! Burrp...ughh\p"
+	.string "Miskien bitje tevjille gefret..$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
-	.string "Where the water is clean, the fruits\n"
-	.string "of bountiful harvest gather.\p"
-	.string "And where people gather, a market\n"
-	.string "soon starts.\p"
-	.string "That is how a town is born and grows.$"
+	.string "Woarda et woatr propr es, kun frut\n"
+	.string "hroeien, gôed vo e rikke oogst.\p"
+	.string "Ton kwôm'n de meschn, en e\n"
+	.string "marktje ontstoat.\p"
+	.string "Ezo begin et einde van de\n"
+	.string "beschoavinge.$"
 
 SlateportCity_Text_SlateportWonderfulPlace:
-	.string "Shopping where you can breathe the\n"
-	.string "scent of the ocean…\p"
-	.string "Slateport is such a wonderful place!$"
+	.string "E marktje doen me die hezonde\n"
+	.string "lucht van de zji…\p"
+	.string "Daddis pas henietn!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "If you put Dolls or Cushions on\n"
-	.string "the floor, they'll get dirty.\p"
-	.string "I'm going to buy some Bricks so my\n"
-	.string "Dolls and Cushions won't get dirty\l"
-	.string "when I leave them out.$"
+	.string "Kheb oenger!\p"
+	.string "Kzou der iet an kunn' doen whé.\p"
+	.string "Mo kzoage liever.$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wroooar! I'm going to compete in\n"
-	.string "the Battle Tent, too!\p"
-	.string "But before that, I need to catch\n"
-	.string "some Pokémon!$"
+	.string "Raahhhh! Kgoa mie inskrivn vo\n"
+	.string "de BatterTente!\p"
+	.string "Jin probljim, knè gin Pokémon\n"
+	.string "en kben ne schooier!\p"
+	.string "Mak nie jin van je Pokémons èn?$"
 
 SlateportCity_Text_BushedHikingFromMauville:
-	.string "Whew… I'm just bushed…\p"
-	.string "I hiked over from Mauville City.\n"
-	.string "But, boy, this city's huge.\p"
-	.string "If I'd known this, I would've ridden\n"
-	.string "my Bike here.$"
+	.string "Hurhhh… Huff…Huff\p"
+	.string "Kzin te voete gekom'n van Knokke.\n"
+	.string "Moojong toch…huff\p"
+	.string "Da goak nie ip Strava zettn whé.\n"
+	.string "Volhende ké pak ik de vélo!$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "Stern, the fellow who built the\n"
-	.string "Museum, also happens to be the leader\l"
-	.string "of an undersea exploration team.\p"
-	.string "So, everyone calls him Capt. Stern.$"
+	.string "Haddock, dien die da museum ip\n"
+	.string "pwôtn é gezet, es wok de leidr\l"
+	.string "van een onderzji-dienst.\p"
+	.string "Dus iederjin noemt em Kapt. Haddock.$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
-	.string "What is that over there?\n"
-	.string "That long line…$"
+	.string "Amai.\n"
+	.string "Tis da file precies…$"
 
 SlateportCity_Text_VisitedMuseumOften:
-	.string "When I was a child, I visited\n"
-	.string "the Museum often.\p"
-	.string "I used to dream about the mysteries of\n"
-	.string "the sea after seeing the exhibits.$"
+	.string "Toendak e kind woarn, gingk\n"
+	.string "af en toe ne ké na 't Museum.\p"
+	.string "Ek drwômde euvr de mysteries\n"
+	.string "van de zji en al z'n heheimen.$"
 
 SlateportCity_Text_QuitPushing:
-	.string "Hey, there! Quit pushing!\n"
-	.string "This is the line, can't you see?$"
+	.string "EEEEEJ! NIE DUWN.\n"
+	.string "Ziej gie blind ofwa?$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "Team Aqua has a policy of\n"
-	.string "assembling and dispersing at\l"
-	.string "the operation site.$"
+	.string "Kzin ier ip bevel van\n"
+	.string "oher'and. Mo...\l"
+	.string "hoherhand zo beter congé geevn.$"
 
 SlateportCity_Text_BossIsBrilliant:
-	.string "Our Boss is brilliant.\p"
-	.string "What would he want to do with\n"
-	.string "a Museum now?$"
+	.string "Oeze chef is heniaal.\p"
+	.string "Ma wuk wilze zie in godsnoam\n"
+	.string "vant Museum?\p"
+	.string "Kun ze nie geweune\n"
+	.string "de Wikipedia leezn?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "What's the new scheme, I wonder?\p"
-	.string "Our Boss is scary when he's mad, so\n"
-	.string "I'd better not screw things up…$"
+	.string "Kvroag mie af wada we ier doen?\p"
+	.string "Ting mie dat er vo de communicoatie in\n"
+	.string "Team Aqua werk oan de winkel es…$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "If there's something we need in\n"
-	.string "the Museum, we should take it all!$"
+	.string "A's er iet es in 't Museum da we\n"
+	.string "moetn 'ebn, waaroem rippen we\l"
+	.string "et nie geweune!$"
 
 SlateportCity_Text_DontButtIn:
-	.string "Hey, you there!\n"
-	.string "Don't butt in!$"
+	.string "Ej, gie doa!\n"
+	.string "Moeit u nie!$"
 
 SlateportCity_Text_RemindsMeOfLongLineForGames:
-	.string "A long line, huh?\p"
-	.string "It reminds me of the times I lined up to\n"
-	.string "buy smash-hit games…$"
+	.string "Lange file, é?\p"
+	.string "Tdoe mie denkn an die kji dak in\n"
+	.string "de file ston vo Skyrim…$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
-	.string "Why are we even lining up and paying?\n"
-	.string "We should just march in!$"
+	.string "Ze noemn oes 'eco-terroristn'…\n"
+	.string "ma we doen toch algelik brave de rij…$"
 
 SlateportCity_Text_WhatDoYouWant:
-	.string "What?\n"
-	.string "What do you want?$"
+	.string "Wuk?\n"
+	.string "Wa wildje?$"
 
 SlateportCity_Text_IllReadSignForYou:
-	.string "You want to read this sign?\n"
-	.string "I'll read it for you!$"
+	.string "Ge wilt da bordje ier leezn?\n"
+	.string "Kgoat vo je veureleezn!$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
-	.string "Let's see…\p"
-	.string "Um… I think it says something like\n"
-	.string "“the life in the sea is endless.”\p"
-	.string "Yup, I'm pretty sure that's what\n"
-	.string "it says.$"
+	.string "Ke kikn é…\p"
+	.string "Um… der stoa lik iets op, lik,\n"
+	.string "“'t leevn in de zji is eindeloos'.”\p"
+	.string "Yup, daddis exact wadatter ier\n"
+	.string "stoat.\p"
+	.string "Kbenkik ne literaire mensch é.$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
-	.string "Grumble…\p"
-	.string "I should've brought my Game Boy\n"
-	.string "Advance so I wouldn't get bored in line…\p"
-	.string "Grumble…$"
+	.string "Zucht…\p"
+	.string "'k A beetr min Game Boy\n"
+	.string "meegepakt in de file…\p"
+	.string "Twjide zucht…$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
-	.string "When this operation's over, I'll take\n"
-	.string "you to a hot spring spa!\p"
-	.string "That's what our leader said.\n"
-	.string "I can't wait!$"
+	.string "Na ne zwoarn dag, èk'ik e\n"
+	.string "massageke en een spa verdiend!\p"
+	.string "Oezen boas é da gezei.\n"
+	.string "Kgoa eur deran odn!$"
 
 SlateportCity_Text_SeaIsSoWet:
-	.string "The sea is just so vast…\p"
-	.string "Could the sea have been made by\n"
-	.string "the tears shed by Pokémon?$"
+	.string "De zji…zo hrwôt, zo diepe…\p"
+	.string "Peisdje da al da woatr kom van\n"
+	.string "de troan' van Pokémon?\p"
+	.string "{PLAYER}: Joat zeker. Mutn.$"
 
 SlateportCity_Text_SinkOldBoats:
-	.string "Do you know what they do with old\n"
-	.string "ships that become too creaky to sail?\p"
-	.string "They sink them in the sea so they\n"
-	.string "become habitats for Pokémon.$"
+	.string "Witje wada ze doen me odde schepen\n"
+	.string "da nie mji de zji ipkunn'?\p"
+	.string "Ze zinkn ze in de zji zoda ze\n"
+	.string "e habitat kunn' word'n vo de\p"
+	.string "bjistjes onderwoatr!$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Whenever I visit here, I get carried\n"
-	.string "away and buy too much.$"
+	.string "Wanjir dak ier ip bezoek benne,\n"
+	.string "ik krig de kwôopziekte.\p"
+	.string "Kmoe mie ljirn in'oddn. Kdoe men beste!$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "If you want to change your Pokémon's\n"
-	.string "nickname, you'll have to get the Name\l"
-	.string "Rater to help you.$"
+	.string "Aje e nieuw koosnoamke vo je Pokémon\n"
+	.string "wilt, eje de Koosnoam Expert nweudig.\l"
+	.string "Witje wadakik et echt HET mee è?\p" 
+	.string "Al die vurte 'expertn'.\n"
+	.string "Geldexpert, Relatie-expert,\l"
+	.string "Preparé-expert, Steakexpert,\l"
+	.string "Defensie-expert, Sexpert...\p"
+	.string "Die witi's noemekik 'HLN',\n"
+	.string "Hodverdomske Luntetrekkers en\l"
+	.string "Nietsnuttn.$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Any Pokémon you get in a trade,\n"
-	.string "you can't change its nickname.\p"
-	.string "The original Trainer's love for that\n"
-	.string "Pokémon is in the nickname.$"
+	.string "Aje ne Pokémon wisselt, ton kundje zin\n"
+	.string "koosnoamke nie verandern.\p"
+	.string "Waaroem da?\n"
+	.string "Moe nie noar ik kiekn whé.\p"
+	.string "Ik èn die rehels nie gemoakt.\p"
+	.string "Mo zeg nu toch zelve.\n"
+	.string "Stel, g'adoptjirt jin van 't asiel,\l"
+	.string "en de vorihen é zin Pokémon\l"
+	.string "de hrwôotte van e chihuahua\l"
+	.string "'Ganondorf' henoemd...\p"
+	.string "Das e sligt voorbeeld, want die\n"
+	.string "noam es bjistig. Mo ge snapt\l"
+	.string "min punt wel é?$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
-	.string "Recently, a Battle Tent was built\n"
-	.string "in Slateport.\p"
-	.string "Gyms are fun, but the Battle Tent's\n"
-	.string "awesome in its own way.\p"
-	.string "You should go find tough Pokémon\n"
-	.string "for the Battle Tent!$"
+	.string "Recentelik èn ze hoedkeuringe\n"
+	.string "hekreegn vo die BatterTente iere\l"
+	.string "te bouwn.\p"
+	.string "Webben al Gyms, wuk es et verskil?\n"
+	.string "Kgoat je ké zeggn wukdat es.\p"
+	.string "Nieuwpoort a gin verhunninge\n"
+	.string "gekregen vo een Gym...\l"
+	.string "dus zèn e Battle Tent hezet!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
 	.string "I was hoping that it was a famous star\n"

@@ -693,7 +693,7 @@ RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
 	.string "{STR_VAR_2}!$"
 
 RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
-	.string "{PLAYER} kreeg {STR_VAR_2} van\n"
+	.string "{PLAYER} krigt {STR_VAR_2} van\n"
 	.string "Dr. Frankenstein.$"
 
 @ Unused

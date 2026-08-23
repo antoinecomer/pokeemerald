@@ -207,8 +207,8 @@ RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "En woardig van min Stjinnen Medaille.$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
-	.string "{PLAYER} kreeg de Stjinnen Medaille\n"
-	.string "van Roxanne.$"
+	.string "{PLAYER} krigt de\n"
+	.string "Stjinnen Medaille van Roxanne.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "Die medaille, da dwingt wa respect af\n"

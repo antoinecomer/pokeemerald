@@ -1291,14 +1291,14 @@ PetalburgCity_Gym_Text_DadPlayerGoWithWally:
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
 	.string "Wally, iere. Pakt dien keffer mee.\p"
-	.string "Wally (me zn klitoren) kreeg Zigzagoon!$"
+	.string "Wally (me zn klitoren) krigt Zigzagoon!$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
 	.string "Wally: Oh, wow, check et ut!\n"
 	.string "Ne Pokémon!\p"
 	.string "Papa: Hm. Kgoaj wok ne Pokébal geevn.\n"
 	.string "Smit u!\p"
-	.string "Wally (me zn klitoren) kreeg ne Pokébal!$"
+	.string "Wally (me zn klitoren) krigt ne Pokébal!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
 	.string "Wally: Yow check et ut! Ne Pokébal!\n"
@@ -1394,7 +1394,7 @@ PetalburgCity_Gym_Text_NormanDefeat:
 	.string "Ierse.$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
-	.string "{PLAYER} kreeg de BalansMedaille\n"
+	.string "{PLAYER} krigt de BalansMedaille\n"
 	.string "van Voadre!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:

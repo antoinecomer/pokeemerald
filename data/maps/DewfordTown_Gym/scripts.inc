@@ -400,7 +400,7 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Vangt deze Gym Medaille!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} kreeg de Vuste Medaille\n"
+	.string "{PLAYER} krigt de Vuste Medaille\n"
 	.string "van den Brawly.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
