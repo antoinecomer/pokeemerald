@@ -1300,9 +1300,9 @@ SlateportCity_Text_BattleTentSign:
 	.string "alsof ze voor onszelf zyn.”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
-	.string "Stern's Shipyard\p"
-	.string "“Wanted: A sailor capable of sailing\n"
-	.string "in all currents.”$"
+	.string "Scheepswerf van Mortimer\p"
+	.string "“WE ZOEKEN: COMPETENTE ZEILERS\n"
+	.string "KAN MINSTENS EEN PLATTE KNOOP.”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
 	.string "De scheepswerf van Morris\p"
