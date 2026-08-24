@@ -387,68 +387,70 @@ SlateportCity_Harbor_EventScript_TradedScanner::
 	end
 
 SlateportCity_Harbor_Text_FerryServiceUnavailable:
-	.string "I beg your pardon?\n"
-	.string "You're looking for a ship?\p"
-	.string "I'm sorry, the ferry service isn't\n"
-	.string "available at present…$"
+	.string "Hmm?\n"
+	.string "Gie zoekt n'en bôot?\p"
+	.string "En 'ele mooie splint'rnieuwen boot?\n"
+	.string "Die ligt nie ip de slôot…$"
 
 SlateportCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hello, are you here for the ferry?\n"
-	.string "May I see your Ticket?$"
+	.string "Hoeidaag. Zijt g'ier vo de ferry?\n"
+	.string "Ticketje astenblief.$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} doesn't have the Ticket…\p"
-	.string "I'm terribly sorry.\p"
-	.string "You must have a Ticket to board\n"
-	.string "the ferry.$"
+	.string "{PLAYER} n'é gin Ticket…\p"
+	.string "Et spit mie zjir.\p"
+	.string "Gin ticket,\n"
+	.string "ginne ferry. Verstoajt?$"
 
 SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} flashed the Ticket.\p"
-	.string "Perfect! That's all you need!\p"
-	.string "And where would you like to go?$"
+	.string "{PLAYER} flitste et Ticket.\p"
+	.string "Perfect! Das al daj nodig èt!\p"
+	.string "En woar wildje natoe?$"
 
 SlateportCity_Harbor_Text_SailAnotherTime:
-	.string "Please sail with us another time!$"
+	.string "Tot de volhende ké! Pépé! Of mémé.$"
 
 SlateportCity_Harbor_Text_LilycoveItIs:
-	.string "Lilycove City it is, then!$"
+	.string "Ip na ZeeBruhhe!$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "Battle Frontier it is, then!$"
+	.string "Ip na de Batter Barakken!$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
-	.string "Please board the ferry and wait for\n"
-	.string "departure.$"
+	.string "Helieve u ip de ferry te beheven\n"
+	.string "veur 't vertrek.$"
 
 SlateportCity_Harbor_Text_WhereWouldYouLikeToGo:
-	.string "Then, where would you like to go?$"
+	.string "En, na woa moetje?$"
 
 SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
-	.string "A journey to the bottom of the sea…\n"
-	.string "I wonder what it'd be like?\p"
-	.string "I'd love to go deep underwater like\n"
-	.string "that someday.$"
+	.string "Wôois al hedrwômd euvr de oceaanbodem…\n"
+	.string "Ge moe ne ke peizn…\p"
+	.string "Al die mysteries doar.\n"
+	.string "Kom der zelf e bitje emotioneel van.$"
 
 SlateportCity_Harbor_Text_AbnormalWeather:
-	.string "For a ship to sail safely, we need to\n"
-	.string "know about the weather!\p"
-	.string "Speaking of weather, I heard something\n"
-	.string "from a guy at the Weather Institute.\p"
-	.string "He was saying abnormal weather has\n"
-	.string "been reported all over the place!\p"
-	.string "You should visit the Weather Institute\n"
-	.string "and ask around!$"
+	.string "Om ip u hemakske te kunn' zeil'n,\n"
+	.string "moeje u gôed b'wust zin van 't weer!\p"
+	.string "Aja é.\n"
+	.string "Wôois al na 't Weer Instituut gegoan?\p"
+	.string "Tskint dat er melding'n zin van\n"
+	.string "vrjid abnormoal weer!\p"
+	.string "Die wetenskappers zin toch soms\n"
+	.string "totentrekkers, njie?\p"
+	.string "Kiekt nar oeze zomers, en oeze winters.\p"
+	.string "Kzie 'k ik wok ntwa abnormoals!$"
 
 SlateportCity_Harbor_Text_SubTooSmallForMe:
-	.string "I wanted to go with Capt. Stern on\n"
-	.string "the ocean floor exploration.\p"
-	.string "But the sub's too small for me.\p"
-	.string "If I squeezed in, there wouldn't be\n"
-	.string "any room for the Captain…$"
+	.string "Ik wou me Kapt. Mortimer ip expeditie\n"
+	.string "goan me den onderzjiër.\p"
+	.string "Jin probljim zeitie.\p"
+	.string "'Me jen dik gat goan we te snel zakkn,\n"
+	.string "en tzou gin ploatse mé zin binn!'…$"
 
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
-	.string "Capt. Stern: Those thugs…\p"
-	.string "They're the same lot who tried to rob\n"
+	.string "Kapt. Morris: Die hangsters…\p"
+	.string "Daddis etzelfde krapul da de\n"
 	.string "the Devon Goods at the Museum.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:

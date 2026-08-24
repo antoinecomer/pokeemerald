@@ -1090,12 +1090,12 @@ LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
 LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier:
 	.string "{RIVAL}: Ah, hey, {PLAYER}{KUN}!\n"
 	.string "Ooit al ke gewist na,\l"
-	.string "et Batter Bataljon?$"
+	.string "de Batter Barakken?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier:
 	.string "{RIVAL}: Hey, {PLAYER}!\n"
 	.string "Ooit al ke gewist na,\l"
-	.string "et Batter Bataljon?$"
+	.string "de Batter Barakken?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall:
 	.string "… … … … … …\n"

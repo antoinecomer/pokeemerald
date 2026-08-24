@@ -294,7 +294,7 @@ SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
 	.string "Sommige meschn èn 'ond'n of katt'n tus.\n"
 	.string "Sommigste veuhels, sommigste cavia's.\l"
 	.string "en ton eje meschn me insect'n.\p"
-	.string "Aje n'en Beedrill meepakt in minne livink,\n"
+	.string "Aje n'en Beedrill meepakt in minne living,\n"
 	.string "tgoa jen besten dag nie zin!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:

@@ -409,7 +409,7 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "Ma nog lang nie evensterke lik uw pa!\p"
 	.string "A 't is juste, kheb nog iet voor u.\n"
 	.string "Pakketje van een zekere...\l"
-	.string "Meneer Demesmaeker.$"
+	.string "Meneer Pekel.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
 	.string "PAPA: Hm, een ticket vo de ferry?\p"
