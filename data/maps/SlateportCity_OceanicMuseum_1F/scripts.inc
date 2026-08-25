@@ -252,50 +252,52 @@ SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
 	.string "De hrwôtn Boas is ier toch nie.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
-	.string "If I ripped off the stuff here,\n"
-	.string "would it make me rich?$"
+	.string "Wa als ik ier ne pot soep\n"
+	.string "over zoe kapp'n?$"
 
 SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
-	.string "What I learn here, I can put to use on\n"
-	.string "nefarious deeds…$"
+	.string "'k Wit da'k ier ip klimaatmissie zin, ma\n"
+	.string "'k doe wok heweun geirn museums…$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "If our goons didn't bungle things\n"
-	.string "in Rustboro, we wouldn't be here!$"
+	.string "Moest'n oeze colleha's in Kortrik\n"
+	.string "gin prutsers zin, zoatn w'ier nie!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "I didn't have ¥50, so it took a long\n"
-	.string "time getting by the receptionist.$"
+	.string "'k N' ad gin ¥50 ip zak.\n"
+	.string "De receptioniste noemde mie ne skooier.\p"
+	.string "Zuur...$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
-	.string "use that knowledge for battling.$"
+	.string "Wistje datter ier woois ne Wailord es\n"
+	.string "aanhespoeld? Dat arm bjistje..$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "I get all giddy and gooey when\n"
-	.string "I see the sea!\p"
-	.string "For me, Capt. Stern is the number\n"
-	.string "one role model!$"
+	.string "Minnen 'eld, daddis Kapitein Mortimer.\n"
+	.string "Kwil de zji verkenn' lik em!\p"
+	.string "'t Is em of, aba natuurlik, de GOAT!\n"
+	.string "Mr. Pekel!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
-	.string "The sea is vast without end, and\n"
-	.string "infinitely deep…\p"
-	.string "There must be many Pokémon that\n"
-	.string "we don't know about.$"
+	.string "De zji is diep.\n"
+	.string "Zo…oneindih…diepe…\p"
+	.string "Der moe zovjil leevn zin in onderwoatr\n"
+	.string "dawe gin klôotn vanaf weetn.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea Pokémon.\p"
-	.string "I think it would feel cool and nice\n"
-	.string "to hug.$"
+	.string "'k Wille zo geirn ne Pokémon van de zji.\p"
+	.string "Meddal da woatr ier, aje gin èt,\n"
+	.string "dan is jen ervarink, kzo zehhen\p"
+	.string "moar een 7.8/10 woard ofzo.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
-	.string "Aiyeeeh!\n"
-	.string "What are you doing here?\p"
-	.string "Me? I'm the Team Aqua member\n"
-	.string "you thumped before, remember?\l"
-	.string "Back in Rusturf Tunnel?\p"
-	.string "Here, take this!\n"
-	.string "You have to forgive me!$"
+	.string "Eyeyey, shh!\n"
+	.string "Wuk doeje gie ier?\p"
+	.string "Ik? Erkendje mie niet?\n"
+	.string "Gèt mie ip me mulle heheven in 't\l"
+	.string "dien tunnel achter Kortrik?\p"
+	.string "Iersè!\n"
+	.string "Astenblief, verheeft mie!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
 	.string "That TM, it suits you more than it\n"
