@@ -10,14 +10,18 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "My Pokémon has a Hasty nature.\p"
-	.string "It has higher Speed compared to\n"
-	.string "my other Pokémon.\p"
-	.string "Maybe their nature has something to\n"
-	.string "do with the stat gains of Pokémon.$"
+	.string "Momo, min vrouwe kun e bitje overdrivvn.\p"
+	.string "De ferry es precies tien 9/11s veur aar.\n"
+	.string "Z'ad dezelfste hedacht toen da ze\p"
+	.string "ier die Batter Tente 'add'n hebouwd.$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "You're a Trainer, aren't you?\p"
-	.string "Since you came to Slateport City,\n"
-	.string "you must be going to the Battle Tent.$"
+	.string "Nieuwpoort es redelik rustih\p"
+	.string "vo lik, 75% van 't joar.\n"
+	.string "Ton eje die toeristen é.\p"
+	.string "Kzeijt nog davers, wuk goat er\n"
+	.string "hebeur'n als die ferry massa's\p" 
+	.string "meschn nar ier bringt?\p"
+	.string "Min rust en kalmte, WEG É!!!$"
+
 
