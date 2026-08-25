@@ -225,31 +225,31 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the Oceanic Museum.\p"
-	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.string "Welkom in 't Maritiem Museum.\p"
+	.string "Den entrée is ¥50.\n"
+	.string "Wildje een ticketje?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Heniet ervan é zeg.$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
-	.string "Oh? I'm sorry, but you don't seem to\n"
-	.string "have enough money.$"
+	.string "Oh? Tspit mie zjir, ma 't museum es\n"
+	.string "heslot'n vo SCHOOIERS.$"
 
 SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
-	.string "Oh? You're with that group that\n"
-	.string "went in earlier?\p"
-	.string "You're the only one who's late.\n"
-	.string "You'd better go catch up to them!$"
+	.string "Oh? Zije gie wok jin van die\n"
+	.string "fanatiekeling'n?\p"
+	.string "Ge zie de enihsten die te loate es.\n"
+	.string "Gif ma sjette!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, Team Aqua, exist for the good\n"
-	.string "of all!$"
+	.string "Wudr, van Team Aqua, wudr zin d'enige\n"
+	.string "die de wjirld kunn' redd'n!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
-	.string "We were told to assemble here,\n"
-	.string "so we did, but…\p"
-	.string "Our Boss, the linchpin, isn't here.$"
+	.string "Wudr ad'n ier vergoaringe mo,\n"
+	.string "kond'n we da nie via Teams doen…\p"
+	.string "De hrwôtn Boas is ier toch nie.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
 	.string "If I ripped off the stuff here,\n"
