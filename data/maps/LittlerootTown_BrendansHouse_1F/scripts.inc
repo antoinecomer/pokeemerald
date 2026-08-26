@@ -372,7 +372,7 @@ PlayersHouse_1F_Text_IsThatAPokenav:
 
 PlayersHouse_1F_Text_RegisteredMom:
 	.string "MAMA is heregisteerd\n"
-	.string "in minne PokéGSM.$"
+	.string "in minne PokéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
 	.string "Fugiiiiih!\p"
@@ -409,29 +409,31 @@ PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
 	.string "Ma nog lang nie evensterke lik uw pa!\p"
 	.string "A 't is juste, kheb nog iet voor u.\n"
 	.string "Pakketje van een zekere...\l"
-	.string "Meneer Pekel.$"
+	.string "'t es nauwelik leesboar,\l"
+	.string "mo der stoa:\l"
+	.string "“vo min moatje, {PLAYER}”.$"
 
 PlayersHouse_1F_Text_PortsInSlateportLilycove:
 	.string "PAPA: Hm, een ticket vo de ferry?\p"
 	.string "'k Moe ne ke peizen, der zin ferry's in\n"
-	.string "Nieuwpoort en Oostende ting mie.$"
+	.string "Nieuwpoort en Bruhhe ting mie.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-	.string "'t is mij weer jin aant opwachten in de Gym\p"
-	.string "veur een pandoring!\n"
+	.string "'t is mij weer jin aant opwachten\p"
+	.string " in de Gym veur een pandoring!\n"
 	.string "'t Zal zinnen besten dag nie zin!$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-	.string "MAMA: Uw vaadre, 't is ne vreej'n\p"
-	.string "Ie is nwooi tus, en a't'ie tus e,\n"
-	.string "'t gaat em altid om die 'Pokémonsters'...'.\p"
+	.string "MAMA: Uw vaadre, 't is ne vreej'n.\p"
+	.string "Ie is nwoois tus, en a't'ie tus è,\n"
+	.string "'t gaat em altid om die 'Pokémonsters'.\p"
 	.string "En bebie mag weer den afwas doen.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
 	.string "MAMA: Owla, 't is grwo nieuws ip Teevee$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
-	.string "VRT: Er zijn verschillende meldingen\n"
+	.string "BRT: Er zijn verschillende meldingen\n"
 	.string "over heel West-Vlaanderen\p"
 	.string "van een felgekleurde, vliegende\n"
 	.string "Pokémon. Een legendarisch unicum,\l"
@@ -450,5 +452,8 @@ PlayersHouse_1F_Text_WhatColorDidTheySay:
 PlayersHouse_1F_Text_StillUnknownPokemon:
 	.string "MAMA: Allez zeg!\n"
 	.string "Dat er nu nog altid van die\p"
-	.string "Pokémonsters ontdekt word'n.$"
+	.string "Pokémonsters ontdekt word'n.\p"
+	.string "In minnen tid é, twoarn der\n"
+	.string "ma 151. Die 'experten' é,\l"
+	.string "ik krig et ervan.$"
 

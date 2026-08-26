@@ -300,14 +300,14 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "Astenblief, verheeft mie!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "That TM, it suits you more than it\n"
-	.string "does me.\p"
-	.string "Hope I never see you again!\n"
+	.string "Da TM'ke goat u noh hôed van pas kom'n,\n"
+	.string "mjir dan ik..\p"
+	.string "Skiet u! Dak u mulle nie me moe zien!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "Awww, come on!\n"
-	.string "You have to take this and let me go!$"
+	.string "Mor alleu mojoengne toch!\n"
+	.string "Pakt min zak en goa weg!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
 	.string "A blue fluid is spiraling inside\n"
@@ -339,31 +339,33 @@ SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "up as sand on beaches.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“Oceanic Minifact 1\n"
-	.string "Why is seawater blue?\p"
-	.string "“Light is composed of many colors.\p"
-	.string "“When light passes through water,\n"
-	.string "most kinds of light lose color.\p"
-	.string "“However, blue light retains its\n"
-	.string "color, making the sea appear blue.”$"
+	.string "“Minifeitje euver d'oceane 1:\n"
+	.string "De meschn peizen, ons zuurstof\l"
+	.string "kom veur e hrwôt djil van de\l"
+	.string "rehenwoud'n. Nint in feite, mjir dan 50%\l"
+	.string "kom van d'oceaan. Met noame\l"
+	.string "van bacteriën en alhen die da\l"
+	.string "via fotosynthese utkakkn.”\p"
+	.string "Allez, 't is te zehhen, utstootn.$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“Oceanic Minifact 2\n"
-	.string "Why is the sea salty?\p"
-	.string "“Seawater contains dissolved salt in\n"
-	.string "the form of sodium and chlorine ions.\p"
-	.string "“These ions leech out of rocks\n"
-	.string "and are carried out to sea by rain.\p"
-	.string "“The concentration of dissolved salt\n"
-	.string "makes the sea salty.”$"
+	.string "“Minifeitje euver d'oceane 2:\n"
+	.string "A's ne potvis dwôd goa,\p"
+	.string "vormt zin kadaver ip de bodem\n"
+	.string "een hans ecosysteem.\p"
+	.string "Haaien en diepzjikrabb'n kunn' e\n"
+	.string "stukske vlees frett'n en bacteria\l"
+	.string "en tetting'n zin wok stifcontent.\p"
+	.string "Zukn kadaver kun tot 100 joar voedsel\n"
+	.string "voorzien woardat er gin es.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“Oceanic Minifact 3\n"
-	.string "Which is bigger? The sea or land?\p"
-	.string "“The sea covers about 70% of\n"
-	.string "the planet, and the rest is land.\p"
-	.string "“The sea is therefore more than twice\n"
-	.string "the size of land.”$"
+	.string "“Minifeitje euver d'oceane 3:\n"
+	.string "Octopuss'n èn drie 'erten.\p"
+	.string "“2 davan pomp'n na de kieuwen, jin\n"
+	.string "pompt bloed deur de reste.\p"
+	.string "“Et bloed is blauwe, omdat et koper\n"
+	.string "éet in plekke van izzer.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
 	.string "It's a fossil with wavy ridges on it.\p"
