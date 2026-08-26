@@ -382,7 +382,7 @@ SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
 	.string "Euver onderdduuzenden joarn\n"
 	.string "sijpelt er woatr vul mineroaln\l"
 	.string "in die celstructuur, en die\l"
-	.string "BOTT'N verandert ton in stjin.\p"
+	.string "BOTT'N verandern ton in stjin.\p"
 	.string "{PLAYER}: Allez we ljirn ntwa bie.$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
