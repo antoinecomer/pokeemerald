@@ -302,33 +302,34 @@ SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
 	.string "Da TM'ke goat u noh hôed van pas kom'n,\n"
 	.string "mjir dan ik..\p"
-	.string "Skiet u! Dak u mulle nie me moe zien!\n"
-	.string "Wahahaha!$"
+	.string "Dit hezegdzijnde...!\n"
+	.string "'k Moe kakk'n!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
 	.string "Mor alleu mojoengne toch!\n"
 	.string "Pakt min zak en goa weg!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
-	.string "A blue fluid is spiraling inside\n"
-	.string "a glass vessel.\p"
-	.string "“This is an experiment to create a\n"
-	.string "Whirlpool artificially using wind.”$"
+	.string "Een experiment me druk..\n"
+	.string "Ip de bodem van d'oceaan\p"
+	.string "es de druk blikboar 1000 ke\n"
+	.string "zo 'ohe als ip zjiniveau.\p"
+	.string "Allez dan.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "A red ball is bobbing up and down\n"
-	.string "inside a glass vessel.\p"
-	.string "“This is an experiment simulating a\n"
-	.string "Waterfall using the ball's buoyancy.”$"
+	.string "Ip de zjibodem lihhen der\n"
+	.string "blikbaar mjir dan drie\l"
+	.string "mijoen wrakk'n.\p"
+	.string "{PLAYER}: Moh...$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
-	.string "It's a sample of soil from the ocean\n"
-	.string "floor.\p"
-	.string "“Over many years, the remains of\n"
-	.string "life-forms settle at the bottom of\l"
-	.string "the sea, making sedimentary layers.\p"
-	.string "“By analyzing these layers, the\n"
-	.string "ancient past is revealed.”$"
+	.string "Zand. Oan elke zji, of in de Sahara.\n"
+	.string "Daddis ne hrwôte kattenbak.\p"
+	.string "Vjil strandzand komt van de berhen, van\n"
+	.string "verpulverd gestjinte,\l"
+	.string "da mijoenen joarn od es.\p"
+	.string "Zand es de meest hebrukte hrondstof\n"
+	.string "na woatr. Hoe vo betong en silicium.$"
 
 SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "It's a sample of beach sand.\p"
@@ -362,23 +363,31 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
 	.string "“Minifeitje euver d'oceane 3:\n"
 	.string "Octopuss'n èn drie 'erten.\p"
-	.string "“2 davan pomp'n na de kieuwen, jin\n"
+	.string "2 davan pomp'n na de kieuwen, jin\n"
 	.string "pompt bloed deur de reste.\p"
-	.string "“Et bloed is blauwe, omdat et koper\n"
+	.string "Et bloed is blauwe, omdat et koper\n"
 	.string "éet in plekke van izzer.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
-	.string "It's a fossil with wavy ridges on it.\p"
-	.string "“Soil on the ocean floor gets scoured\n"
-	.string "by the tide.\p"
-	.string "“The flowing seawater marks the soil\n"
-	.string "with small ridges and valleys.\p"
-	.string "“If this soil becomes fossilized, it is\n"
-	.string "called a ripple mark.”$"
+	.string "Fossilisatie es extrjim zeldzoame.\p"
+	.string "Tmoet al juste e bjistje of e plante\n"
+	.string "dwôgoan en direc bedekt wôrdn\l"
+	.string "me zand, klei of moze.\p"
+	.string "De arte diltjes (jen botten)\n"
+	.string "bluvn over en-\p"
+	.string "{PLAYER}: min bottn?\n"
+	.string "Nint, nie u bottn. Allez, jawel.\l"
+	.string "Van e skelet! Mutten!\p"
+	.string "Et plakkoat las verder:\p"
+	.string "Euver onderdduuzenden joarn\n"
+	.string "sijpelt er woatr vul mineroaln\l"
+	.string "in die celstructuur, en die\l"
+	.string "BOTT'N verandert ton in stjin.\p"
+	.string "{PLAYER}: Allez we ljirn ntwa bie.$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
-	.string "A strange machine is rotating under\n"
-	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
-	.string "of something…$"
+	.string "Wèn bjitere koart'n van\n"
+	.string "de moan en van mars\p"
+	.string "dan onzen eihen oceoannbodem!\n"
+	.string "{PLAYER}: Alégow zeg…$"
 
