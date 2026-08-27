@@ -274,79 +274,83 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Yes? If you're looking for Stern,\n"
-	.string "that would be me.\p"
-	.string "Ah! Those must be the parts I ordered\n"
-	.string "from Mr. Stone of Devon.\p"
-	.string "Thank you! That's great!\n"
-	.string "We can prepare for our expedition now.$"
+	.string "Joam. Aje Kapitein Mortimer zoekt,\n"
+	.string "ton èj'em hevond'n!\p"
+	.string "Aha! Min bestellinge van Balco!\n"
+	.string "Ge zyt stiefbedankt!\p"
+	.string "Me die onderdjiln kunn' we eindelik\n"
+	.string "oeze onderzji-expeditie vwôrtzett'n.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
-	.string "Hehehe, hold it!\n"
-	.string "We'll take those parts!$"
+	.string "Hélaba!\n"
+	.string "Wudr goan daddier zjirre\l"!
+	.string "confiscer'n sè!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
-	.string "Capt. Stern: Wh-what?\n"
-	.string "Who are you people?$"
+	.string "Kapt. Mortimer: Ma da mindje nu toch niet.\n"
+	.string "Ellendihe nieuwèrs. Smoetzakn!\p"
+	.string "MUTNS! HATACHTERLIKE DEBIELEN!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
-	.string "We're Team Aqua!\p"
-	.string "Our Boss wants those parts!\n"
-	.string "Shut your yap and fork them over!$"
+	.string "Wowow...rustih é!\p"
+	.string "Wudr doen wok ma oes werk é zeg!\n"
+	.string "Oedje mulle en gift ma da pakketje ier!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
-	.string "Awaaaah!\n"
-	.string "A kid beat me!$"
+	.string "Wa!\n"
+	.string "Da kun nie! Daddis gênant...$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "Oh, man, what a disaster…\n"
-	.string "The Boss is going to be furious…$"
+	.string "Hodmiljaar…\n"
+	.string "En khinkik juste ipslag vroagn…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
-	.string "Humph, sniveling wimp!\n"
-	.string "Let me take care of this!$"
+	.string "Jah, typisch da de melkmulle van Aqua\n"
+	.string "afgoat ip ze jiste job!\p"
+	.string "Kiekt en LJIRT.$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "What?!\n"
-	.string "I lost, too!$"
+	.string "Aï, aï, aï.!\n"
+	.string "Kgoa 'k ik motn ljirn en kikkn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
-	.string "Now what? If we don't get the parts,\n"
-	.string "we're in for it!\p"
-	.string "Arrgh, I didn't count on being meddled\n"
-	.string "with by some meddling kid!$"
+	.string "Ja en nu é?\n"
+	.string "Wèn 't zitt'n whé!\p"
+	.string "Dat'r JIN obstakel in 't museum hing zyn,\n"
+	.string "da wa nie voorzien whé!$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
-	.string "I came to see what was taking so\n"
-	.string "long to snatch some parts, and you\l"
-	.string "simps are held up by a mere child?$"
+	.string "Awel, awel, awel.\n"
+	.string "Wuk zin junder bende pezewevers\l"
+	.string "eigenlik mee bezig zeg.$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
-	.string "We are Team Aqua,\n"
-	.string "and we love the sea!\p"
-	.string "And I am Team Aqua's leader,\n"
+	.string "Wuddr zin Team Aqua,\n"
+	.string "lik da oes mahhtig kostuum al verroadt!\p"
+	.string "Ik? Ik zin ier de chef.\n"
 	.string "Archie!\p"
-	.string "What makes you interfere with us?\p"
-	.string "…No! You can't be!\n"
-	.string "You're not one of Team Magma?\p"
-	.string "Wait, that can't be right.\n"
-	.string "You're not dressed for the part.\p"
+	.string "Wuk moeidje gie u eigenlik mee?\p"
+	.string "…Gie zit toch algelik nie..!\n"
+	.string "Van Team Mahma?\p"
+	.string "Nint, da kun niet.\n"
+	.string "H'nèt gin onnozel kostuum an.\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "Pokémon, people… All life depends on\n"
-	.string "the sea.\p"
-	.string "So, Team Aqua is dedicated to\n"
-	.string "the expansion of the sea.\p"
-	.string "Don't you agree? What we are doing\n"
-	.string "is a magnificent undertaking.\p"
-	.string "Ah, fine…\n"
-	.string "You're still too young to understand\l"
-	.string "our noble objective.\p"
-	.string "But, I warn you, don't even consider\n"
-	.string "interfering with our plans again.\p"
-	.string "The consequences will cost you\n"
-	.string "dearly!\p"
-	.string "And don't you forget it!$"
+	.string "Lustert… all et leevn, mensch en dier,\n"
+	.string "éet de zji nodig.\p"
+	.string "'t Enigste da wuddr will'n, is\n"
+	.string "mjir zji. Is da nu zo sligt?\p"
+	.string "Peist ké na. Oeze Aardkloot kun\n"
+	.string "ma zovjil menschn een us geven.\p"
+	.string "En wudr ma bluvven plastiek dump'n\n"
+	.string "en bedreihde dierswôrtn\l"
+	.string "loatn utsterv'n.\l"
+	.string "Et kun anders.\p"
+	.string "Goat et ten koste goan van sommigste\n"
+	.string "meschn? Joat.\p"
+	.string "Goat oeze Moeder Aarde tenminste\n"
+	.string "kun' henezen? Zie gerust!\p"
+	.string "En nu!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
 	.string "Capt. Stern: You're…\n"
