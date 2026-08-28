@@ -350,96 +350,99 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "meschn? Joat.\p"
 	.string "Goat oeze Moeder Aarde tenminste\n"
 	.string "kun' henezen? Zie gerust!\p"
-	.string "En nu!$"
+	.string "En nu, ut min weege!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "Capt. Stern: You're…\n"
-	.string "Ah, okay, you're {PLAYER}{KUN}…\p"
-	.string "Anyway, that was a tense situation!\n"
-	.string "Thank you for saving us!\p"
-	.string "Oh, yes, I almost forgot that you\n"
-	.string "even brought the parts from Devon!$"
+	.string "Kapt. Mortimer: Die vurte…\n"
+	.string "Amai, {PLAYER}{KUN}…\p"
+	.string "Kstoa 'k ik ier nog te rill'n!\n"
+	.string "Ge zit stiefbedankt!\p"
+	.string "Moh, en kwoare 'k ik bikan\n"
+	.string "verheten daje gie min pakketje van\l"
+	.string "Balco ad!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "Capt. Stern: Whoops!\n"
-	.string "There's no time to lose!\p"
-	.string "We have to set out on our ocean-floor\n"
-	.string "expedition really soon.\p"
-	.string "Thanks again, but now I've got\n"
-	.string "to go!\p"
-	.string "Feel free to wander around and check\n"
-	.string "out our facilities, though.$"
+	.string "Kapt. Mortimer: Jah!\n"
+	.string "(K. M. klapt in z'n 'anden)\p"
+	.string "'k Goa 'k ik mie eindelik ne ké\n"
+	.string "zett'n an die onderzji-expeditie é.\p"
+	.string "Nog ke n'en dikke merci,\n"
+	.string "'k goa m'n skip afkussn!\p"
+	.string "Kom gerust ke langs ip de werf\n"
+	.string "of passeerdeké langs den aven é.$"
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
-	.string "I saw a model of a ship here.\p"
-	.string "It reminded me of the Abandoned Ship\n"
-	.string "near Dewford Town…$"
+	.string "'t Skint é.\p"
+	.string "Dat er e spookskip es…\n"
+	.string "dicht bie De Panne…$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
-	.string "Don't you dare run around inside\n"
-	.string "the Museum!$"
+	.string "Nie lwôp'n in 't museum é.\n"
+	.string "En wok nie me de biltaks rieën.\l"
+	.string "Der is e ploatse en e tidde veur alles.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
-	.string "Wow, the submarine's awesome!\n"
-	.string "I want to go for a ride!$"
+	.string "Kzou bere gern ne ke in dien\n"
+	.string "onderzjiër will'n krupn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
-	.string "“Water Quality Sample 1,” the\n"
-	.string "label says.\p"
-	.string "The sea is all connected, but the\n"
-	.string "water seems to differ by region.$"
+	.string "“Woatr Stoaltje 1,” zegt et\n"
+	.string "eticketje stillekes.\p"
+	.string "Wist je da mussels woatr\n"
+	.string "kunn' reinihen? Mahhtig é.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
-	.string "“Water Quality Sample 2,” the\n"
-	.string "label says.\p"
-	.string "Does the saltiness of seawater differ\n"
-	.string "by region, too?$"
+	.string "“Woatr Stoaltje 2,” zegt et\n"
+	.string "eticketje e bitje minder stillekes.\p"
+	.string "Slechs jin percent van olt woatr is\n"
+	.string "hemakkelik beskikboar a's zoet woatr,\l"
+	.string "en 't hrwôtste djil zit dan nog vast in ys.$"
 
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
-	.string "A rubber ball is expanding and\n"
-	.string "shrinking.\p"
-	.string "“In the sea, the weight of water itself\n"
-	.string "exerts pressure.\p"
-	.string "“In shallow water, the pressure is not\n"
-	.string "very heavy.\p"
-	.string "“However, in extremely deep water,\n"
-	.string "the pressure can reach even tens of\l"
-	.string "thousands of tons on a small area.”$"
+	.string "Vo elke 10 mjitr daje onderwoatr dukt,\n"
+	.string "stijgt den druk me jin atmosfeer.\p"
+	.string "Ip 't woatroppervlak zitje al an jin\n"
+	.string "atmosfeer. Aba natuurlik. De luchtdruk é.\p"
+	.string "Ip 10 mjitr zit je dus ip 2 atmosfeer.\n"
+	.string "Ip 100 zitje ip 11.\p"
+	.string "{PLAYER}: Moh.$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“Model Of Hoenn Region”\p"
-	.string "It's a miniature diorama of the\n"
-	.string "Hoenn region.\p"
-	.string "Where is Littleroot Town on this?$"
+	.string "“Model van de rehio Oen”\p"
+	.string "Hjil Oen in 't miniatuur.\n"
+	.string "Lang heleden ad Oen een andre noame.\p"
+	.string "Ziej Oarlbeke derip?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Near the bottom of the sea, water\n"
-	.string "flows due to differences in such\l"
-	.string "factors as temperature and salinity.”$"
+	.string "De wind bloast in jin richting,\p"
+	.string "mo de Oarde droait in 'n andere soms é.\n"
+	.string "Daddis deel van de Ekman-\l"
+	.string "bewehingstheorie.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
-	.string "It's a display on the flow of seawater.\p"
-	.string "“Toward the surface, seawater flows\n"
-	.string "as currents driven by the winds.”$"
+	.string "Onderwoatr krig je een Ekmanspiroal.\p"
+	.string "Oe diep'r daje goa, oe mjir da de\n"
+	.string "stromingen afbuhhen noar links of rechts\l"
+	.string "afhhankelik van ofdaje ip noordelik of\l"
+	.string "of zuddelik alfrond zit.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
-	.string "“The Ferry S.S. Tidal\p"
-	.string "“A scale replica of the ship under\n"
-	.string "construction at Stern's Shipyard.”$"
+	.string "“De ferry S.S. Het Ei\p"
+	.string "“Een model van wa et skip in\n"
+	.string "Kapt. Mortimer's werf goa wordn.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“Submarine Explorer 1\p"
-	.string "“A replica of the high-performance\n"
-	.string "ocean floor exploration submarine.”$"
+	.string "“Trifonius 1\p"
+	.string "“E replica van de mahhtigste\n"
+	.string "onderzjiër ip de planeet.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
-	.string "“Submersible Pod\p"
-	.string "“A replica of a compact, unmanned\n"
-	.string "pod for seafloor exploration.”$"
+	.string "“Mini-dukboot\p"
+	.string "“E replica van e mini-dukboot,\n"
+	.string "heskikt vo onderzji-verkenning.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“S.S. Anne\p"
-	.string "“A replica of the luxury liner that\n"
-	.string "circles the globe.”$"
+	.string "“S.S. Anna\p"
+	.string "“E replica van en éle skwone\n"
+	.string "splinternieuwe ferry.”$"
 

@@ -1010,7 +1010,7 @@ SlateportCity_Text_EffortRibbonLooksGoodOnIt:
 	.string "Lintje stoat em bèregoe!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "Et licht van de vuurtwôrn rikt verre.\n"
+	.string "Et licht van de faar rikt verre.\n"
 	.string "Doe ke een hokske oeverre.\p"
 	.string "Dertig zeemijln! Daddis dus\n"
 	.string "Vuvvenvuftig kilometer!\p"

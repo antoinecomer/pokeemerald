@@ -10,8 +10,9 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "Momo, min vrouwe kun e bitje overdrivvn.\p"
-	.string "'k A beter me n'en octopus getrouwd!\n"
+	.string "Momo, min vrouwe kun e bitje overdrivvn.\n"
+	.string "En zis moeilik te paluff'n.\p"
+	.string "'k A beter me n'en octopus getrouwd!\p"
 	.string "Z'ad dezelfste hedacht toen da ze\p"
 	.string "ier die Batter Tente 'add'n hebouwd.\p"
 	.string "Moe wel toeheevn,\n"
