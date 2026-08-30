@@ -283,7 +283,7 @@ SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
 	.string "Hélaba!\n"
-	.string "Wudr goan daddier zjirre!\l"
+	.string "Wudr goan daddier zjirre\l"
 	.string "confiscer'n sè!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
@@ -310,7 +310,7 @@ SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "Kiekt en LJIRT.$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "Aï, aï, aï.!\n"
+	.string "Aï, aï, aï.\n"
 	.string "Kgoa 'k ik motn ljirn en kikkn!$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:

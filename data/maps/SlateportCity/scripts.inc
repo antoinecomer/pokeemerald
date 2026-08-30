@@ -1193,7 +1193,7 @@ SlateportCity_Text_BattleTentBuiltRecently:
 	.string "Kgoat je ké zeggn wukdat es.\p"
 	.string "Nieuwpoort a gin verhunninge\n"
 	.string "gekregen vo een Gym...\l"
-	.string "dus zèn e Battle Tent hezet!$"
+	.string "dus zèn e BatterTent hezet!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
 	.string "Ze zeidn ollemolle datter een\n"
@@ -1417,22 +1417,24 @@ SlateportCity_Text_ComeBackToTradeBerryPowder:
 
 SlateportCity_Text_YouDroveTeamAquaAway:
 	.string "Scott: Huh?\n"
-	.string "I'm sure I met you somewhere before.\p"
-	.string "Have I introduced myself to you?\n"
-	.string "If not, my name's Scott.\p"
-	.string "I just saw Team Aqua run away from\n"
-	.string "here like they were stung.\p"
-	.string "Let me guess--you drove them away?$"
+	.string "Heb ik u niet al ontmoet?\p"
+	.string "In elk geval,\n"
+	.string "mijn naam is Scott.\p"
+	.string "Ik zag net die clowns\n"
+	.string "van Team Aqua weglopen.\p"
+	.string "Hebben ze u niet\n"
+	.string "geprobeerd te recruteren?$"
 
 SlateportCity_Text_MaybeThisTrainer:
 	.string "Scott: Hmm…\n"
+	.string "Misschien zat ik mis.\p"
 	.string "Misschien toch, deze Temmer…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
 	.string "Scott: Oké dan! Soms moet ik\n"
 	.string "erkennen dat ik een fout heb gemaakt.\p"
 	.string "Jij vertoont potentieel.\n"
-	.string "Geef eens je Pokénav?.\p"
+	.string "Geef eens je Pokénav?\p"
 	.string "… … … … … …$"
 
 SlateportCity_Text_RegisteredScott:

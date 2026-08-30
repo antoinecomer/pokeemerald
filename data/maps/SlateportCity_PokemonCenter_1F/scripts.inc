@@ -27,16 +27,15 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 	end
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
-	.string "Want a tip for battling?\p"
-	.string "I'd say it's raising different kinds\n"
-	.string "of Pokémon in a balanced manner.\p"
-	.string "It's no good to make just one\n"
-	.string "Pokémon strong.\p"
-	.string "If it has a type disadvantage,\n"
-	.string "it might not stand a chance.$"
+	.string "Moeje een battertip èn?\p"
+	.string "{PLAYER}: Nink.\p"
+	.string "Ah.\n"
+	.string "Allez dan.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade Pokémon with my friends.\p"
-	.string "If a traded Pokémon is holding an\n"
-	.string "item, it makes me twice as happy!$"
+	.string "Ik wissel 'k ik Pokémon me min\p"
+	.string "moatn. 'k Loat ze ton ntwa\n"
+	.string "vast'oddn! Zebben ton dubbel pris!\p"
+	.string "Overloatst n'en everstone aan min\n"
+	.string "Machoke hehang'n.$"
 
