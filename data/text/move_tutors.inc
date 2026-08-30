@@ -7,26 +7,28 @@ MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnceFinite:
 	.string "once. Is that okay?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! My Pokémon totally rules!\n"
-	.string "It's cooler than any Pokémon!\p"
-	.string "I was lipping off with a swagger in\n"
-	.string "my step like that when the Chairman\l"
-	.string "chewed me out.\p"
-	.string "That took the swagger out of my step.\p"
-	.string "If you'd like, I'll teach the move\n"
-	.string "Swagger to a Pokémon of yours.$"
+	.string "Heh! Yoloswag!\n"
+	.string "Elke Pokémon es cooler a'stie!\l"
+	.string "wa Swagger eeft!\p"
+	.string "Hm?\p"
+	.string "Zehhen ze da nie mé?\p"
+	.string "Tis nu al 6-7 dat de klok sloat?\p"
+	.string "Hm?\p"
+	.string "Das ook al passé?!\p"
+	.string "...\p"
+	.string "Zeg geweune aan wie dak\n"
+	.string "Swagger moe ljirn.$"
 
 MoveTutor_Text_SwaggerDeclined:
-	.string "What, no? Can't you get into\n"
-	.string "the spirit of things?$"
+	.string "Bah! Nie cool genoeg\n"
+	.string "vo Swagger ofwa?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "All right, which Pokémon wants to\n"
-	.string "learn how to Swagger?$"
+	.string "En wien es de helukkige?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "I'll just praise my Pokémon from now\n"
-	.string "on without the swagger.$"
+	.string "Kzehhe Swagger ip z'n Engels.\n"
+	.string "Ma kgoa behinn' Swahher zehh'n.$"
 
 MoveTutor_Text_RolloutTeach:
 	.string "Did you know that you can go from\n"
