@@ -752,7 +752,7 @@ Route110_Text_WeCantTalkAboutAquaActivities:
 	.string "Dus giiij wilt weten wada…\n"
 	.string "Team Aqua van plan es……\p"
 	.string "… … … … … … … …\p"
-	.string "Mah niet.$"
+	.string "Meuh nie.$"
 
 Route110_Text_KickUpARuckus:
 	.string "Blikboar est hank in Nieuwpoort.\n"
@@ -765,95 +765,107 @@ Route110_Text_MyFirstJobInAqua:
 	.string "'t Es me hroepsverzekering.$"
 
 Route110_Text_AquaActionsBringSmiles:
-	.string "Team Aqua's actions should bring\n"
-	.string "smiles to people's faces!$"
+	.string "Meschn noemen oes terrorist'n\n"
+	.string "of vorte hippies mo..\l"
+	.string "'t es toch 't jin of 't ander?$"
 
 Route110_Text_MayLetsBattle:
-	.string "{RIVAL}: Hi, {PLAYER}{KUN}, long time no see!\p"
-	.string "While I was searching for other\n"
-	.string "Pokémon, my Pokémon grew stronger.\p"
-	.string "So…\n"
-	.string "How about a little battle?$"
+	.string "{RIVAL}: Moh, {PLAYER}{KUN}!\n"
+	.string "Das lang heleden sè!\p"
+	.string "Lukt et vang'n van Pokémons\n"
+	.string "bie u? 'k Eb 'k ik zelf\l"
+	.string "al jin blinker…\p"
+	.string "… … … … … … … … …\p"
+	.string "{RIVAL}: (Klapt in oar 'and'n)\n"
+	.string "Hwoêd. Henoeh bijheproat.\p"
+	.string "Batteringske?$"
 
 Route110_Text_MayDefeated:
-	.string "Yikes!\n"
-	.string "You're better than I expected!$"
+	.string "Jawadde!\n"
+	.string "'k Ad niets mind'r verwacht!$"
 
 Route110_Text_MayTakeThis:
-	.string "{RIVAL}: {PLAYER}{KUN}, you've been busy\n"
-	.string "training, too, haven't you?\p"
-	.string "I think you deserve a reward!\n"
-	.string "This is from me!$"
+	.string "{RIVAL}: {PLAYER}{KUN}, jen\n"
+	.string "Pokémons zin duddelik in topconditie.\p"
+	.string "Kzie da geirn!\n"
+	.string "Iere, vang!$"
 
 Route110_Text_MayExplainItemfinder:
-	.string "{RIVAL}: That's an Itemfinder.\p"
-	.string "Try it out. If there is an item that's\n"
-	.string "not visible, it emits a sound.\p"
-	.string "Okay, {PLAYER}{KUN}, let's meet again!\p"
-	.string "I know it's a little silly coming from\n"
-	.string "me, but I think you should train a lot\l"
-	.string "harder for the next time.$"
+	.string "{RIVAL}: Da es een DingVindr.\p"
+	.string "Lik da zen noame et zegt,\n"
+	.string "et vindt dingen. Ma wok\l"
+	.string "dingn die onzichtboar zin!\p"
+	.string "Lik da Wally me z'n klitoren zoe zehhen,\n"
+	.string "Check et ut!\p"
+	.string "En bluvt trainen, of zie herust\n"
+	.string "dak u goan in'oal'n!\p"
+	.string "Tshow é!$"
 
 Route110_Text_BrendanLetsBattle:
-	.string "{RIVAL}: Hey, {PLAYER}.\n"
-	.string "So this is where you were.\l"
-	.string "How's it going?\p"
-	.string "Have you been raising your Pokémon?\n"
-	.string "I'll check for you.$"
+	.string "{RIVAL}: Moh, {PLAYER}{KUN}!\n"
+	.string "Das lang heleden sè!\p"
+	.string "Lukt et vang'n van Pokémons\n"
+	.string "bie u? 'k Eb 'k ik zelf\l"
+	.string "al jin blinker…\p"
+	.string "… … … … … … … … …\p"
+	.string "{RIVAL}: (Klapt in zin 'and'n)\n"
+	.string "Hwoêd. Henoeh bijheproat.\p"
+	.string "Batteringske?$"
 
 Route110_Text_BrendanDefeated:
-	.string "Hmm…\n"
-	.string "You're pretty good.$"
+	.string "Jawadde!\n"
+	.string "'k Ad niets mind'r verwacht!$"
 
 Route110_Text_BrendanTakeThis:
-	.string "{RIVAL}: {PLAYER}, you've trained\n"
-	.string "without me noticing…\p"
-	.string "Good enough!\n"
-	.string "Here, take this.$"
+	.string "{RIVAL}: {PLAYER}{KUN}, jen\n"
+	.string "Pokémons zin duddelik in topconditie.\p"
+	.string "Kzie da geirn!\n"
+	.string "Iere, vang!$"
 
 Route110_Text_BrendanExplainItemfinder:
-	.string "{RIVAL}: That's an Itemfinder.\p"
-	.string "Use it to root around for items that\n"
-	.string "aren't visible.\p"
-	.string "If it senses something, it emits\n"
-	.string "a sound.\p"
-	.string "Anyway, I'm off to look for new\n"
-	.string "Pokémon.$"
+	.string "{RIVAL}: Da es een DingVindr.\p"
+	.string "Lik da zen noame et zegt,\n"
+	.string "et vindt dingen. Ma wok\l"
+	.string "dingn die onzichtboar zin!\p"
+	.string "Lik da Wally me z'n klitoren zoe zehhen,\n"
+	.string "Check et ut!\p"
+	.string "En bluvt trainen, of zie herust\n"
+	.string "dak u goan in'oal'n!\p"
+	.string "Tshow é!$"
 
 Route110_Text_RideBikeAtFullSpeed:
-	.string "Wouldn't it be great to ride a Bike\n"
-	.string "at full speed on Cycling Road?$"
+	.string "Met de vélo vullen bak hoan.\n"
+	.string "Daddist 't leevn, niewoar?$"
 
 Route110_Text_HairStreamsBehindMe:
-	.string "How do you like the way my raven-\n"
-	.string "colored hair streams behind me?\p"
-	.string "I grew my hair out just for that.$"
+	.string "Kèn men oar loatn uthroein.\n"
+	.string "De wind derdeur goat. Zalih hewoon.\p"
+	.string "Kletskopp'n miss'n toch ntwadde.$"
 
 Route110_Text_YouGotBikeFromRydel:
-	.string "Oh, hey, you got that Bike from Rydel!\p"
-	.string "Oh, it's glaringly obvious.\n"
-	.string "It says right on your bike…\p"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\n"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\p"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\n"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\p"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\n"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\p"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\n"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel,\p"
-	.string "Rydel, Rydel, Rydel, Rydel, Rydel…\n"
-	.string "That name's everywhere.\p"
-	.string "You should ride it around all over\n"
-	.string "the place--it's good advertising!$"
+	.string "Moh, ès da ne vélo van KwikStep?\p"
+	.string "'t Zal wel ziiiiiiiiin.\n"
+	.string "'t Merk stoat ip je vélo…\p"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\n"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\p"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\n"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\p"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\n"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\p"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\n"
+	.string "KwikStep, KwikStep, KwikStep, KwikStep,\p"
+	.string "Kunt er nie neffest lwôpn.\p"
+	.string "Of fietsen é! Hah!\n"
+	.string "Vré hoei recloame wel!$"
 
 Route110_Text_TwoRoads:
-	.string "The two roads, one above, one below…\p"
-	.string "A road each for people and Pokémon.\n"
-	.string "Perhaps that is right and fair.$"
+	.string "Twee boan'n, jin bov'n, jin ond'r…\p"
+	.string "Jin vo de meschn, jin vo de Pokémons.\n"
+	.string "Miskien es da juste. En rehhtvoardig.$"
 
 Route110_Text_WalkOnTheLowRoad:
-	.string "I don't have a Bike, so I'll take\n"
-	.string "a leisurely walk on the low road.$"
+	.string "'k Nè ginne vélo. Dus ik pakke\n"
+	.string "de lange weg ip me hemak.$"
 
 Route110_Text_BikeTechniques:
 	.string "Learning techniques will make Bike\n"
@@ -868,9 +880,9 @@ Route110_Text_WhichShouldIChoose:
 	.string "and look for Pokémon?$"
 
 Route110_Text_CyclingChallengeResultSummary:
-	.string "Number of collisions:\n"
+	.string "Oantal botsingen:\n"
 	.string "… … {STR_VAR_1}!\p"
-	.string "Total time:\n"
+	.string "Totalen tid:\n"
 	.string "… … {STR_VAR_2}!$"
 
 Route110_Text_ChallengeReactionBest:
@@ -974,12 +986,12 @@ Route110_Text_ThereIsNoRecord:
 	.string "challenge. There is no record…$"
 
 Route110_Text_ImagineSeeingYouHere:
-	.string "Prof. Birch: Oh, {PLAYER}{KUN}!\n"
-	.string "Imagine seeing you here!\p"
-	.string "And where might my {RIVAL} be?$"
+	.string "Prof. Gerrit C.: Moh, {PLAYER}{KUN}!\n"
+	.string "Wien da wier èn!\p"
+	.string "En woar es min {RIVAL}?$"
 
 Route110_Text_HeardYouInstallMatchCall:
-	.string "Oh, I see!\n"
+	.string "Ah, 'k verstoat!\n"
 	.string "You two are running separately.\l"
 	.string "Well, that's fine.\p"
 	.string "Oh, yes, I heard that your Pokénav\n"
