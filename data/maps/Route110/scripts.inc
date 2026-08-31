@@ -749,16 +749,20 @@ Route110_Movement_BirchExit4:
 	step_end
 
 Route110_Text_WeCantTalkAboutAquaActivities:
-	.string "Team Aqua's activities…\n"
-	.string "We can't talk about them yet.$"
+	.string "Dus giiij wilt weten wada…\n"
+	.string "Team Aqua van plan es……\p"
+	.string "… … … … … … … …\p"
+	.string "Mah niet.$"
 
 Route110_Text_KickUpARuckus:
-	.string "I want to get going to Slateport and\n"
-	.string "kick up a ruckus!$"
+	.string "Blikboar est hank in Nieuwpoort.\n"
+	.string "Min post is ier! Soai.\p"
+	.string "Hjilsan WACHT'N! 'k Kom ZOT!$"
 
 Route110_Text_MyFirstJobInAqua:
-	.string "This is my first job after joining\n"
-	.string "Team Aqua. It's a little scary.$"
+	.string "Dit es min jiste jobke.\n"
+	.string "De voorwoard'n bie Team Aqua zin hoe.\p"
+	.string "'t Es me hroepsverzekering.$"
 
 Route110_Text_AquaActionsBringSmiles:
 	.string "Team Aqua's actions should bring\n"
