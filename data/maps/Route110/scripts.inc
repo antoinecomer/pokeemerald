@@ -868,16 +868,18 @@ Route110_Text_WalkOnTheLowRoad:
 	.string "de lange weg ip me hemak.$"
 
 Route110_Text_BikeTechniques:
-	.string "Learning techniques will make Bike\n"
-	.string "riding even more fun.\p"
-	.string "There are some places that you can\n"
-	.string "reach only by using a Bike technique.$"
+	.string "Op n'en odde fiets moeje ljirn rieën.\n"
+	.string "Ik en m'en vrouwe,\p"
+	.string "we schelen acht joar.\n"
+	.string "En ik ben de joengsten.\p"
+	.string "Miskiene moek min kandidoat stell'n,\n"
+	.string "om president van Frankrik te word'n?$"
 
 Route110_Text_WhichShouldIChoose:
-	.string "Which should I choose?\p"
-	.string "Make a beeline for Mauville on\n"
-	.string "Cycling Road, or take the low road\l"
-	.string "and look for Pokémon?$"
+	.string "Wuk zok 'k ik kiez'n?\p"
+	.string "Tjeezn ip de vélo na Knokke\n"
+	.string "of de lage wandelweh pakk'n\l"
+	.string "en tsjollen deur ol die Pokémons?$"
 
 Route110_Text_CyclingChallengeResultSummary:
 	.string "Oantal botsingen:\n"
@@ -886,7 +888,7 @@ Route110_Text_CyclingChallengeResultSummary:
 	.string "… … {STR_VAR_2}!$"
 
 Route110_Text_ChallengeReactionBest:
-	.string "Bravo! Splendid showing!\p"
+	.string "BRAVO! Da wa MAHHTIG.\p"
 	.string "Your love of cycling comes from deep\n"
 	.string "within your heart.\l"
 	.string "You've shaken me to my very soul!$"
@@ -935,41 +937,45 @@ Route110_Text_AcroBikesDoNotQualify:
 	.string "They are easy to turn, so it's not fair.$"
 
 Route110_Text_SlateportCitySign:
-	.string "Route 110\n"
-	.string "{DOWN_ARROW} Slateport City$"
+	.string "Boane 110\n"
+	.string "{DOWN_ARROW} Nieuwpoort$"
 
 Route110_Text_CyclingRoadSign:
 	.string "Seaside Cycling Road$"
 
 Route110_Text_AquaWasHere:
-	.string "“Team Aqua was here!”\p"
-	.string "Someone painted that onto this sign,\n"
-	.string "but then someone else painted over it.\p"
-	.string "“Team Magma rules!” is what it\n"
-	.string "says now.$"
+	.string "Der stond ier “Temmer Tips”\p"
+	.string "ma propahandist'n van Team Aqua en Mahma\n"
+	.string "ènt hans beklad.\p"
+	.string "{PLAYER}: Ting mie dak nie den\n"
+	.string "enihsten zin die z'n hat veegt\l"
+	.string "aan die miserabele tips.$"
 
 Route110_Text_Route103Sign:
-	.string "Route 110\n"
-	.string "{LEFT_ARROW} Route 103$"
+	.string "Boane 110\n"
+	.string "{LEFT_ARROW} Boane 103$"
 
 Route110_Text_SeasideParkingSign:
-	.string "Seaside Parking$"
+	.string "Parking oan de Zji$"
 
 Route110_Text_MauvilleCitySign:
-	.string "Route 110\n"
-	.string "{UP_ARROW} Mauville City$"
+	.string "Boane 110\n"
+	.string "{UP_ARROW} Knokke$"
 
 Route110_Text_TrainerTipsPrlzSleep:
-	.string "Trainer Tips\p"
-	.string "The foe can be made helpless by\n"
-	.string "paralyzing it or causing it to sleep.\p"
-	.string "It is an important technique for\n"
-	.string "Pokémon battles.$"
+	.string "Temmer Tips\p"
+	.string "Aje de batteringe oant verliez'n zyt,\n"
+	.string "kundje wok geweune den Temmer zelf\l"
+	.string "ip zen mulle geevn.\p"
+	.string "{PLAYER}: 'k Goa vooral den oteur\n"
+	.string "van die achterlike tips ip zen\l"
+	.string "vunzige mulle geven.$"
 
 Route110_Text_TrainerTipsRegisterItems:
-	.string "Trainer Tips\p"
-	.string "The items in the Bag can be reorganized\n"
-	.string "by pressing Select.$"
+	.string "Temmer Tips\p"
+	.string "Sorteert dingen in uwe zak met SELECT.\p"
+	.string "{PLAYER}: Ahzo, en nu goan we\n"
+	.string "e bitje de vierde muur breekn, joa?$"
 
 Route110_Text_TrickHouseSign:
 	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
@@ -992,24 +998,26 @@ Route110_Text_ImagineSeeingYouHere:
 
 Route110_Text_HeardYouInstallMatchCall:
 	.string "Ah, 'k verstoat!\n"
-	.string "You two are running separately.\l"
-	.string "Well, that's fine.\p"
-	.string "Oh, yes, I heard that your Pokénav\n"
-	.string "had the Match Call system installed.\p"
-	.string "Well, then, I should register you in\n"
-	.string "my Pokénav as well.\p"
-	.string "That way, even when we're apart,\n"
-	.string "I can rate your Pokédex anytime.\p"
+	.string "Ge lwôpt nie twope.\l"
+	.string "Das vré wel.\p"
+	.string "Seg eh. En oe skit da me jen\n"
+	.string "Pokédex? Nie verheetn daje\p"
+	.string "utterst woardevol onderzoek vo\n"
+	.string "min iplevert é!\p"
+	.string "Kgoa je min nummer heven,\n"
+	.string "ton kank zehhen wada jen\l"
+	.string "vooruthank es. Allez 't beste é.\p"
+	.string "Ah wachte, gif ke je numéro.\p"
 	.string "… … … … … …$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Registered Prof. Birch\n"
-	.string "in the Pokénav.$"
+	.string "Prof. Gerrit Callewaert\n"
+	.string "es herehistreerd in je Pokénav.$"
 
 Route110_Text_KeepAnEyeOutForRival:
-	.string "Prof. Birch: {PLAYER}{KUN}…\p"
-	.string "Please keep an eye out for my {RIVAL}.\n"
+	.string "Prof. C.: {PLAYER}{KUN}…\p"
+	.string "Od een oogske in 't zeil vo {RIVAL}.\n"
 	.string "… … … … … …\p"
-	.string "Well, I had better get going.\n"
-	.string "See you again, {PLAYER}{KUN}!$"
+	.string "Allez, kzin deure. Nu voor echte.\n"
+	.string "'t Beste é, {PLAYER}{KUN}!$"
 
