@@ -889,33 +889,35 @@ Route110_Text_CyclingChallengeResultSummary:
 
 Route110_Text_ChallengeReactionBest:
 	.string "BRAVO! Da wa MAHHTIG.\p"
-	.string "Your love of cycling comes from deep\n"
-	.string "within your heart.\l"
-	.string "You've shaken me to my very soul!$"
+	.string "Uw liefde voor et fiets'n\n"
+	.string "komt diep van uw 'erte.\l"
+	.string "Kieksè, ben der echt ontroerd van!$"
 
 Route110_Text_ChallengeReactionGood:
-	.string "Your technique is remarkable.\p"
-	.string "I suggest you speed up a bit while\n"
-	.string "still avoiding collisions.$"
+	.string "Nie slecht.\p"
+	.string "Probjirt nog e bitje snellid\n"
+	.string "te pakk'n zonder te bots'n.$"
 
 Route110_Text_ChallengeReactionOk:
-	.string "I would consider you a work in\n"
-	.string "progress.\p"
-	.string "Still, I hope you don't forget the\n"
-	.string "sheer pleasure of cycling.$"
+	.string "'T es nie mis...\n"
+	.string "ma 't is wok nie al da.\p"
+	.string "Me de vélo rieën, ge moe da\n"
+	.string "nie enkel voel'n in u' kietn,\l"
+	.string "ma wok in u' 'erte.$"
 
 Route110_Text_ChallengeReactionBad:
-	.string "My word… Your cycling skills border\n"
-	.string "on terrifying.\p"
-	.string "Most certainly, you need much more\n"
-	.string "practice riding.$"
+	.string "Mo gie absolute mutn…\n"
+	.string "Moeje gin steunwieletjes èn?\p"
+	.string "Astenblief, oefent e bitje voorda\n"
+	.string "je uzelve en ons als fietsers\l"
+	.string "hjil belachelik moakt.$"
 
 Route110_Text_ChallengeReactionWorst:
-	.string "…I am aghast…\p"
-	.string "You're perhaps not cut out for this\n"
-	.string "unfortunate cycling business.\p"
-	.string "You ought to give serious thought to\n"
-	.string "returning that Bike to Rydel.$"
+	.string "…Gie…\n"
+	.string "geeft uw Haarmin moar af.\p"
+	.string "De wjirld is beter af aje gie nwoois\n"
+	.string "te nimmer nog ne vélo oanroakt.\l"
+	.string "Ga na Kwikstep en verkwôpt em.$"
 
 Route110_Text_RatedForNumberOfCollisions:
 	.string "This is Cycling Road.\p"
