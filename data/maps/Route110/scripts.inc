@@ -920,9 +920,9 @@ Route110_Text_ChallengeReactionWorst:
 	.string "Ga na Kwikstep en verkwôpt em.$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "Ip de fietsboane moet et rap goan.\p"
+	.string "Ip de fietssnelwehh moet et rap goan.\p"
 	.string "Ip u hemak, da kenn' z'ier nie.\n"
-	.string "Allez, past ip, daje gin accidenten\l"
+	.string "Allez, past ip, daje hin accidenten\l"
 	.string "veroorzoakt, of de flikk'n goan wel\l"
 	.string "'ip 't hemak' e pv'ke ipstell'n.$"
 
@@ -932,18 +932,18 @@ Route110_Text_AlwaysAimHigher:
 	.string "De skaai is de limit é zeg!$"
 
 Route110_Text_AcroBikesDoNotQualify:
-	.string "On this Cycling Road, those riding\n"
-	.string "Mach Bikes are rated for their number\l"
-	.string "of collisions and their total times.\p"
-	.string "Acro Bikes do not qualify for rating.\n"
-	.string "They are easy to turn, so it's not fair.$"
+	.string "Mach Vélos, das knall'n.\n"
+	.string "Aje damee zoeft ip de fietssnelweh,\l"
+	.string "ton word'n u botsingen heteld.\p"
+	.string "Me Acro Vélos niet whé.\n"
+	.string "Da zou nog e bitje te makkelik zin é.$"
 
 Route110_Text_SlateportCitySign:
 	.string "Boane 110\n"
 	.string "{DOWN_ARROW} Nieuwpoort$"
 
 Route110_Text_CyclingRoadSign:
-	.string "Fietsboane langs de zji$"
+	.string "Fietssnelweh langs de zji$"
 
 Route110_Text_AquaWasHere:
 	.string "Der stond ier “Temmer Tips”\p"
