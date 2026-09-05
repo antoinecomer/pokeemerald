@@ -920,16 +920,16 @@ Route110_Text_ChallengeReactionWorst:
 	.string "Ga na Kwikstep en verkwôpt em.$"
 
 Route110_Text_RatedForNumberOfCollisions:
-	.string "This is Cycling Road.\p"
-	.string "If you were to ride from Mauville to\n"
-	.string "Slateport on a Mach Bike, you would\l"
-	.string "be rated for the number of collisions\l"
-	.string "and your total time.$"
+	.string "Ip de fietsboane moet et rap goan.\p"
+	.string "Ip u hemak, da kenn' z'ier nie.\n"
+	.string "Allez, past ip, daje gin accidenten\l"
+	.string "veroorzoakt, of de flikk'n goan wel\l"
+	.string "'ip 't hemak' e pv'ke ipstell'n.$"
 
 Route110_Text_AlwaysAimHigher:
-	.string "Regardless of the results, I count on\n"
-	.string "seeing more challenges from you.\l"
-	.string "Always aim higher!$"
+	.string "Bluv'n knalln.\n"
+	.string "Bluv'n goan.\l"
+	.string "De skaai is de limit é zeg!$"
 
 Route110_Text_AcroBikesDoNotQualify:
 	.string "On this Cycling Road, those riding\n"
@@ -943,7 +943,7 @@ Route110_Text_SlateportCitySign:
 	.string "{DOWN_ARROW} Nieuwpoort$"
 
 Route110_Text_CyclingRoadSign:
-	.string "Seaside Cycling Road$"
+	.string "Fietsboane langs de zji$"
 
 Route110_Text_AquaWasHere:
 	.string "Der stond ier “Temmer Tips”\p"
@@ -980,18 +980,18 @@ Route110_Text_TrainerTipsRegisterItems:
 	.string "e bitje de vierde muur breekn, joa?$"
 
 Route110_Text_TrickHouseSign:
-	.string "“Three steps {RIGHT_ARROW} and two steps {UP_ARROW}\n"
-	.string "to reach the wondrous Trick House.”$"
+	.string "“Drie na {RIGHT_ARROW} en twji na {UP_ARROW}\n"
+	.string "om in et FopUs te kom'n.”$"
 
 Route110_Text_BestRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No. of collisions: {STR_VAR_1}\p"
-	.string "Elapsed time: {STR_VAR_2}$"
+	.string "De HOOHSTE score…\p"
+	.string "Aantal accident'n: {STR_VAR_1}\p"
+	.string "Tid hebrukt: {STR_VAR_2}$"
 
 Route110_Text_ThereIsNoRecord:
-	.string "THE BEST RECORD TO DATE…\p"
-	.string "No one seems to have taken the\n"
-	.string "challenge. There is no record…$"
+	.string "De HOOHSTE score…\p"
+	.string "N'es noh niemand die et\n"
+	.string "heprobjird è…$"
 
 Route110_Text_ImagineSeeingYouHere:
 	.string "Prof. Gerrit C.: Moh, {PLAYER}{KUN}!\n"
