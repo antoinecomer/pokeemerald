@@ -697,80 +697,84 @@ Route110_TrickHouseEntrance_EventScript_DoHidingSpotSparkle::
 	return
 
 Route110_TrickHouseEntrance_Text_YoureBeingWatched:
-	.string "You're being watched…$"
+	.string "He wurdt bekek'n…$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this desk? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this tree? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this dresser? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConealedBeyondWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beyond this window? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInPlanter:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this planter? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "in this cupboard? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "behind this window? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
-	.string "Hah? Grrr…\p"
-	.string "How did you know I concealed myself\n"
-	.string "beneath this cushion? You're sharp!$"
+	.string "Hah? Hrrr…\p"
+	.string "Ting mie daje gie een\n"
+	.string "e skerp oohh ebt!$"
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
-	.string "Behold!\p"
-	.string "For I am the greatest living mystery\n"
-	.string "of a man in all of Hoenn!\l"
-	.string "They call me…\p"
-	.string "The Trick Master!\n"
-	.string "Wahahaha! Glad to meet you!$"
+	.string "Ziet dat oan!\p"
+	.string "Ik benne et hrwôtste mysterie\n"
+	.string "in hans Oen! Tzal wel zin!\l"
+	.string "Ze noemen mie…\p"
+	.string "De Führer!\n"
+	.string "… … … … … foptje é.\p"
+	.string "Oké, ik bedoele eihenlik!\p"
+	.string "Ze noemen mie…\n"
+	.string "De Puzzelmaster!\p"
+	.string "Ieder zot zin eihe kot é!\p"
+	.string "Wahahaha! Oangenoam!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
-	.string "You, you've come to challenge\n"
-	.string "my Trick House, haven't you?\p"
-	.string "That's why you're here, isn't it?\n"
-	.string "Yes, it is!\p"
-	.string "Consider your challenge accepted!\p"
-	.string "Enter through the scroll there,\n"
-	.string "and let your challenge commence!\p"
-	.string "I shall be waiting in the back!$"
+	.string "Gie, gie zie hekom'n om\n"
+	.string "et Trukendoos ut te doagn é?\p"
+	.string "He zie moedih!\p"
+	.string "Goa binnen via 't manuscript,\n"
+	.string "en mohe et spel behinn'n!\p"
+	.string "'k Goa ip je wachtn achteran!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
-	.string "It's a scroll.$"
+	.string "Et es een manuscript.$"
 
 Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
-	.string "There is a big hole behind the scroll!\p"
-	.string "Want to go in?$"
+	.string "Der is een hihantisch hat achter et\n"
+	.string "manuscript!\p"
+	.string "Wildje derin goan?$"
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
-	.string "There is a note affixed to the scroll…\p"
-	.string "“I am leaving on a journey.\n"
-	.string "Don't look for me. Trick Master”$"
+	.string "Der 'angt een papierke aant manuscript.\p"
+	.string "“Kzin deur.\n"
+	.string "Moe nie zoekn. Puzzelmaster.”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "For the next time, I'll use this trick,\n"
+	.string "De naste kji, goak da trucke,\n"
 	.string "and that scheme, and those ruses…\p"
 	.string "Mufufufu… If I may say so, it's\n"
 	.string "brilliantly difficult, even for me!$"

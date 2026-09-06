@@ -981,7 +981,7 @@ Route110_Text_TrainerTipsRegisterItems:
 
 Route110_Text_TrickHouseSign:
 	.string "“Drie na {RIGHT_ARROW} en twji na {UP_ARROW}\n"
-	.string "om in et FopUs te kom'n.”$"
+	.string "om in de Trukendoos te kom'n.”$"
 
 Route110_Text_BestRecord:
 	.string "De HOOHSTE score…\p"
