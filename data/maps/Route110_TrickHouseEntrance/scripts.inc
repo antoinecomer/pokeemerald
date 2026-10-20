@@ -741,15 +741,17 @@ Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "Ziet dat oan!\p"
-	.string "Ik benne et hrwôtste mysterie\n"
-	.string "in hans Oen! Tzal wel zin!\l"
-	.string "Ze noemen mie…\p"
+	.string "Ik zin et hrwôtste mysterie\n"
+	.string "in hans Oen! HANS. OEN.\l"
+	.string "Ze noem'n mie…\p"
 	.string "De Führer!\n"
 	.string "… … … … … foptje é.\p"
 	.string "Oké, ik bedoele eihenlik!\p"
 	.string "Ze noemen mie…\n"
-	.string "De Puzzelmaster!\p"
-	.string "Ieder zot zin eihe kot é!\p"
+	.string "De kwismaaster!\p"
+	.string "{PLAYER}: Meer lik de kwibus, haha.\p"
+	.string "Kwibus: Ook alst mjir puzzln dan kwizzen!\p"
+	.string "Eje gie mie juste kwibus genoemd?\p"
 	.string "Wahahaha! Oangenoam!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
@@ -771,60 +773,63 @@ Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
 	.string "Der 'angt een papierke aant manuscript.\p"
 	.string "“Kzin deur.\n"
-	.string "Moe nie zoekn. Puzzelmaster.”$"
+	.string "Deur de meur.\l"
+	.string "Nie letterlik é. Tenzij?\p"
+	.string "Mo serieus, nie zoekn. Ben nie tus.\p"
+	.string "Hroetn van de Kwibus.”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "De naste kji, goak da trucke,\n"
-	.string "and that scheme, and those ruses…\p"
-	.string "Mufufufu… If I may say so, it's\n"
-	.string "brilliantly difficult, even for me!$"
+	.string "De naste kji, goak da truukske,\n"
+	.string "en da skema, en die valstrikkn…\p"
+	.string "Mufufufu… al zehhiket zelve,\n"
+	.string "tgoa beeeeire moeilik zin!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
-	.string "Hah? What?!\n"
-	.string "Oh, it's you!\p"
-	.string "I'm in the midst of devising new tricky\n"
-	.string "challenges!\p"
-	.string "It's not too much to ask for a bit more\n"
-	.string "time for me to think, is it now?\l"
-	.string "You wouldn't begrudge me that?\l"
-	.string "Come back in a little while!$"
+	.string "Hah? WA?!\n"
+	.string "Oh, 't es gie!\p"
+	.string "Kwoarn 'k ik juste nieuwe puzzels\n"
+	.string "oant utvind'n!\p"
+	.string "Zeg, gif mie e bitje rumte é.\n"
+	.string "'k Moe 'k ik in RUST en STILTE\l"
+	.string "kunn' peizn. Daddis toch normoal?\l"
+	.string "Abaja é! Allez skart em.$"
 
 Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward:
-	.string "Ah, it's you! You're here to accept the\n"
-	.string "reward from before, isn't that right?\l"
-	.string "Yes, right I am!\p"
-	.string "Here!\n"
-	.string "I'll give it to you now!$"
+	.string "Ah 't is gij! Ge zijt ier vo\n"
+	.string "de skwone prijs van de vorige ke toch?\l"
+	.string "'k Dacht et al!\p"
+	.string "Ierse!\n"
+	.string "Welverdiend!$"
 
 Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
-	.string "Hah?\n"
-	.string "Did you not come to claim your reward?$"
+	.string "WA. Da kan nie.\n"
+	.string "Nie me min klootn rammeln é moat.$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "MECHADOLL 5 I AM!\n"
-	.string "IF REWARD IS NOT TAKEN BY YOU,\l"
-	.string "THEN TRICK MASTER YOU CANNOT FOLLOW.\p"
-	.string "RED TENT OR BLUE TENT,\n"
-	.string "WHICH DO YOU PREFER?$"
+	.string "IK...ZIN...MECHA..MINDY..5!\n"
+	.string "GEEN PRIJS? TON MEUG JE\l"
+	.string "DE KWIBUS NIE VOLHEN.\p"
+	.string "DE RWOOIE TENTE, OF DE BLAUWE?\n"
+	.string "WUK EJE LIEVR?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "THEN FAREWELL.$"
+	.string "TON VOARWEL.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "YOUR PC STATUS: FULL AGAIN.\n"
-	.string "MEAN, YOU ARE.$"
+	.string "UW PC STATUS: ALWEER VUL.\n"
+	.string "WUK E DA ME HIE EIHELIK.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
-	.string "{PLAYER} found a scroll.$"
+	.string "{PLAYER} vond e papierke.$"
 
 Route110_TrickHousePuzzle_Text_MemorizedSecretCode:
-	.string "{PLAYER} memorized the secret code\n"
-	.string "written on the scroll.$"
+	.string "{PLAYER} ljirde de heheime code vanbuttn\n"
+	.string "en ie verhat em nwoois mé.$"
 
 Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
-	.string "A secret code is written on it.$"
+	.string "Een heheime code stoat ier ip.$"
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
-	.string "The door is locked.\p"
-	.string "…On closer inspection, this is written\n"
-	.string "on it: “Write the secret code here.”$"
+	.string "De deur es toe. Kut.\p"
+	.string "…Ma nu dak nog ne ke kieke, er stoat ier:\n"
+	.string "“Skrift de heheime code ier.”$"
