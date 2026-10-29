@@ -751,7 +751,8 @@ Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "De kwismaaster!\p"
 	.string "{PLAYER}: Meer lik de kwibus, haha.\p"
 	.string "Kwibus: Ook alst mjir puzzln dan kwizzen!\p"
-	.string "Eje gie mie juste kwibus genoemd?\p"
+	.string "Eje gie mie juste kwibus genoemd?\n"
+	.string "(De kwibus skrift et ip.)\p"
 	.string "Wahahaha! Oangenoam!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:

@@ -43,11 +43,11 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“Trick Master is my life.”\n"
+	.string "{PLAYER} skrifdehe de heheime code\n"
+	.string "ip de deure.\p"
+	.string "“Kwibus is love. Kwibus es LAAIF.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
 	.string "When I heard there was a strange\n"

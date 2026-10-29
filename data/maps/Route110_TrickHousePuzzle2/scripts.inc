@@ -100,42 +100,44 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“Trick Master is smart.”\n"
+	.string "{PLAYER} skrifdehe de heheime code\n"
+	.string "ip de deure.\p"
+	.string "“De kwibus is slimme.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
-	.string "Which switch closes which hole?$"
+	.string "Men neme de kubus, en steke hem\n"
+	.string "int rond hatje...?$"
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "After that battle, I'm even more\n"
-	.string "confused!$"
+	.string "Seg, die kubus past\n"
+	.string "ier ook in!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Can I get you to push all the buttons\n"
-	.string "for me?$"
+	.string "Ik èn 'k ik een DOORBROAK in\n"
+	.string "me onderzoek hedoan seg!$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! You're on your second Trick House\n"
-	.string "challenge!$"
+	.string "Owla, ronde twji van de kwibus?\n"
+	.string "Bere!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
-	.string "You're good at battling too?$"
+	.string "Ah, 'k zie waroem daje al ier zit.$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "The Trick Master rigged all the tricks\n"
-	.string "in this house all by himself.$"
+	.string "De kwibus bouwt hans dien eskééproem\n"
+	.string "ip z'en eihen. Toch de moeite é.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "I want to make my own Gym one day.\n"
-	.string "So, I'm studying how to set traps.$"
+	.string "Ik wil men eigen Gym kunnen bouwn.\n"
+	.string "Dus 'k ben ip stage bie de Kwibus\l"
+	.string "om vall'n/puzzels te ljirn moakn.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-	.string "I didn't study battling enough!$"
+	.string "'k Zou mie bjitr bitje focussn ip battern!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "You're strong, aren't you?\n"
-	.string "Maybe even enough to be a Gym Leader!$"
+	.string "Gie zie sterk, nje?\n"
+	.string "Miskien wel Gym Leidr potentieel!$"
 

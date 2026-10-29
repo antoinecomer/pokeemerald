@@ -28,11 +28,11 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“Trick Master is cool.”\n"
+	.string "{PLAYER} skrifdehe de heheime code\n"
+	.string "ip de deure.\p"
+	.string "“De kwibus es stoer.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
 	.string "It's too much bother to think this out.\n"

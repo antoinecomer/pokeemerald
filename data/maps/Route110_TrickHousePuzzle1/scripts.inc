@@ -37,41 +37,41 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“Trick Master is fabulous.”\n"
+	.string "{PLAYER} skrifdehe de heheime code\n"
+	.string "ip de deure.\p"
+	.string "“De kwibus is heweldig.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the Cut we just learned!$"
+	.string "CUT ier! CUT doar! CUT ip uw muil!\n"
+	.string "Verliezen? Das peren me CUT!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
-	.string "Why are you so serious?$"
+	.string "CUTzooi...$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.string "Amai gie CUT er nogal wa van,\n"
+	.string "nie? Njeeeee?$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.string "Ik benkik hjil verdwoald zeg.\n"
+	.string "Belt den 112…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
-	.string "And now I've lost…$"
+	.string "Verdwoald en vernederd…$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.string "Toen Kurt Cobain in de shit zat,\n"
+	.string "éet ie ook gin paracetamol gepakt é…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the Trick Master?$"
+	.string "Wien es dien kwibus eihenlik?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
-	.string "I lost while I was lost in thought!$"
+	.string "Tel nie whé 'k was oant peizn!$"
 
 Route110_TrickHousePuzzle1_Text_RobinPostBattle:
-	.string "You're strong!\n"
-	.string "Just who are you?$"
+	.string "Amai gie traint je Pokémons wel hoêd!\n"
+	.string "Wie zije gie eihenlik?$"
 

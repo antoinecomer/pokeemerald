@@ -315,11 +315,11 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“Trick Master is huggable.”\n"
-	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "{PLAYER} skrifdehe de heheime code\n"
+	.string "ip de deure.\p"
+	.string "“De kwibus es...knuffelboar?”\n"
+	.string "… … … … … roarn …\p"
+	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
 	.string "The Trick Master always vanishes\n"
