@@ -35,36 +35,37 @@ Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
-	.string "It's too much bother to think this out.\n"
-	.string "I only wanted to battle!$"
+	.string "Peizen peizen peizen.\n"
+	.string "'k Moe 'k ik godganse doagn peizen!\p"
+	.string "'k Goat u ke twôn'n wukdak peis!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
-	.string "Even though I lost, I still like battling\n"
-	.string "the best!$"
+	.string "Amai, ikke verloren?\n"
+	.string "Daddak nie gepeist!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Wouldn't you agree? You would go\n"
-	.string "anywhere if Trainers were there.$"
+	.string "Hmmmmmmmmm...\$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Heh! Boulders like this, I can brush\n"
-	.string "aside with one finger!$"
+	.string "Heh! Die rotsen duwen.\n"
+	.string "Ik é da gin Pokémon vo nodig whé!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-	.string "I can push boulders, but I can't solve\n"
-	.string "the puzzle…$"
+	.string "'k Zou beter ke min brein trainen\n"
+	.string "in plekke van men arms…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-	.string "It's not good enough to be brawny…\n"
-	.string "You have to use your head. Be brainy!$"
+	.string "Gebrukt u koppeke zei min pa…\n"
+	.string "Mja. En sebiet leg day ook zeker!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "The Trick House is getting trickier,\n"
-	.string "isn't it?$"
+	.string "Ik HOATTE PUZZELS.\n"
+	.string "En FUCK Sudoku's!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:
-	.string "Aaak!$"
+	.string "Aaak! Fuck Wordle!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaPostBattle:
-	.string "Has anyone made it to the end?$"
+	.string "De hrwôtste kutpuzzel van allemolle?\n"
+	.string "Blad stjin schoar!$"
 

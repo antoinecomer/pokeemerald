@@ -909,120 +909,122 @@ Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 1 AM I!\p"
-	.string "IF YOU ANSWER QUIZZES CORRECTLY,\n"
-	.string "THEN YOU WILL GO TO MECHADOLL 5.\l"
-	.string "THEN YOU CAN OBTAIN THE SECRET CODE.$"
+	.string "KLIK-KLAK…\n"
+	.string "ROBOPOP 1, IK ZIN!\p"
+	.string "ANTWOORD JUSTE?\n"
+	.string "TON MEUG JE NOAR ROBOPOP 5.\l"
+	.string "VOOR DE HEHEIME CODE.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these Pokémon is not found\n"
-	.string "on Route 110. Which one is it?$"
+	.string "ROBOPOP 1 QUIZ.\p"
+	.string "WELKE POKEMON IS NIET\n"
+	.string "TE VINDN IP DEN 110 (DE BOANE)?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these Pokémon is not of the\n"
-	.string "Water type. Which one is it?$"
+	.string "ROBOPOP 1 QUIZ.\p"
+	.string "WELKIN IS GIN WOATR\n"
+	.string "TYPE?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
-	.string "MECHADOLL 1 QUIZ.\p"
-	.string "One of these Pokémon does not use\n"
-	.string "Leech Life. Which one is it?$"
+	.string "ROBOPOP 1 QUIZ.\p"
+	.string "WELKJIN GEBRUKT NIEVERST TE\n"
+	.string "NIMMER LEECH LIFE?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "CONGRATULATIONS. CORRECT YOU ARE.\n"
-	.string "GO THROUGH. PLEASE.$"
+	.string "BRAVO.\n"
+	.string "GA MA DEURE.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. DISAPPOINTMENT.\n"
+	.string "BZZZT. DWOAZE MUTN HEDETECTEERD.\n"
 	.string "ERROR.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
 	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "CLICKETY-CLACK!$"
+	.string "KLIKKERDE-KLAK!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
-	.string "YOUR NEXT CHALLENGE WE WAIT FOR.$"
+	.string "TOT. DE. VOLHENDE.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 2 AM I!\p"
-	.string "MECHADOLL 1'S QUIZ DIFFICULTY LEVEL\n"
-	.string "IS SET TOO LOW.$"
+	.string "KLIKKERDE-KLAK…\n"
+	.string "ROBOPOP 2 IK ZIN!\p"
+	.string "ROBOPOP 1'S NIVEAU WAS\n"
+	.string "TE ACHTERLIK.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these Pokémon did Wally\n"
-	.string "borrow from your father?$"
+	.string "ROBOPOP 2 QUIZ.\p"
+	.string "WELKJIN VAN DEZE POKEMON\n"
+	.string "ÉET WALLY ME ZIN KLITOREN\l"
+	.string "VAN U VOADRE HELEEND?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these Pokémon was chasing\n"
-	.string "Prof. Birch?$"
+	.string "ROBOPOP 2 QUIZ.\p"
+	.string "WELKNE POKEMON JOAGDE\n"
+	.string "IP GERRIT CALLEWAERT?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
-	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Which of these Pokémon did Team Aqua\n"
-	.string "use in Petalburg Forest?$"
+	.string "ROBOPOP 2 QUIZ.\p"
+	.string "WELKE POKEMON HEBRUKTEHE\n"
+	.string "DA STUKSKE CRAPUL VAN TEAM AQUA?\l"
+	.string "DIE ENE KE IN 'T KENNEDYBOS?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 3 AM I!\p"
-	.string "MATTERS OF MONEY ARE MY SOLE FOCUS.$"
+	.string "KLIKKERDE-KLAK…\n"
+	.string "ROBOPOP 3, IK ZIN!\p"
+	.string "LOAT ET GELD MA ROLLEN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Which costs more?\n"
-	.string "Three Harbor Mails or one Burn Heal?$"
+	.string "ROBOPOP 3 QUIZ.\p"
+	.string "WUK KOST ER MJIR?\n"
+	.string "DRIE Harbor Mails of JIN Burn Heal?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sell one Great Ball and buy\n"
-	.string "one Potion. How much money remains?$"
+	.string "ROBOPOP 3 QUIZ.\p"
+	.string "VERKWOPT JIN Great Ball EN\n"
+	.string "JIN Potion. OEVEEL SKIET ER OVER?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
-	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Do one Repel and Soda Pop cost\n"
-	.string "more than one Super Potion?$"
+	.string "ROBOPOP 3 QUIZ.\p"
+	.string "1 REPEL + 1 SODA POP,\n"
+	.string "IS DA MJIR DAN JIN Super Potion?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 4 THAT IS ME!\p"
-	.string "MY QUIZ IS AN OBJECT OF BEAUTY.$"
+	.string "KLIKKERDE-KLAK…\n"
+	.string "ROBOPOP 4 BENNEKIK!\p"
+	.string "MIJN QUIZ IS SKWONID. PRACHT.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In Seashore House, were there more men\n"
-	.string "or women?$"
+	.string "ROBOPOP 4 QUIZ.\p"
+	.string "IN DE GROTE KRAAKVIS, WOARN DER\n"
+	.string "MJIR VINTEN OF WUVVEN?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In Lavaridge Town, were there more\n"
-	.string "elderly men or elderly women?$"
+	.string "ROBOPOP 4 QUIZ.\p"
+	.string "IN Lavaridge Town, WOARN DER\n"
+	.string "MEER ODDE PÉS? OF ODDE MÉMÉS?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
-	.string "MECHADOLL 4 QUIZ.\p"
-	.string "In the Trainer's School, how many\n"
-	.string "girl students were there?$"
+	.string "ROBOPOP 4 QUIZ.\p"
+	.string "INT SKOOLTJE VO TEMMERS, OEVJILLE\n"
+	.string "VROUWELIKE STUDENTN WOARN DER?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "CLICKETY-CLACK…\n"
-	.string "MECHADOLL 5 AM I!\p"
-	.string "THE MASTER'S BEST AND PROUDEST\n"
-	.string "ACHIEVEMENT AM I.$"
+	.string "KLIKKERDE-KLAK…\n"
+	.string "ROBOPOP 5, IK ZIN!\p"
+	.string "MIN MEESTER'S HRWOOTSTE\n"
+	.string "CREATIE.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In Slateport's Pokémon Fan Club,\n"
-	.string "how many Pokémon were there?$"
+	.string "ROBOPOP 5 QUIZ.\p"
+	.string "OEVJIL POKEMONS WOARN DER IN\n"
+	.string "DE FAN CLUB VAN NIEUWPOORT?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "In Fortree City, how many\n"
-	.string "tree houses were there?$"
+	.string "ROBOPOP 5 QUIZ.\p"
+	.string "OEVJIL BLOKHUTN ZIN DER\n"
+	.string "IN GENT?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
-	.string "MECHADOLL 5 QUIZ.\p"
-	.string "On the Cycling Road, how many\n"
-	.string "Triathletes were there?$"
+	.string "ROBOPOP 5 QUIZ.\p"
+	.string "IP DE FIETSSNELWEG,\n"
+	.string "OEVJIL TRAITLETEN WOARN DER?$"

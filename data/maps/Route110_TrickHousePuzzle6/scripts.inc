@@ -50,38 +50,38 @@ Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "Een roar us,\n"
+	.string "doar oor ik tus.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough Trainer!$"
+	.string "Gie zijt ier ook tus! In 't ZotUs!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "Aaah...niets beters dan\n"
+	.string "mentoal hestoorde puzzels.\p"
+	.string "Oost west,\n"
+	.string "us best!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my Bird Pokémon\n"
-	.string "to fly over the wall…$"
+	.string "Miskien kunn min vohels\n"
+	.string "hewone euver de muur vliehen…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+	.string "Gwaaah! DJU E! GODVERDOMME!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "Ehehehe… kèn verzekers verloren\n"
+	.string "omdak ne valsspeler ben.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "Die droaiende deuren moat,\n"
+	.string "moakn mie gans mulle…bueerk$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "Eje gie nen emmer?\n"
+	.string "Ughhh…please…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "Fuck. Ugh.\n"
+	.string "Spaghetti histern, ughhh..$"
 

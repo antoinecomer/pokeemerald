@@ -322,71 +322,69 @@ Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The Trick Master always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "De kwibus doe alsof datie Batman is.\n"
+	.string "Ie is meer lik. De penguin.$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aiaiai!\n"
+	.string "Zo vluhh als de Flash!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Wie is uw favorieten super'eld.\n"
+	.string "Ik peize..Professor X. Rip de goat.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Kerekewere…\n"
+	.string "U goat niet langs start…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Hm!\n"
+	.string "Ik goa noar de hevangenis…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Ik ontvange gin 100 ballen…$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Ik eb et hevoel daje gij da ier\n"
+	.string "ollemoale goat oploss'n.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "AHA!\n"
+	.string "Ik zit ipt goei spoor!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "Trick House. That's the feeling I get.$"
+	.string "Allez! Lost dien boel ier ip.\n"
+	.string "En ton kank noar us.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Nufufufu, eindelik zije ier!\n"
+	.string "Ik a voorspeld daj ging kom'n!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Daddéet min oroscoop nie gezegd whe!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Humph!\n"
+	.string "Ellendigen boogschutter!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Ke je wel gezien whe!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Ma…daddak niet hezien.$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Hmm.\n"
+	.string "We zin slecht begonnen.\p"
+	.string "Van ene roarn tot nen anderen,\n"
+	.string "ik wens u et beste toe!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "'t Is ier nog e bitje claustrofobisch…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Nu ist ier nog enger.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "'k Goa 'k ik ons maatje belln…$"
 

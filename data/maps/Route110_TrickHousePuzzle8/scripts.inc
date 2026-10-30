@@ -35,37 +35,33 @@ Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many Trainers have made it\n"
-	.string "this far.$"
+	.string "Ge zijt ver\n"
+	.string "heroakt vo n'en Temmer.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "Indrukwekkend…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the Pokémon League\n"
-	.string "Champion? That's too much!$"
+	.string "GIJ ZIJT DE LIGA KAMPIOEN?!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Aan U de eer om me min te battern!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string ".................!\n"
+	.string "WA!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Chançard. Een miroakel.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the Trick\n"
-	.string "House challenge, too.$"
+	.string "Moetn wudr echt battern?$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Jah…\n"
+	.string "'t Was te peizn.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the Trick Master.$"
+	.string "'t Is een eer om tegen iemand\n"
+	.string "lik gie te verliezn.$"
 

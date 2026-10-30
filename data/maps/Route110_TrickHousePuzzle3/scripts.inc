@@ -309,37 +309,40 @@ Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
 	.string "Moh! He hoort een klik.$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "'k Zit hjil vast!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "'k Zit al in de shit,\n"
+	.string "en gie trapt nog ke na! Mutn!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "Al die deurn!\n"
+	.string "Woar leidn ze naartoe!\l"
+	.string "Kzalt u zeggen!\p"
+	.string "De on-deur-hank!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "Wuk hebeurt er ier?\n"
+	.string "Ik oor 'e 'k ik ier nie tus…$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+	.string "Mohow…!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "'k Weete dak zwak zin!\n"
+	.string "En ik heroak nerhens nie zondr\l"
+	.string "Hoehel maps!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "'k Snap et nie. Wie zo 't er nu\n"
+	.string "geïnteresserd in zukn ljilik us?$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "'k Snap et nie.\n"
+	.string "Oe ènkik nu kunn' verliezn?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "'k Snap et nie.\n"
+	.string "Oevjil trapp'n éet da'd us?\p"
+	.string "{PLAYER}: Ting mie daj weinig snapt.$"
 
