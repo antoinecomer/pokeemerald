@@ -576,106 +576,114 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-	.string "Hello! I take it you're a traveler.\p"
-	.string "How's this? What do you say to taking\n"
-	.string "on our family of four in a series of\l"
-	.string "Pokémon battles?$"
+	.string "NOG NE HETUIHE VAN JEHOVA?\p"
+	.string "'Et interesséért me NIET!\p"
+	.string "… … … … … … … … … …\n"
+	.string "Ah. Daddis een misverstandje.\p"
+	.string "Hojach. Ge kent daddé.\p"
+	.string "'k Meuge mie nie opjoagen,\n"
+	.string "'t Es sligt vo min 'erte.\p"
+	.string "Dus wuk peisdje? Batteringske?$"
 
 Route111_Text_IsThatSo:
-	.string "Is that so?\n"
-	.string "Drop in, if you change your mind!$"
+	.string "Min erte is u dankboar.\n"
+	.string "Mo moestje van hedacht verandern, é!\p"
+	.string "Springt ton binnen é!$"
 
 Route111_Text_VictorIntro:
-	.string "That's the spirit! I like you!$"
+	.string "Daddis hesproken!$"
 
 Route111_Text_VictorDefeat:
-	.string "Aiyah!\n"
-	.string "You're a lot tougher than I expected!$"
+	.string "Ai! Tel niet!\n"
+	.string "Min erte! Belt een amblance!$"
 
 Route111_Text_VictorPostBattle:
-	.string "Hey, all!\n"
-	.string "I've found a pretty strong Trainer!$"
+	.string "Huerk.\n"
+	.string "Victoria! Belt den 112!$"
 
 Route111_Text_VictoriaIntro:
-	.string "Oh, my goodness! Aren't you young?\p"
-	.string "You must be quite the Trainer to beat\n"
-	.string "my husband, though.\p"
-	.string "It's my turn to battle now!$"
+	.string "Mijne vint kun nog e bitje zoagn.\p"
+	.string "Dien verliest nwoois.\n"
+	.string "Jes alsan toevallig plots ziek.\p"
+	.string "VRÉ toevallig ajet min vroagt!$"
 
 Route111_Text_VictoriaDefeat:
-	.string "Oh, gosh!\n"
-	.string "I can't get over how strong you are!$"
+	.string "Ja amai zeg!\n"
+	.string "Chanceke?$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "There's a strong Trainer here!\n"
-	.string "This one's really strong!$"
+	.string "Oké! Vivi! Stop me Naruto kiekn.\n"
+	.string "Der stoat ier een feitelik deftige\l"
+	.string "Temmer vo de deure!$"
 
 Route111_Text_ViviIntro:
-	.string "You're stronger than Mommy? Wow!\p"
-	.string "But I'm strong, too!\n"
-	.string "Really! Honestly!$"
+	.string "Gie èt ons moeder versloan? Wow!\p"
+	.string "Mo ier stopt et!\n"
+	.string "Ti woar whe!$"
 
 Route111_Text_ViviDefeat:
-	.string "Huh? Did I just lose?$"
+	.string "SASUKEEEEEEEEEEEEEE!$"
 
 Route111_Text_ViviPostBattle:
-	.string "This stinks…\p"
-	.string "…Snivel… Grandma!$"
+	.string "Snik…oma Vickyyy!!\p"
+	.string "…kiekt na dien baka!$"
 
 Route111_Text_VickyIntro:
-	.string "How dare you make my granddaughter\n"
-	.string "cry!\p"
-	.string "For that, I'm going to smack you!\n"
-	.string "Prepare to lose!$"
+	.string "Allo? Baka?\n"
+	.string "Woar bennekik.\p"
+	.string "...........!\n"
+	.string "Heh?!$"
 
 Route111_Text_VickyDefeat:
-	.string "Kwah! You are strong…\n"
-	.string "My granddaughter was right…$"
+	.string "…\n"
+	.string "Waar ben ik…$"
 
 Route111_Text_VickyPostBattle:
-	.string "If you're not in any hurry,\n"
-	.string "visit with us awhile.$"
+	.string "AH!\n"
+	.string "Komdje nie binnen vo een taske thee?$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "If you don't raise your Pokémon some\n"
-	.string "more, it could be tough to keep winning\l"
-	.string "up through the ranks.\p"
-	.string "I've heard the Pokémon League's\n"
-	.string "Elite Four are far stronger than\l"
-	.string "any Gym Leader.$"
+	.string "Bluvn goan.\n"
+	.string "Jist alle gyms.\l"
+	.string "Ton den Elite Vier.\p"
+	.string "Ik èn 'k ik oren zeggen é,\n"
+	.string "de Liga, den Elite Vier é,\l"
+	.string "die moakn al die Gym Leidrs kapot.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "I challenged the Winstrate family,\n"
-	.string "but four matches in a row is tough\l"
-	.string "going… They destroyed me.$"
+	.string "Fakkers.\n"
+	.string "Jin vo jin, ça va.\l"
+	.string "Ma ALLE VIER? TEHELIK?.$"
 
 Route111_Text_RouteSignMauville:
-	.string "Route 111\n"
-	.string "{DOWN_ARROW} Mauville City$"
+	.string "Boane 111\n"
+	.string "{DOWN_ARROW} Knokke$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Our family's hearts beat as one!”\n"
-	.string "The Winstrate's House$"
+	.string "“Vulle pulle in uw mulle!”\n"
+	.string "Het huis Winstrate$"
 
 Route111_Text_RouteSign112:
-	.string "Route 111\n"
-	.string "{LEFT_ARROW} Route 112$"
+	.string "Boane 111\n"
+	.string "{LEFT_ARROW} Boane 112$"
 
 Route111_Text_RouteSign113:
-	.string "Route 111\n"
-	.string "{LEFT_ARROW} Route 113$"
+	.string "Boane 111\n"
+	.string "{LEFT_ARROW} Boane 113$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "Old Lady's Rest Stop\n"
-	.string "“Come in and rest your tired bones.”$"
+	.string "WAARSCHUWING: ODDE HEKS\n"
+	.string "“Stop me mie een odde heks te noemn.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "Trainer Tips\p"
-	.string "One of the indicators of a Pokémon's\n"
-	.string "powerfulness is Sp. Atk. It stands for\l"
-	.string "“Special Attack.”\p"
-	.string "Likewise, Sp. Def stands for “Special\n"
-	.string "Defense.”$"
+	.string "Temmer Tips\p"
+	.string "Wil je weten hoe sterk een Pokémon is?\n"
+	.string "Kijk dan naar het Sp. Atk.,\l"
+	.string "oftewel “Speshioaln Attak.”\p"
+	.string "Zo ook staat Sp. Def voor “Speshioaln\n"
+	.string "Defense.”\p"
+	.string "{PLAYER}: De skrivver van die tips,\n"
+	.string "ting mie dat ie wok ne “Speshioaln” es.$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "There should be a tower made of sand\n"
