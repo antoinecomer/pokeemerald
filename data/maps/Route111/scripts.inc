@@ -653,7 +653,7 @@ Route111_Text_ToughToKeepWinningUpTheRanks:
 Route111_Text_WinstrateFamilyDestroyedMe:
 	.string "Fakkers.\n"
 	.string "Jin vo jin, ça va.\l"
-	.string "Ma ALLE VIER? TEHELIK?.$"
+	.string "Ma ALLE VIER? TEHELIK?$"
 
 Route111_Text_RouteSignMauville:
 	.string "Boane 111\n"

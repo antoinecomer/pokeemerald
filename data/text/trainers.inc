@@ -25,7 +25,7 @@ Route102_Text_CalvinRematchIntro:
 	.string "Gie woart min jiste rivoal.\n"
 	.string "Kèn dag en nacht hetraind jong..\l"
 	.string "{PLAYER}: Wie zieje gie zelfs?\p"
-	.string "Calvin: … … … … … … … … …"
+	.string "Calvin: … … … … … … … … …\n"
 	.string "Mutn! Tes Calvin!! Vergit et nie!$"
 
 Route102_Text_CalvinRematchDefeated:
@@ -51,8 +51,8 @@ Route102_Text_AllenPostBattle:
 
 Route102_Text_RickIntro:
 	.string "Hahah! Gèt hekeken!\n"
-	.string "Witje wada betekent?\lp”
-	.string “Batteringe! Tehen al min insectn!$"
+	.string "Witje wada betekent?\lp"
+	.string "Batteringe! Tehen al min insectn!$"
 
 Route102_Text_RickDefeated:
 	.string "Mohow!$"
@@ -125,7 +125,7 @@ Route103_Text_LivNotEnoughPokemon:
 
 Route103_Text_AmyRematchIntro:
 	.string "Amy: Kzehhe ‘eeeey’.\n"
-	.string "Eeeey-mie! En da is me soaie zus, Liv.\l"
+	.string "Eey-mie! En da is me soaie zus, Liv.\l"
 	.string "We battern soamn!$"
 
 Route103_Text_AmyRematchDefeated:
@@ -179,19 +179,19 @@ Route103_Text_MiguelIntro:
 
 Route103_Text_MiguelDefeated:
 	.string "Mijn schatjes!\n"
-	.string "Van patatjes!\p”
-	.string “Allez, min Pokémons!$"
+	.string "Van patatjes!\p"
+	.string "Allez, min Pokémons!$"
 
 Route103_Text_MiguelPostBattle:
 	.string "Min Pokémons ziender echt\n"
-	.string "koddihh ut! Zelf als ze\l”
-	.string “bewustelos zin.\p”
-	.string “{PLAYER}: …$"
+	.string "koddihh ut! Zelf als ze\l"
+	.string "bewustelos zin.\p"
+	.string "{PLAYER}: …$"
 
 Route103_Text_MiguelRegister:
 	.string "Volgende ke goak winnen,\n"
-	.string "ton zin ze extra schattig!\p”
-	.string “En bringn ze iets ip.$"
+	.string "ton zin ze extra schattig!\p"
+	.string "En bringn ze iets ip.$"
 
 Route103_Text_MiguelRematchIntro:
 	.string "Ey, gie! Min schattige Pokémons\n"
@@ -203,8 +203,8 @@ Route103_Text_MiguelRematchDefeated:
 
 Route103_Text_MiguelRematchPostBattle:
 	.string "Oe mjir da ze schattig zin,\n"
-	.string "oe mjir dakkik schattig wurdn.\p”
-	.string “En ZEKER me min utsproak.$"
+	.string "oe mjir dakkik schattig wurdn.\p"
+	.string "En ZEKER me min utsproak.$"
 
 Route103_Text_PeteIntro:
 	.string "Dien afstand joegne…\n"
@@ -227,8 +227,8 @@ Route103_Text_IsabelleDefeated:
 
 Route103_Text_IsabellePostBattle:
 	.string "Was ik moar ne vis…\n"
-	.string "Wacht e ke.\l”.
-	.string "Zoudn vissen ook in elkoar crashen?.$"
+	.string "Wacht e ke.\l"
+	.string "Zoudn vissen ook in elkoar crashen?$"
 
 Route103_Text_RhettIntro:
 	.string "Whow! Yow!\n"
@@ -243,8 +243,8 @@ Route103_Text_RhettPostBattle:
 	.string "Bitje claustrofobisch nje?$"
 
 Route103_Text_MarcosIntro:
-	.string "Check et ut, min nieuw liedje..\p”
-	.string “Toeedei’s gonna bie de deei…$"
+	.string "Check et ut, min nieuw liedje..\p"
+	.string "Toeedei’s gonna bie de deei…$"
 
 Route103_Text_MarcosDefeated:
 	.string "Mohow, min jin-man-show…$"
@@ -282,8 +282,8 @@ Route104_Text_MiaPostBattle:
 	.string "d’onze zin nauweliks zindelik.$"
 
 Route104_Text_MiaNotEnoughMons:
-	.string "Mia: Twji Pokémons of skart em.\p”
-	.string “Mutn.$"
+	.string "Mia: Twji Pokémons of skart em.\p"
+	.string "Mutn.$"
 
 Route104_Text_IvanIntro:
 	.string "Why keep it a secret?\n"

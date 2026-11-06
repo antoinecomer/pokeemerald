@@ -44,7 +44,7 @@ Route110_TrickHousePuzzle4_Text_CoraDefeat:
 	.string "Daddak nie gepeist!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Hmmmmmmmmm...\$"
+	.string "Hmmmmmmmmm...$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
 	.string "Heh! Die rotsen duwen.\n"
