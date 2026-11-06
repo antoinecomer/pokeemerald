@@ -49,7 +49,7 @@ Route111_OldLadysRestStop_Text_RestUpHere:
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
 	.string "Hèt helik.\n"
-	.string "Die gie e tukske!$"
+	.string "Doe gie e tukske!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
 	.string "Oh, momo, rust ut.\n"
