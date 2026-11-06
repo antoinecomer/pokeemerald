@@ -660,7 +660,7 @@ Route111_Text_RouteSignMauville:
 	.string "{DOWN_ARROW} Knokke$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "“Vulle pulle in uw mulle!”\n"
+	.string "“Vulle pulle ip uw mulle!”\n"
 	.string "Het huis Winstrate$"
 
 Route111_Text_RouteSign112:

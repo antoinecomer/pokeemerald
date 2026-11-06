@@ -36,26 +36,30 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 	end
 
 Route111_OldLadysRestStop_Text_PokecenterChallenge:
-	.string "Sorry, you are playing\n"
-	.string "with the Pokécenter challenge!$"
+	.string "SEG!\n"
+	.string "Gie doe wel de Pokécenter utdoagink!$"
 
 Route111_OldLadysRestStop_Text_RestUpHere:
-	.string "Oh, dear, dear.\n"
-	.string "Aren't your Pokémon exhausted?\p"
-	.string "If you'd like, rest up here.\n"
-	.string "That's a fine idea! You should do that.$"
+	.string "Oh, momo, rust ut.\n"
+	.string "Pakt u een theetje, me hember.\p"
+	.string "Aje wilt, doe gie e tukske.\n"
+	.string "'t Leevn goat al zo snelle.\p"
+	.string "'Es belangrik van soms wok te\n"
+	.string " vertroagn.$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
-	.string "That's right.\n"
-	.string "Take your time and rest up!$"
+	.string "Hèt helik.\n"
+	.string "Die gie e tukske!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
-	.string "Oh, dear, dear.\n"
-	.string "Are your Pokémon still tired?\p"
-	.string "You should take another rest here.\n"
-	.string "That's a fine idea. You should do that.$"
+	.string "Oh, momo, rust ut.\n"
+	.string "Pakt u een theetje, me hember.\p"
+	.string "Aje wilt, doe gie nog e tukske.\n"
+	.string "'t Leevn goat al zo snelle.\p"
+	.string "'Es belangrik van soms wok te\n"
+	.string " vertroagn.$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
-	.string "Is that so?\n"
-	.string "You don't need to be shy about it.$"
+	.string "Aja?\n"
+	.string "Moe nie beschomd zin whé.$"
 
