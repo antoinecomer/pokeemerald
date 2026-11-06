@@ -686,54 +686,53 @@ Route111_Text_TrainerTipsSpAtkSpDef:
 	.string "ting mie dat ie wok ne “Speshioaln” es.$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "There should be a tower made of sand\n"
-	.string "around here somewhere.\p"
-	.string "But for some reason, it can be seen\n"
-	.string "sometimes, and sometimes not.\p"
-	.string "That's why I call it the Mirage Tower.$"
+	.string "Ik ziene....\n"
+	.string "juste nietn.\p"
+	.string "Éel soms é, sommigste kjern,\n"
+	.string "kundje de Mirage Toren zien.\p"
+	.string "Ma nu algelik nie.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "I see it!\n"
-	.string "The tower of sand!\p"
-	.string "The sand tower they called a mirage\n"
-	.string "is clearly visible!\p"
-	.string "But it looks so fragile…\n"
-	.string "It could crumble away anytime…\p"
-	.string "I want to go inside it, but I can't\n"
-	.string "get my courage up for it…$"
+	.string "De zandtoren! 't Zal hin woar zin!\n"
+	.string "De MIRAGE TOREN!\p"
+	.string "JIS DA! EINDELIK!\n"
+	.string "Ie ziet er wel fragiel ut!\p"
+	.string "'t Zou zjirre kunn' instortn…\p"
+	.string "'k Probere min moed bie-een te roapn\n"
+	.string "om mie te smitn…$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Whoa…\n"
-	.string "That was shocking.\p"
-	.string "Sand rained down in chunks all of\n"
-	.string "a sudden.\p"
-	.string "What was it like inside?\n"
-	.string "Were there sandy ghosts and such?$"
+	.string "Whow…mohow zeg…\n"
+	.string "Da wa nohal ntwadde.\p"
+	.string "Da vurt zand, da krupt overal in.\n"
+	.string "In m'n oren, zelf in min slip.\p"
+	.string "Oe wast daar eigenlik binnen?\n"
+	.string "Eje Mr. Sandman heziene?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
-	.string "Since I spoke to you, the tower of sand\n"
-	.string "hasn't been seen.\p"
-	.string "Perhaps it really was\n"
-	.string "the Mirage Tower…$"
+	.string "Sinds da we wudder hebabbeld èn,\n"
+	.string "ékkik die toren nwoois mé hezien.\p"
+	.string "Miskien wast een fanta morhana?\n"
+	.string "Een fatwa mor-, een fajita cubana…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "The Claw Fossil disappeared into\n"
-	.string "the sand…$"
+	.string "Et Klauw Fossiel zakte in 't\n"
+	.string "zand… RIP!$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "The Root Fossil disappeared into\n"
-	.string "the sand…$"
+	.string "Et Wortel Fossiel zakte in 't\n"
+	.string "zand… RIP!$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
-	.string "Oh, no!\p"
-	.string "My uncle in Mauville told me to take\n"
-	.string "Rock Smash with me if I was going to\l"
-	.string "Route 111!\p"
-	.string "My uncle? He lives across from\n"
-	.string "the bike shop in Mauville.$"
+	.string "Mo godver de godvert!\p"
+	.string "Aj door dien tunnel wil,\n"
+	.string "eje wel Rock Smash nodig zekerst?\l"
+	.string "Putain moat ik mag HJIL TE VOETE WEERE!\p"
+	.string "Echt woar, alweer e hjille misse\n"
+	.string "van de poké-over'eid ajt mie vroagt.$"
 
 Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} Trainer Hill Entrance\p"
-	.string "“Scale the heights, you hot-blooded\n"
-	.string "Trainers!”$"
+	.string "{RIGHT_ARROW} Temmer Heuvel inhank\p"
+	.string "“De skaai is de limiet é zeg!\n"
+	.string "Dajt mo weet!”$"
 
